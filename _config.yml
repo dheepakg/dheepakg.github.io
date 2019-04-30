@@ -26,9 +26,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
-#Added by me for tagging
-tag_page_layout: tag_page
-tag_page_dir: tag
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
