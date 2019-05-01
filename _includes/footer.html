@@ -4,25 +4,13 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col one-half">
-      <h2 class="footer-heading"></h2>
-        <ul class="contact-list">
-          <li class="p-name">
+      <div class="footer-col one-half">    </div>
 
-<a href="https://www.goodreads.com/review/list/8815523-dheepak?shelf=currently-reading">Currently Reading</a>
-            </li>
-           
-        </ul>
+<div id="block container">
+      <div align="left"> {{- site.description | escape -}}  </div>
+      <div align="right"> {%- include social.html -%} </div>
+</div>
       </div>
-
-      <div class="footer-col one-half">
-        <p>{{- site.description | escape -}}</p>
-      </div>
-
-      <div class="social-links">
-        {%- include social.html -%}
-      </div>
-    </div>
 
   </div>
 
