@@ -6,9 +6,9 @@ categories: Climate Change
 Tags: Why?
 ---
 
-We all know the Climate change is real and happening now. This is a threat to the *Human species*. Yes, its a threat to the species not the entire planet. Why not we as a species cannot survive this? The nature will adapt to the changes. But, the new earth will no way close to the one we have now. Also, we got deviated from the natural evolution. Our life became sophisticated, without the necessary infrastructure we will kill ourself in the name of depression. So, we have to fight the Climatic changes.
+We all know the Climate change is real and happening now. This is a threat to the *Human species*. Yes, it's a threat to the species not the entire planet. Why not we as a species cannot survive this? The nature will adapt to the changes. But, the new earth will no way close to the one we have now. Also, we got deviated from the natural evolution. Our life became sophisticated, without the necessary infrastructure we will kill ourself in the name of depression. So, we have to fight the Climatic changes.
 
-#### What have we did till now?
+#### What have we have done till now?
 Through UN, we had treaties to combat the catastrophe.  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1987 - Montreal Protocol   
@@ -39,3 +39,12 @@ Socialism works when you have a strong leader, more like a dictator. Unfortunate
 
 We have been accustomed to capitalistic values in last several decades. So, to rally the entire species on a an agenda, you would need a money-factor.
 There should be a global bank formed to sponsor the battle against the climate change. And also, penalises the nations that contributes to the Climate changes.
+
+
+### Who should pay what?
+
+It's absurd to expect a developing nation to invest huge sum in exploring renewable source. The developed nations should contribute the resource both financial & research and exploration. This can be only synergy towards the greater good. The argument should not be *us vs them* rather it should be *we*. If not we work together there is no way to avert this calamity.
+
+
+### Are we ready to work together, yet?
+No. We are intrinsically fed with *dont-repair-if-its-not-broken* attitude. We would have more concrete action plans only if something drastic happens.
