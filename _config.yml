@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dheepak\'s blog
+title: Dheepak/'s blog
 email: 
 description: This is my personal blog. The posts would be a mixed bag just like my interests
 baseurl: "" # the subpath of your site, e.g. /blog
