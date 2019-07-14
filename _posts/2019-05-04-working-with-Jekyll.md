@@ -3,6 +3,7 @@ layout: post
 title: "Starting with Jekyll"
 date: 2019-05-04 22:02:00 +0530
 categories: Technology
+comments: true
 ---
 
 It's cool to have a personal website. As a novice, where to start? The cheapest, practical and programmatic option is [Github Pages](https://pages.github.com/)

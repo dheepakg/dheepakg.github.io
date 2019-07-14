@@ -3,6 +3,7 @@ layout: post
 title:  "EVMs should be avoided for Indian elections - Why?"
 date:   2019-04-26 19:47:17 +0530
 categories: [Politics, Technology]
+comments: true
 ---
 As a country, 1990's are changing times for India. The nation saw some of the interesting transformations, which would be an unimaginable tale even a decade earlier for Geo-political experts. The changes ranges from Economic stance of the country to opening up to private cable channels to introduction of Internet to the masses (the snail-paced dial-ups).
 

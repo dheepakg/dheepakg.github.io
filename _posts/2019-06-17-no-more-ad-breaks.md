@@ -4,6 +4,7 @@ title:  "No more Ad breaks - thanks Pi-hole"
 date:   2019-06-17 20:12:27 +0530
 categories: DIY
 Tags: Raspberry Pi, Ads
+comments: true
 ---
 
 While browsing through Raspberry Pi's sub in Reddit, I came across [Pi-hole](https://pi-hole.net/).

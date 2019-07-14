@@ -3,6 +3,7 @@ layout: post
 title: "First serious project that has some rational application"
 date: 2019-05-29 23:15:00 +0530
 categories: Project, Hobby
+comments: true
 ---
 
 

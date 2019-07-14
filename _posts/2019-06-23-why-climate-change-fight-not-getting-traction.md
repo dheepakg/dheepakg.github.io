@@ -4,6 +4,7 @@ title:  "Fight against Climate Change is not getting traction - Why?"
 date:   2019-06-23 11:17:27 +0530
 categories: Climate Change
 Tags: Why?
+comments: true
 ---
 
 We all know the Climate change is real and happening now. This is a threat to the *Human species*. Yes, it's a threat to the species not the entire planet. Why not we as a species cannot survive this? The nature will adapt to the changes. But, the new earth will no way close to the one we have now. Also, we got deviated from the natural evolution. Our life became sophisticated, without the necessary infrastructure we will kill ourself in the name of depression. So, we have to fight the Climatic changes.
