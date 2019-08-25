@@ -2,7 +2,8 @@
 layout: post
 title: "Starting with Jekyll"
 date: 2019-05-04 22:02:00 +0530
-categories: Technology
+categories: Programming
+Tags: Meta
 comments: true
 ---
 

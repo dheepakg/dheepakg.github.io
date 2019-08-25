@@ -3,7 +3,7 @@ layout: post
 title:  "Yes, humanity exists"
 date:   2019-07-22 23:17:27 +0530
 categories: Experience
-Tags: Bliss
+Tags: Feel Good
 comments: true
 ---
 
@@ -51,4 +51,4 @@ My copassenger could be in his late 50s, kept his head nearer to the aisle. The 
 
 Again, this guy is not a well todo guy. He earns his money by selling tea. There was no need for him to waste his energy and time advising some random travller, who not even did a business.
 
-Acknowledging for a small help or showing honesty even though there is no one expecting it from you or showing empathy for an unknown person. I was proven wrong. The humanity thriving. That too in front of our eyes. We are the one failed to notice its existence. 
+Acknowledging for a small help or showing honesty even though there is no one expecting it from you or showing empathy for an unknown person. I was proven wrong. The humanity thriving. That too in front of our eyes. We are the one failed to notice its existence.
