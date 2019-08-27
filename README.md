@@ -1,2 +1,2 @@
 # dheepakg.github.io
-Source for [dheepakg.github.io](https://dheepakg.github.io/)
+Source code for [dheepakg.github.io](https://dheepakg.github.io/)
