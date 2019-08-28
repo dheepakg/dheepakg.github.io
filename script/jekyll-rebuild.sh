@@ -21,8 +21,8 @@ git clone https://${GH_TOKEN}@github.com:dheepakg/dheepakg.github.io.git --branc
 
 # push empty commit
 cd _site
-git config user.email "your@email.com"
-git config user.name "Your_Username"
+git config user.email "sslvgdek@gmail.com"
+git config user.name "dheepakg"
 git commit -a -m "rebuild pages" --allow-empty
 git push origin master
 
