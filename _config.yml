@@ -26,6 +26,7 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 
 # To schedule a post for a future update
 
