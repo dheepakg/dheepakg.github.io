@@ -13,10 +13,8 @@ layout: default
 
       <div class="post-meta">
         <ul class="post-categories">        </ul>
-        {% capture time %}{{ content | reading_time }}{% endcapture %}
 
-        {% capture time %}{{ content | reading_time }}{% endcapture %}
-
+  
       <div class="post-read">{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}  read </div>
 
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
