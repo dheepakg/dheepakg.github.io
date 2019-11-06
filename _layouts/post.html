@@ -14,9 +14,10 @@ layout: default
       <div class="post-meta">
         <ul class="post-categories">        </ul>
 
-  
-      <div class="post-read">{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}  read </div>
+<!--        {% capture time %}{{ content | reading_time }}{% endcapture %}
 
+      <div class="post-read">{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}  read </div>
+-->
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <div class="post-date">{{ page.date | date: date_format }}</div>
       </div>
