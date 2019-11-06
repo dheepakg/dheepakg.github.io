@@ -1,8 +1,18 @@
 ---
 layout: default
 ---
-<div class="post-container">
-    <div class="post">
-        {{ content }}
-    </div>
-</div>
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  {% capture time %}{{ content | reading_time }}{% endcapture %}
+
+  <div class="post-read">{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}  read </div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
