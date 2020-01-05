@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The 2010s"
+title: "The 2010s - Part 1"
 date: 2020-01-05 14:14:27 +0530
 categories: Experience
 Tags: Life, Rewind
@@ -20,9 +20,9 @@ Technology deserves a special mention here. I'd a habit of trying out apps from 
 
 Also, this decade I got a quite a number of gadgets -
 
-- Macbook Pro (the 3<sup>rd</sup> laptop of the decade)
-- Pixel 2 (the 5<sup>th</sup> smartphone)
-- JBL Endurance BT (the 2<sup>nd</sup> BT headset)
+- Macbook Pro
+- Pixel 2
+- JBL Endurance BT
 - Kindle PaperWhite
 - PS4
 - Google Mini
@@ -43,11 +43,17 @@ Thanks to the changing time. This decade enabled the naive-me to accustom with a
 I was _not_ so fluent in my UG domain - Electrical. While joining the IT firm, I completely forgotten the some electrical knowledge and started learning _the Computer_. I wouldn't call myself an expert in Computer, but nonetheless I am doing better than a decade. The SQL, Cloud, Enterprise Software, Big Data, Programming, Flame war all happened in this period.
 
 [comment]: <> (TV Series & books)
-Books deserves a special mention. The first half of the decade was maniac period of reading, thanks to the long(4-9 hrs) power cuts. I was not a fan of ebooks then, used to buy 2<sup>nd</sup> hand books. The price was the only concern then. Looking back, I should have bought the new ones and kept it for my home-library.
+Books deserves a special mention. The first half of the decade was period of maniac reading, thanks to the long(4-9 hrs) power cuts. I was not a fan of ebooks then, used to buy 2<sup>nd</sup> hand books. The price was the only concern then. Looking back, I should have bought the new ones and kept it for my home-library.
 
 Thanks to the smartphone craze, I did read few ebooks, [Ghost in the Wires](https://www.amazon.in/dp/B00FOQS8D6/). It's an autobiography of [Kevin Mitnick](https://en.wikipedia.org/wiki/Kevin_Mitnick), a former hacker and security consultant. This highlight is he [replied](https://twitter.com/kevinmitnick/status/201382440755933185) and _[followed](%28/assets/images/kevin-mitnick-follows.png%29) me back_ in the Twitter.
 
-[comment]: <> (Major life events - Marriage)
-This decade is too special for me. It sent me abroad for onsite assignment, that too to the US of America. The first time getting into the large international flight, looking down the ice covered land mass, reaching the hotel from airport. Those were the days I would recollect in my old age, got forbid, the memory stays intact. The 2 year stay, understanding the culture, interacting with multi-cultural environment, taking domestic flight to reach the friends, realizing how much I was missing the family and friends, the experience-in-steroids.
+Before 2011, I never knew the existence of TV series. Thanks to [Vignesh](https://twitter.com/nvkarthik24), I got introduced to White Collar, that's how the addiction started. One point of time I was binge watching just to forget loneliness and winter depression. So many hours spent on Netflix, Prime and VLC player, the addiction still persists.
 
-Then the end of decade saw another important life event, I got married. While writing this its not even a month got completed. That's another experience which I will be explaining more in revisiting year '20.
+December, 2015. The onset of [Chennai flood](https://en.wikipedia.org/wiki/2015_South_Indian_floods). The first calamity that I experienced from a close proximity. I don't think I'll forget the events anytime soon. The way we vacated our flat and crossed couple of kilometers on foot to run away from the impending flood, made me to reconsider the agony each refugees goes through. The scene was something like this [video @ 38 second](https://youtu.be/HjNsz1yQ6Mo?t=38) mark. The flood has affected everything from food supply to mobile network, public transport to airport. To give perspective, the usual 40 minute commute took 4 1/2 hours.
+
+[comment]: <> (Major life events - Marriage)
+This decade is too special for me. I went abroad for onsite assignment, that too to the US of America. The first time getting into the large international flight, looking down the ice covered land mass, reaching the hotel from airport. Those were the days I would recollect in my old age, got forbid, the memory stays intact. The 2 year stay, understanding the culture, interacting with multi-cultural environment, taking domestic flight to reach the friends, realizing how much I was missing the family and friends, the experience-in-steroids.
+
+Then the end of decade saw another important life event, marriage. While drafting the post, its not even a month got completed. That's another experience which I will be explaining more in revisiting year '20.
+
+Thank you 2010s, you have been a pleasant to me, even though there were quite few dreadful events.
