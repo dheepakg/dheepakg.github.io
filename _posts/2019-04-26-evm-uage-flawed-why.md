@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "EVMs should be avoided for Indian elections - Why?"
-date:   2019-04-26 19:47:17 +0530
+title: "EVMs should be avoided for Indian elections - Why?"
+date: 2019-04-26 19:47:17 +0530
 categories: Politics, Technology
 Tags: Why?
 comments: true
 ---
+
 As a country, 1990's are changing times for India. The nation saw some of the interesting transformations, which would be an unimaginable tale even a decade earlier for Geo-political experts. The changes ranges from Economic stance of the country to opening up to private cable channels to introduction of Internet to the masses (the snail-paced dial-ups).
 
 The election commission too hopped into the transformation train. From the conventional paper based ballot, the Electronic Voting Machines were introduced. As like any other new stuff, this was unwelcomed by many, especially every losing party started blaming on the foul play surrounding the EVM. To mitigate the foul play, as a 2nd level defense, the EC introduced [VVPAT system](https://economictimes.indiatimes.com/news/elections/lok-sabha/india/what-is-vvpat/articleshow/68667136.cms). Here, a paper trail is maintained alongside the digital recording of voting.
@@ -28,7 +29,7 @@ The point of failure for the EVMs are quite a handful,
 3. Some coding error while writing the embedded system of the backend, which might have escaped the testing.
 4. [Infiltrating into the chip during its fabrication](https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies), may sound far fetched, but its already a reality.
 5. A power surge could fry the hardware, we don't know whether the device is properly protected as the design is not open sourced.
-So, if some intrusion takes place are we well equipped to handle them?
+   So, if some intrusion takes place are we well equipped to handle them?
 
 We have [Meity](https://meity.gov.in/) and [Cert-in](https://www.cert-in.org.in/) to deal with Information Security. Of which, Cert is for the handling the cyber emergencies. This may be rhetoric but, the experts in cyber defense may not stay with government bodies, dealing with the prevailing red tapes.
 
