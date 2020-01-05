@@ -1,0 +1,12 @@
+---
+layout: post
+title: "The 2010s - Part 2"
+date: 2020-01-05 14:14:27 +0530
+categories: Experience
+Tags: Life, Rewind, Photos
+comments: true
+---
+
+| [1-training-days.jpeg](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/2010s/1-training-days.jpeg) |
+| :-----------------------------------------------------------------------------------------------------------------------------------: |
+|                                                       _2011 The Training Days_                                                        |
