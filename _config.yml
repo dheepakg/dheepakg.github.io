@@ -15,7 +15,7 @@ minima:
   # generate social links in footer
   social_links:
     twitter: deegovee
-    github:  dheepakg
+    github: dheepakg
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
@@ -30,7 +30,6 @@ minima:
     # googleplus: +jekyll
     # microdotblog: jekyll
     # keybase: jekyll
-
     # Mastodon instances
     # mastodon:
     # - username: jekyll
@@ -41,14 +40,16 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
- - about.md
- - report.md
+  - about.md
+  - report.md
 
 # Build settings
 theme: minima
 
+my_disqus_shortname:
+  - hgh
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
- - jemoji
- - liquid_reading_time
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - liquid_reading_time
