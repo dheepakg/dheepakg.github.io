@@ -2,7 +2,7 @@ title: Dheepak's blog
 author: Dheepak
 #email: your-email@domain.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  A blog on my political views, daily mistakes and so much more 
+  A blog on my political views, daily mistakes and so much more
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
@@ -42,6 +42,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
  - about.md
+ - report.md
 
 # Build settings
 theme: minima

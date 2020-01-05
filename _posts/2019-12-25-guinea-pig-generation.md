@@ -40,5 +40,3 @@ Another study states otherwise.
 
 As the argument goes on for and against the harmful effects of mobile phone exposure, the mobile phone expansion goes on break-neck speed.
 This long running experiment would conclude in next few decades, then no matter the result we will be facing the consequences.
-
-To be continued..
