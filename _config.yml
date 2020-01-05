@@ -46,8 +46,6 @@ header_pages:
 # Build settings
 theme: minima
 
-my_disqus_shortname:
-  - hgh
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
