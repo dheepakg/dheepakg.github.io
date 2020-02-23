@@ -23,7 +23,7 @@ All things set, after bootstrapping, the EMR is ready to be connected. And then,
 
 
 
-**Footnotes**
+**Footnotes**   
 <b id="f1">1.</b> 1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance. Below are the cluster details.    [↩](#a1)
 
 | Master        | Core          | Spot Pricing |
