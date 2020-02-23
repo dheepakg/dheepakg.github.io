@@ -9,7 +9,7 @@ comments: true
 
 I've been working with Big data since 2017. As I'm from data warehousing background, it was easier for me to understand what's what, and build an analogy between DWH & big data frameworks. However, the various file formats used in HDFS always caught me off guard.
 
-In DWH, I never considered how the files are stored in DB, it's managed by the database, maybe DBA might know how its done at the backend, as a DB developer it never bothered me. However, in HDFS we have several types of formats to choose from - _Avro, ORC & Parquet._
+In DWH, I never considered how the files are stored in DB, it's managed by the database, maybe DBA might know how its done at the backend, as a DB developer it never bothered me. However, in HDFS we have several types of formats to choose from - _Avro, ORC & Parquet._ The best way to understand something is to spend time with it. So, decided to see how the different files behave for same data.
 
 
 To see the performance of the file formats, I decided to load the same data in different formats. Identifying the dataset to work with took lots of time. While looking for the data came across a wonderful article to discover free dataset for data science related purpose in [Dataquest's blog](https://www.dataquest.io/blog/free-datasets-for-projects/). I was looking for a csv file with approximately 1 GB of size. I couldn't finalize on the dataset and then my friend suggested [movie lens data](http://files.grouplens.org/datasets/movielens/). Size wise its not close to my requirement, but 500+ MB is good enough.
