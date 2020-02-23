@@ -29,9 +29,9 @@ Observations
 | ORC      | 129.6 | 109.97 | 4.286  | 0.075 |
 | Parquet  | 307.7 | 58.873 | 17.709 | 0.091 |
 
-
-_Note_ The entire metrics are obtained while executing queries on Hive with tez engine.
-
+<br> </br>  
+ *Note:* The entire metrics are obtained while executing queries on Hive with tez engine.
+<br> <br><br>
 **References **.   
 <b id="f1">1.</b> 1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance. Below are the cluster details.    [↩](#a1)
 
