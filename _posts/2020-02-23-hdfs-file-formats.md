@@ -14,7 +14,7 @@ In DWH, I never considered how the files are stored in DB, it's managed by the d
 
 To see the performance of the file formats, I decided to load the same data in different formats. Identifying the dataset to work with took lots of time. While looking for the data came across a wonderful article to discover free dataset for data science related purpose in [Dataquest's blog](https://www.dataquest.io/blog/free-datasets-for-projects/). I was looking for a csv file with approximately 1 GB of size. I couldn't finalize on the dataset and then my friend suggested [movie lens data](http://files.grouplens.org/datasets/movielens/). Size wise its not close to my requirement, but 500+ MB is good enough.
 
-We got the data, next ingredient to the dish would be HDFS cluster - AWS EMR. The biggest fear in choosing AWS paid service is the [fear of overwhelming billing](https://dev.to/juanmanuelramallo/i-was-billed-for-14k-usd-on-amazon-web-services-17fn) by the book seller.  Hiding the fear, took a smallest possible EMR cluster<sup id="a1">[1](#f1)</sup>, with single master & core node, I did went ahead with the operation.
+We got the data, next ingredient to the dish would be HDFS cluster - AWS EMR. The biggest fear in choosing AWS paid service is the [fear of overwhelming billing](https://dev.to/juanmanuelramallo/i-was-billed-for-14k-usd-on-amazon-web-services-17fn) by the book seller.  Hiding the fear, took a smallest possible EMR cluster<sup id="a1">[1](#f1)</sup>. With all the queries made ready before spinning up the cluster, I did went ahead with the operation.
 
 
 
@@ -22,4 +22,11 @@ We got the data, next ingredient to the dish would be HDFS cluster - AWS EMR. Th
 
 
 
-<b id="f1">1.</b> Master: m5.xlarge; Core: m5.xlarge; _Spot_ instead of _On Demand_ clusters  . [↩](#a1)
+**Footnotes**
+<b id="f1">1.</b>
+
+| Master        | Core          | Spot Pricing |
+| ------------- |:-------------:| ------------:|
+| m5.xlarge     | m5.xlarge.    | $0.064 per Hr|
+
+1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance  . [↩](#a1)
