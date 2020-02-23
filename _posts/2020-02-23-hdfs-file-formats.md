@@ -30,9 +30,9 @@ Observations
 | Parquet  | 307.7 | 58.873 | 17.709 | 0.091 |
 
 
+_Note_ The entire metrics are obtained while executing queries on Hive with tez engine.
 
-
-**Footnotes**.   
+**References **.   
 <b id="f1">1.</b> 1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance. Below are the cluster details.    [↩](#a1)
 
 | Master   | Core      | Spot Pricing |
