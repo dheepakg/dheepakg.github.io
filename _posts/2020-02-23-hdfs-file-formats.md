@@ -19,18 +19,16 @@ We got the data, next ingredient to the dish would be HDFS cluster - AWS EMR. Th
 
 
 
-
-```
-<a name="myfootnote1">1</a>: Footnote content goes here
-
-```
+<a name="myfootnote1">
 
 
-sfdffgghgjklfgdghjkljhgfdlkjh
+ Bla bla <sup id="a1">[1](#f1)</sup>
 
 
 
-```
-<sup>[1](#myfootnote1)</sup>
 
-```
+
+jhgvcxvbjkljhgfhjk
+
+
+<b id="f1">1</b> Footnote content here. [↩](#a1)
