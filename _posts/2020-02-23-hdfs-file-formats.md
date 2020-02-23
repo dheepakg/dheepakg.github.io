@@ -17,16 +17,18 @@ To see the performance of the file formats, I decided to load the same data in d
 We got the data, next ingredient to the dish would be HDFS cluster - AWS EMR. The biggest fear in choosing AWS paid service is the [fear of overwhelming billing](https://dev.to/juanmanuelramallo/i-was-billed-for-14k-usd-on-amazon-web-services-17fn) by the book seller.  Hiding the fear, took a smallest possible EMR cluster<sup id="a1">[1](#f1)</sup>. With all the queries made ready before spinning up the cluster, I did went ahead with the operation.
 
 
+All things set, after bootstrapping, the EMR is ready to be connected. And then, connection time out error embraced me while SSHing from EC2. After resolving the issue<sup id="a2">[2](#f2)</sup>, the entire usage of EMR went for 28 mins.
 
 
 
 
 
 **Footnotes**
-<b id="f1">1.</b>
+<b id="f1">1.</b> 1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance. Below are the cluster details.    [↩](#a1)
 
 | Master        | Core          | Spot Pricing |
 | ------------- |:-------------:| ------------:|
 | m5.xlarge     | m5.xlarge.    | $0.064 per Hr|
 
-1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance  . [↩](#a1)
+
+<b id="f2">2.</b> In the security group of EMR, inbound SSH connections were blocked. On allowing SSH, the connection is established.    [↩](#a2)
