@@ -22,7 +22,7 @@ All things set, after bootstrapping, the EMR is ready to be connected. And then,
 Observations
 
 
-|File Type| File Size (in MB) | Time taken to build table (in secs) | Time taken to calculate count( ) |Time taken to SELECT sample records<sup id="a4">[4](#f4)</sup> |
+|File Type| File Size (in MB) | Time taken to build table (in secs) | Time taken to calculate count(*) (in secs)|Time taken to SELECT sample records<sup id="a4">[4](#f4)</sup> (in secs)|
 |:---------|------:|-------:|-------:|--|
 | CSV      | 508.7 | 20.271 | 17.061 | 0.085 |
 | Avro     | 489.8 | 54.642 | 25.356 | 0.257 |
