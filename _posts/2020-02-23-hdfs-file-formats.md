@@ -31,8 +31,10 @@ Observations
 
 <br> </br>  
  *Note:* The entire metrics are obtained while executing queries on Hive with tez engine.
-<br> <br><br>
-**References **.   
+<br> </br>
+<br> </br>
+<br> </br>
+**References **   
 <b id="f1">1.</b> 1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance. Below are the cluster details.    [↩](#a1)
 
 | Master   | Core      | Spot Pricing |
