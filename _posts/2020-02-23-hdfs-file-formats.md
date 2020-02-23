@@ -19,10 +19,10 @@ We got the data, next ingredient to the dish would be HDFS cluster - AWS EMR. Th
 
 All things set, after bootstrapping, the EMR is ready to be connected. And then, *connection time out error* embraced me while SSHing from EC2. After resolving the issue<sup id="a3">[3](#f3)</sup>, the entire usage of EMR went for 28 mins.
 
-Observations
+**Observations**
 
 
-|File Type| File Size (in MB) | Time taken to build table (in secs) | Time taken to calculate count(*) (in secs)|Time taken to SELECT sample records<sup id="a4">[4](#f4)</sup> (in secs)|
+|File Type| File Size (in MB) | Time taken to build table (in secs) | Time taken to calculate count() (in secs)|Time taken to SELECT sample records<sup id="a4">[4](#f4)</sup> (in secs)|
 |:---------|------:|-------:|-------:|------:|
 | CSV      | 508.7 | 20.271 | 17.061 | 0.085 |
 | Avro     | 489.8 | 54.642 | 25.356 | 0.257 |
@@ -34,7 +34,8 @@ Observations
 <br> </br>
 <br> </br>
 <br> </br>
-**References **   
+
+**Footnotes**  
 <b id="f1">1.</b> 1 node of Master & Core is selected with _Spot_ instead of _On Demand_ instance. Below are the cluster details.    [↩](#a1)
 
 | Master   | Core      | Spot Pricing |
