@@ -2,7 +2,7 @@
 layout: post
 title:  "Comparison of various HDFS file formats"
 date:   2020-02-23 13:47:17 +0530
-categories: "HDFS File formats"
+categories: "HDFS-File-formats"
 Tags: avro, parquet, csv, json
 comments: true
 ---
@@ -29,7 +29,7 @@ All things set, after bootstrapping, the EMR is ready to be connected. And then,
 | ORC      | 129.6 | 109.97 | 4.286  | 0.075 |
 | Parquet  | 307.7 | 58.873 | 17.709 | 0.091 |
 
-<br> 
+<br>
  *Note:* The entire metrics are obtained while executing queries on Hive with tez engine.
 <br>
 <br>
