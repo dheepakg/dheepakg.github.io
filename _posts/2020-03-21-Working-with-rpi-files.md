@@ -52,6 +52,9 @@ scp filename.ext pi@1hostname_of_rpi_from_above_step:path_in_rpi/
 ```
 **References**  
 <b id="f1">1.</b> Pi-hole [https://pi-hole.net/](https://pi-hole.net/)    [↩](#a1)
+
 <b id="f2">2.</b>  Official Raspberry Pi [docs](https://www.raspberrypi.org/documentation/remote-access/ip-address.md) [↩](#a2)
+
 <b id="f3">3.</b> Official Raspberry Pi [docs on ssh connections](https://www.raspberrypi.org/documentation/remote-access/ssh/README.md)  [↩](#a3)
+
 <b id="f4">4.</b> Official Raspberry Pi [docs on scp connections](https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md)  [↩](#a3)
