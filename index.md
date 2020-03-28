@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img style="float:left; object-fit: cover; margin: 8px 50px" width="250" height="300" src="https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Profile.jpg" border="3" alt="Profile">
+<img style="float:left; object-fit: cover; margin: 10px 10px" width="250" height="330" src="https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Profile.jpg" border="3" alt="Profile">
 
 
 
