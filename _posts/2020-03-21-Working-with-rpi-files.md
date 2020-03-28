@@ -42,8 +42,7 @@ Use ```scp``` protocol to copy files to and from Rpi<sup id="a4">[4](#f4)</sup>.
 
 Copying file from Rpi
 ```bash
-scp pi@
-hostname_of_rpi_from_above_step:pathin_rpi/filename.ext destination_filename.ext
+scp pi@hostname_of_rpi_from_above_step:pathin_rpi/filename.ext destination_filename.ext
 ```
 
 Copying file from Rpi
