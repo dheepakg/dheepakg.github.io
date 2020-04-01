@@ -3,7 +3,7 @@ layout: post
 title:  "Final frontier for AI could be decoding Sarcasm"
 date:  2018-06-03 20:47:17 +0530
 categories: Prophecy
-Tags: Sarcasm, AI, NLP
+Tags: Sarcasm, AI, NLP, imported
 comments: true
 ---
 
