@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Couple of things that went unnoticed"
-date: 2020-04-08 13:01:27 +0530
+title: "COVID-19: Political change on the cards?"
+date: 2020-04-08 13:10:27 +0530
 categories: Opinion
-Tags: repost, everyday, people
+Tags: repost, COVID-19, Political
 comments: true
 ---
+
+The past f
