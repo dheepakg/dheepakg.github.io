@@ -34,4 +34,4 @@ But, he is sternly disagreeing to accept these investments. Reason being the cor
 All this can be possible only if we find an answer. Is it business or welfare?
 
 
-PS: This was originally published in [Medium](https://medium.com/@dheepakg/what-is-farming-f186639f4d07).
+PS: This was originally published in [Medium](https://medium.com/@dheepakg/what-is-farming-f186639f4d07), on Feb 25, 2018.

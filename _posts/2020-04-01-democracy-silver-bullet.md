@@ -36,4 +36,4 @@ Answer is the same, people’s power! For development of a nation, you need stri
 
 I feel this is okay. Its okay to compromise faster growth with more stable existence. May be Democracy might not be a silver bullet for all the woes, but it’s not a knife tied over your head ready to drop on you.
 
-PS: This was originally published from [medium](https://medium.com/@dheepakg/democracy-a-silver-bullet-3dded4f99650).
+PS: This was originally published in [medium](https://medium.com/@dheepakg/democracy-a-silver-bullet-3dded4f99650), on May 6, 2017.

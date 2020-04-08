@@ -24,4 +24,4 @@ Think about [Google Duplex](https://www.youtube.com/watch?v=bd1mEm2Fy08). Say, w
 
 If it responds, “Yea, I understand its too late for reservation. But I would appreciate if you get a table”, or something like that to convince the desk, then its time to run away from computers and hide under a rock. Because, understanding mockery/sarcasm could be the final frontier for AI.
 
-PS: This was originally published in [medium](https://medium.com/@dheepakg/final-frontier-for-ai-could-be-decoding-sarcasm-4e87994ab9c0).
+PS: This was originally published in [medium](https://medium.com/@dheepakg/final-frontier-for-ai-could-be-decoding-sarcasm-4e87994ab9c0), on June 3, 2018.
