@@ -55,3 +55,6 @@ References
     8. Cert-in – https://www.cert-in.org.in/
     9. Intrusion scare do exist with the paper ballots – https://en.wikipedia.org/wiki/Booth_capturing
     10. Physically reach out to the poling booth to tamper with the voting – https://web.archive.org/web/20161019082306/http://www.news18.com/news/politics/the-myth-of-historys-first-booth-capturing-taking-place-in-begusarais-rachiyahi-1150034.html
+
+
+PS: This was originally published in [Wordpress](https://deegovee.wordpress.com/2019/04/21/evms-should-be-avoided-for-indian-elections-why/) on April 21, 2019.
