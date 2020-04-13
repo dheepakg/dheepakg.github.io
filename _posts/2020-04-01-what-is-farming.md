@@ -2,7 +2,7 @@
 layout: post
 title:  "What is farming — Biz or Charity?"
 date:  2018-02-25 21:47:17 +0530
-categories: Questions
+categories: Opinion
 Tags: Agriculture, India, Questions, Welfare, Business, Imported
 comments: true
 ---

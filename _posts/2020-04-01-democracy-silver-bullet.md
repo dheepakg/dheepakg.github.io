@@ -2,7 +2,7 @@
 layout: post
 title:  "Democracy, a silver bullet?"
 date:  2017-05-06 22:47:17 +0530
-categories: Questions
+categories: Opinion
 Tags: Politics, India, Democracy, Imported
 comments: true
 ---
