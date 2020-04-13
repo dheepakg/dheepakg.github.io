@@ -2,7 +2,7 @@
 layout: post
 title: "EVMs should be avoided for Indian elections - Why?"
 date: 2019-04-26 19:47:17 +0530
-categories: Politics, Technology
+categories: Opinion
 Tags: Why?
 comments: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title:  "No more Ad breaks - thanks Pi-hole"
 date:   2019-06-17 20:12:27 +0530
-categories: DIY
+categories: Side-Project
 Tags: Raspberry Pi, Ads
 comments: true
 ---

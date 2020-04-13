@@ -2,7 +2,7 @@
 layout: post
 title: "Working with Raspberry Pi files"
 date: 2020-04-04 12:40:27 +0530
-categories: self-help
+categories: Hands-On
 Tags: Raspberry Pi, Files, reference
 comments: true
 ---

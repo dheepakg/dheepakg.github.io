@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to the site!"
 date:   2019-04-25 19:47:17 +0530
-categories: jekyll update
+categories: Welcome
 Tags: foobar
 comments: true
 ---

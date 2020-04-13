@@ -2,7 +2,7 @@
 layout: post
 title: "The Guinea Pig Generation"
 date: 2019-12-25 21:14:27 +0530
-categories: Rant
+categories: Opinion
 Tags: Mobile phone usage, lifestyle changes
 comments: true
 ---

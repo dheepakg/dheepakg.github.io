@@ -2,7 +2,7 @@
 layout: post
 title:  "What makes Rust interesting?"
 date:   2019-08-25 11:24:27 +0530
-categories: self-learn
+categories: Programming
 Tags: Programming
 comments: true
 ---

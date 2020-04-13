@@ -2,7 +2,7 @@
 layout: post
 title: "Setting pytest on zsh shell"
 date: 2020-03-21 12:40:27 +0530
-categories: self-help
+categories: Hands-On
 Tags: Pytest, Environment Variable, reference
 comments: true
 ---
