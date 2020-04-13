@@ -2,7 +2,7 @@
 layout: post
 title: "The 2010s - Part 1"
 date: 2020-01-05 14:14:27 +0530
-categories: Experience
+categories: Personal-Experience
 Tags: Life, Rewind
 comments: true
 ---

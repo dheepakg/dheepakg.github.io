@@ -2,7 +2,7 @@
 layout: post
 title:  "Yes, humanity exists"
 date:   2019-07-22 23:17:27 +0530
-categories: Experience
+categories: Personal-Experience
 Tags: Feel Good
 comments: true
 ---

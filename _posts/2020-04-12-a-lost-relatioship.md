@@ -2,7 +2,7 @@
 layout: post
 title: "A lost relationship"
 date: 2020-04-12 19:24:27 +0530
-categories:
+categories: "Personal-Experience"
 Tags: Pixel, Experience
 comments: true
 ---
