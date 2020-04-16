@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Opinion
-permalink: /categories/Opinion/
+title: Programming
+permalink: /categories/Programming/
 ---
 
 <div id="archives">
@@ -11,7 +11,7 @@ permalink: /categories/Opinion/
 
     {% for post in site.categories[category_name] %}
 
-        {% if post.categories contains "Opinion" %}
+        {% if post.categories contains "Programming" %}
 
           <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
 

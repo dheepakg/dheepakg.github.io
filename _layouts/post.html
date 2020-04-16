@@ -4,28 +4,28 @@ layout: default
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta">
-<!--      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        {{ page.date | date: date_format }}
-      </time> -->
+    {%- if page.title -%}
+      <h1 class="page-heading">{{ page.title }}</h1>
+    {%- endif -%}
+   <div class="post-meta">
 
-      <div class="post-meta">
-        <ul class="post-categories">        </ul>
+     <div class="post-categories">
+       {% if post %}
+         {% assign category = post.categories %}
+       {% else %}
+         {% assign category = page.categories %}
+       {% endif %}
 
-<!--        {% capture time %}{{ content | reading_time }}{% endcapture %}
+       <a href="{{site.baseurl}}/categories/{{category|slugize}}">{{category}}</a>
 
-      <div class="post-read">{{ time }} {% if time == '1' %}minute{% else %}minutes{% endif %}  read </div>
--->
+     </div>
+
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <div class="post-date">{{ page.date | date: date_format }}</div>
-      </div>
 
 
-      {%- if page.author -%}
-        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
-      {%- endif -%}</p>
+
+    </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
