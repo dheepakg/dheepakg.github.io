@@ -20,7 +20,7 @@ However, we were migrating the office workers in massive scale from office envir
 
 My phone bricked in the middle of lockdown, I was using my dad's mobile as I need to have few apps to access my work environment. Is it a big deal? Of course, alongside the fear of jobloss forced by recession, imagine you can't work because you have a faulty laptop charger, that for sure adds to your anxiety.  Thanks to [lobbying](https://economictimes.indiatimes.com/industry/services/retail/hard-lobbying-by-trade-bodies-shuts-doors-on-ecommerce/articleshow/75241759.cms?from=mdr) by the retail traders. 
 
-Well, for some traders are preferred over the Customer's comfort. 
+Well for some, traders were preferred over the Customer's comfort. 
 
 
 
