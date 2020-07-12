@@ -32,5 +32,5 @@ I'll list down my newsletter in another post.
 
 
 **Footnotes**  
-<b id="f1"><sup>1</sup> </b> UPI is trying to bring mobile number as an identity provider, but still a long way to go to catch up with emails    [↩](#a1)
+<b id="f1"><sup>1</sup> </b> UPI is trying to bring mobile number as an identity provider, but still a long way to go to catch up with emails    [↩](#a1)   
 <b id="f2"><sup>2</sup> </b> An ode to [BFO](https://the-ken.com/bfo/) of Ken-web  [↩](#a1)
