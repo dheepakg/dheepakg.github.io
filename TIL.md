@@ -26,3 +26,6 @@ Collection of random thought that I find interesting over the web and IRL. Fetch
       5. :construction: `:construction:` [WIP]
       6. :pencil: `:pencil:` [Minor] Some small updates
       * Source: [dev.to](https://dev.to/maxiqboy/comment/12pdp)     
+
+#### **2020-08-27**
+The source for India's shape files are available @ [datameet](http://datameet.org/)
