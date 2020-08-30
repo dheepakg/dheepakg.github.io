@@ -9,6 +9,20 @@ permalink: /TIL.html
 **TIL** -  Today I Learned  
 Collection of random thought that I find interesting over the web and IRL. Fetched from my twitter feed and grouped here under tweeted date.
 
+
+#### 2020-08-30
+1. Dark Patterns
+> Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something. The purpose of this site is to spread awareness and to shame companies that use them. - [Dark Patterns Org](https://darkpatterns.org/)
+2. Dark UX
+> It's pretty much any sort of pattern or practice [of design] that will cause a deceitful effect. It will trick the user into doing something that they don't want to do, or not even tell the user that they are doing this action.
+
+3. Dark UX vs  Bad UX
+> If it was something *intentional*, that is considered dark. If it was an accident, it's considered bad, and that's strictly by definition.  
+    * Source: [Salon.com](https://www.salon.com/2020/08/19/a-ux-designer-breaks-down-the-intentionally-malicious-design-of-trumps-campaign-website/)
+
+#### **2020-08-27**
+1. The source for India's shape files are available @ [datameet](http://datameet.org/)
+
 #### **2020-08-09**
 
 1. China and Tajikistan signed a boundary agreement in 2010 when Tajikistan was forced to cede about 1,158 sq km of territory in the Pamirs to China as part of *debt forgiveness deal.*  
@@ -26,6 +40,3 @@ Collection of random thought that I find interesting over the web and IRL. Fetch
       5. :construction: `:construction:` [WIP]
       6. :pencil: `:pencil:` [Minor] Some small updates
       * Source: [dev.to](https://dev.to/maxiqboy/comment/12pdp)     
-
-#### **2020-08-27**
-The source for India's shape files are available @ [datameet](http://datameet.org/)
