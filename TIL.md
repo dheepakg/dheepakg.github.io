@@ -7,7 +7,7 @@ permalink: /TIL.html
 
 
 **TIL** -  Today I Learned  
-Collection of random thought that I find interesting over the web and IRL. Fetched from my twitter feed and grouped here under tweeted date.
+Collection of random tidbits that I find interesting over the web and IRL. 
 
 
 #### **2020-08-30**
