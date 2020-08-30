@@ -9,5 +9,3 @@ My work day starts with a team meeting @ 0830 hrs. First thing I do after the ca
 Through the newsletters, I got exposed to many different formats on how to present the contents to the subscribers. Among them was the Broadsheet ([Broadsheet in webarchives](https://web.archive.org/web/20200401233132/https://broadsheet.in/)), the site was closed on March 31<sup>st</sup> 2020. Their emails were simple, few notable updates from global stage and from India, viral contents, and [much more](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/pdfs/broadsheet.pdf).
 
 The newsletter itself a condensed news source, what if its further condensed and only interesting things are collected in a place per week? Apart from newsletters the information flows in from twitter, Reddit and facebook. Lets collate it for each week, thats the plan at least.
-
-[Week 1](sd), ended on 30<sup>th</sup> August.
