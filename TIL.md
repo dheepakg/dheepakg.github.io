@@ -14,6 +14,10 @@ Collection of random thought that I find interesting over the web and IRL. Fetch
 1. Dark Patterns
     > Dark Patterns are tricks used in websites and apps that make you do things that you didn't mean to, like buying or signing up for something. The purpose of this site is to spread awareness and to shame companies that use them. - [Dark Patterns Org](https://darkpatterns.org/)  
 
+    <div>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/kxkrdLI6e6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 2. Dark UX
     > It's pretty much any sort of pattern or practice [of design] that will cause a deceitful effect. It will trick the user into doing something that they don't want to do, or not even tell the user that they are doing this action.
 
