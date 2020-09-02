@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jemoji'
   gem 'liquid_reading_time'
   gem 'liquid_pluralize'
+  gem "minimal-mistakes-jekyll"
 end

@@ -7,7 +7,7 @@ Tags: Geopolitics, China
 comments: true
 ---
 
-### Getting introduced to this book
+#### Getting introduced to this book
 The border is tense. The Ladakh known for its snowy cold climate is hotly discussed by the media. The reason being Chinese aggressive intrusion across LAC, amidst the ongoing COVID-19 pandemic. ThePrint.in's [Cut the clutter](https://www.youtube.com/watch?v=tKxfBRBSSIc&list=PLfa0eRI2uIaR1iOJnq7tklxIJDLxTxI5y) is so good in clearing the muddled political events. This book was introduced through one of its [video](https://www.youtube.com/watch?v=GVeU83X72J0).
 
 ### What's the book is about?
