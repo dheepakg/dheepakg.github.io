@@ -40,12 +40,13 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - tabs/TIL.md
-  - tabs/TPW.md
-  - tabs/Archives.md
+  - pages/TIL.md
+  - pages/TPW.md
+  - pages/Archives.md
 
 
-
+kramdown:
+  parse_block_html: true
 
 # Build settings
 minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"

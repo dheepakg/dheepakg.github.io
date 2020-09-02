@@ -9,43 +9,7 @@ layout: default
 
   {{ content }}
 
-  &nbsp;
 
-  <hr><hr><hr>
 
   &nbsp;
-
-  {%- if site.posts.size > 0 -%}
-  <h2>Recent Posts</h2>
-  <ul class="post-list">
-{% for post in site.posts limit:3 %}
-  <li>
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h3>
-
-    <div class="post-meta">
-      <ul class="post-categories">
-        {%- for category in post.categories -%}
-        <li>{{ category }}  </li>
-        {%- endfor -%}
-      </ul>
-
-
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <div class="post-date">{{ post.date | date: date_format }}</div>
-
-    </div>
-
-
-
-    {%- if site.show_excerpts -%}
-      {{ post.excerpt }}
-    {%- endif -%}
-    <p style="color:#828282">{{ post.description }}</p>
-  </li>
-{% endfor %}
-</ul>
-
-
-  {%- endif -%}
-
-</div>
+  </div>
