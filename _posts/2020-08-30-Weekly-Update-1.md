@@ -35,7 +35,7 @@ Let's revisit the interesting things that I came across in between last Monday a
 | Global |  25.20M| 3,243 | 847.38K | 109 | 17.34M |
 | India  |  3.50M| 2,566 | 63.69K | 46 | 2.71M |
 
-Source: [ncov2019 live](https://ncov2019.live/data)
+Source: As of August 30. [ncov2019 live](https://ncov2019.live/data)
 
 ##### Vaccine  Tracker
 
