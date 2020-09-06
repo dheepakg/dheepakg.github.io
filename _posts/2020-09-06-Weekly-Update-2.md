@@ -38,19 +38,7 @@ This is the second instalment of weekly update. Let's revisit the interesting th
 #### COVID Stats
 
 
-<details><summary>Previous Week's Snapshot data </summary>
-<p>
-
-| Week ended Aug 30|Total COVID-19 Cases  | Cases Per Million | Deceased| Deceased Per Million| Recovered |
-|--|--| -- | -- | -- | -- |
-| Global |  25.20M| 3,243 | 847.38K | 109 | 17.34M |
-| India  |  3.50M| 2,566 | 63.69K | 46 | 2.71M |
-
-</p>
-</details>
-
-
-<b>Past Week's Snapshot data <b>
+##### Past Week's Snapshot data
 
 |Week ended on Sep 6 |Total COVID-19 Cases  | Cases Per Million | Deceased| Deceased Per Million| Recovered |
 |--|--| -- | -- | -- | -- |
@@ -58,11 +46,9 @@ This is the second instalment of weekly update. Let's revisit the interesting th
 | India  |  4.13M| 2,989 | 70.80K | 51 | 3.20M |
 
 
-
-
 Source: As of Sep 6. [ncov2019 live](https://ncov2019.live/data)
 
-The takeaway has one good news, number of _recovery has increased_. But, rest all the indicators are getting worse.
+The takeaway has one good news, number of _recovery has increased_. But, rest all the indicators are getting worse relative to [previous week](https://dheepakg.github.io/weekly-update/2020/08/30/Weekly-Update-1.html#COVID-updates).
 
 
 ##### Vaccine  Tracker
@@ -76,4 +62,4 @@ The takeaway has one good news, number of _recovery has increased_. But, rest al
 
 Source: [NYT](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 
-If you compare with the [last weeks's vaccine tracker](https://dheepakg.github.io/weekly-update/2020/08/30/Weekly-Update-1.html#vaccine--tracker), the vaccines under phase 3 has incremented, thanks to the Gamaleya Research Institute's popularly called as _the Russian Vaccine_.
+On comparing with the [last weeks's vaccine tracker](https://dheepakg.github.io/weekly-update/2020/08/30/Weekly-Update-1.html#vaccine--tracker), the vaccines under phase 3 has incremented, thanks to the Gamaleya Research Institute's popularly called as _the Russian Vaccine_.
