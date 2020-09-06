@@ -38,7 +38,7 @@ This is the second instalment of weekly update. Let's revisit the interesting th
 #### COVID Stats
 
 
-<details><summary><b>Previous Week's Snapshot data <b></summary>
+<details><summary>Previous Week's Snapshot data </summary>
 <p>
 
 | Week ended Aug 30|Total COVID-19 Cases  | Cases Per Million | Deceased| Deceased Per Million| Recovered |
@@ -48,6 +48,7 @@ This is the second instalment of weekly update. Let's revisit the interesting th
 
 </p>
 </details>
+
 
 <b>Past Week's Snapshot data <b>
 
