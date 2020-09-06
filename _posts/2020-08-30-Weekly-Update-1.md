@@ -41,7 +41,7 @@ Source: As of August 30. [ncov2019 live](https://ncov2019.live/data)
 
 
 
-| ![The training days](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/CovidTrackerAug30.jpg) |
+| ![The training days](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Weekly-update/CovidTrackerAug30.jpg) |
 | :------------------------------------------------------------------------: |
 |                          Coronavirus Vaccine Tracker - Aug 30,2020                                                                      |
 
