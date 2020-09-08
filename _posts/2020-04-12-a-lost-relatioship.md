@@ -34,7 +34,7 @@ Thanks, Pixel. It's been a wonderful journey.
 
 **References**
 
-<b id="f1">1.</b>  My maiden experience with Android - [link](https://deegovee.wordpress.com/2011/11/05/my-maiden-experience-with-android/)     [↩](#a1)
+<b id="f1">1.</b>  My maiden experience with Android - [↩](#a1)
 
 <b id="f2">2.</b> Updated: Google Pixel 2 camera review - [link](https://www.dxomark.com/google-pixel-2-reviewed-sets-new-record-smartphone-camera-quality/) [↩](#a2)
 <b id="f3">3.</b> What is Night Sight and what can it do on the Pixel phone?- [link](https://www.pocket-lint.com/phones/news/google/146306-what-is-night-sight-google-pixel-camera) [↩](#a3)

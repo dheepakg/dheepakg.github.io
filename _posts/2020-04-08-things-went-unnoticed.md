@@ -28,5 +28,3 @@ Power comes with responsibility. Power – income; Responsibility – Investment
 Then, how to neutralize the flaws in education system? Simple. Self-learning. But what and how should we be self-taught. How to get a picture of what is missed out? Answer is getting exposure through necessary means – books, Internet and/or listening to elders. Disappointingly, we consider way above the elders and their suggestions on life. Reading books is so uncool. Internet consists of couple of sites – Facebook, YouTube and Gmail.
 
 God save this generation.
-
-PS: This was originally published in [Wordpress](https://deegovee.wordpress.com/2015/09/17/couple-of-things-that-went-unnooticed/) on September 17, 2015

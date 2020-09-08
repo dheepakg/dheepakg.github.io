@@ -38,6 +38,3 @@ Secondly, these people can’t afford to pay an Auditor to understand the financ
 Third, the market we are talking about is dynamic. These traders use raw materials whose price change on daily basis. The framework should support dynamic changes. I am not saying, that you should revise the minimal price of food be modified on daily or weekly basis. But, at the least quarterly basis. An outdated framework is good for nothing.
 
 Meanwhile, I missed the plot of the movie. Have to watch it from the introduction of the frog.
-
-
-PS: This was originally published in [Wordpress](https://deegovee.wordpress.com/2016/05/27/shouldnt-there-be-some-regulation-road-side-shops/) on May 27, 2016

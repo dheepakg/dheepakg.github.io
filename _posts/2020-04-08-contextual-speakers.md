@@ -40,6 +40,3 @@ This time another co-worker,  out of nowhere questioned “did you got the mail?
 A good communication involves making the listener to understand your idea without allowing possible second thoughts to creep into the listener. Contrary to this, contextual speakers, most of the time, makes ambiguous statements. Think about “Laundry card has money?” instead of ~~“DID IT HAVE MONEY?“~~ or “Check the mail on Northern Lights” rather than ~~“did you got the mail?”~~. This could have cleanly described the subject he was talking about. The answering the clear questions won’t need much of the efforts and I would have continued with the work.
 
 Let’s make communication simpler by reducing the contextual usage. After all, we are just a social collaborators
-
-
-PS: This was originally published in [Wordpress](https://deegovee.wordpress.com/2017/06/16/striving-with-contextual-speakers/) on June 16, 2017
