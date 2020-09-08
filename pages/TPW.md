@@ -21,7 +21,7 @@ Apart from newsletters the information flows in from twitter, Reddit and faceboo
 
 
 
-  - <span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a> 
+  - <span>{{ post.date | date_to_string }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
 
 
 
