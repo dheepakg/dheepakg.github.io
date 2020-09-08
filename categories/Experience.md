@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Personal-Experience
-permalink: /categories/Personal-Experience/
+title: Experience
+permalink: /categories/Experience/
 ---
 
-{% for post in site.categories.Personal-Experience %}
+{% for post in site.categories.Experience %}
 
 
 
