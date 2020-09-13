@@ -54,9 +54,9 @@ Well, in school days I thought hiding report card from my dad would help me. But
 
 In all its probability, at least among millennials, TV is dead. Thanks to Reed Hastings of Netflix. He bought in the revolution, playing a movie with a click of button, no need of additional softwares or cassettes. Won't we listen to him when he talks about the company's culture?
 
-<div>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J81SmQIokhY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div
+
 
 
 ### If You’re So Smart, Why Aren’t You Happy?
@@ -103,7 +103,7 @@ Source: As of Sep 13. [ncov2019 live](https://ncov2019.live/data)
 The numbers are telling a grim story, no good news with respect to COVID-19.
 
 
-### Vaccine  Tracker
+###g Vaccine  Tracker
 
 
 
