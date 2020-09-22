@@ -12,13 +12,19 @@ Collection of random tidbits that I find interesting over the web and IRL.
 
 #### **2020-09-22**
 1. Potemkin Village  
- >> A "Potemkin village" signifies any deceptive or false construct, conjured often by cruel regimes, to deceive both those within the land and those peering in from outside.
+ >> A "Potemkin village" signifies any deceptive or false construct, conjured often by cruel regimes, to deceive both those within the land and those peering in from outside.   
+
+ PS: The origin story is interesting, reach out to [Wikipedia](https://en.wikipedia.org/wiki/Potemkin_village#Origin)
+
+2. Lindy effect  
+ >> Where the Lindy effect applies, mortality rate decreases with time. - [wikipedia](https://en.wikipedia.org/wiki/Lindy_effect)
+
 
 
 #### **2020-09-02**
-1. Japan has 33,000 businesses at least a century old.
+1. Japan has 33,000 businesses at least a century old.  
 
-  > These long-standing entities, at least 100 years old, are known as '_shinise_', literally meaning 'old shop'. - [BBC](https://www.bbc.com/worklife/article/20200211-why-are-so-many-old-companies-in-japan)
+  >> These long-standing entities, at least 100 years old, are known as '_shinise_', literally meaning 'old shop'. - [BBC](https://www.bbc.com/worklife/article/20200211-why-are-so-many-old-companies-in-japan)
 
 <hr>
 
