@@ -19,7 +19,7 @@ Collection of random tidbits that I find interesting over the web and IRL.
 2. Lindy effect  
  >> Where the Lindy effect applies, mortality rate decreases with time. - [wikipedia](https://en.wikipedia.org/wiki/Lindy_effect)
 
-
+<hr>  
 
 #### **2020-09-02**
 1. Japan has 33,000 businesses at least a century old.  
