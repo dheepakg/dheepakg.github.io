@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Weekly Update 3 - Sep 13, 2020"
-date:   2020-09-13 21:02:00 +0530
+title:  "Weekly Update 4 - Sep 22, 2020"
+date:   2020-09-22 10:07:00 +0530
 categories: Weekly-Update
 Tags: Updates
 comments: true

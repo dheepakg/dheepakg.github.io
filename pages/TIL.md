@@ -23,7 +23,6 @@ Collection of random tidbits that I find interesting over the web and IRL.
 
 #### **2020-09-02**
 1. Japan has 33,000 businesses at least a century old.  
-
   >> These long-standing entities, at least 100 years old, are known as '_shinise_', literally meaning 'old shop'. - [BBC](https://www.bbc.com/worklife/article/20200211-why-are-so-many-old-companies-in-japan)
 
 <hr>
