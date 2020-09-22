@@ -10,6 +10,11 @@ permalink: /TIL.html
 Collection of random tidbits that I find interesting over the web and IRL.
 
 
+#### **2020-09-22**
+1. Potemkin Village  
+ >> A "Potemkin village" signifies any deceptive or false construct, conjured often by cruel regimes, to deceive both those within the land and those peering in from outside.
+
+
 #### **2020-09-02**
 1. Japan has 33,000 businesses at least a century old.
 
