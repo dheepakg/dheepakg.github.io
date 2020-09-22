@@ -40,7 +40,7 @@ This is the second instalment of weekly update. Let's revisit the interesting th
 
 ##### Past Week's Snapshot data
 
-|Week ended on Sep 6 |Total COVID-19 Cases  | Cases Per Million | Deceased| Deceased Per Million| Recovered |
+|Week ended on Sep 13 |Total COVID-19 Cases  | Cases Per Million | Deceased| Deceased Per Million| Recovered |
 |--|--| -- | -- | -- | -- |
 | Global |  27.12M| 3,489 | 884.62K | 109 | 19.02M |
 | India  |  4.13M| 2,989 | 70.80K | 51 | 3.20M |
