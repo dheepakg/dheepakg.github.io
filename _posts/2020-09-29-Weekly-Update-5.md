@@ -33,7 +33,35 @@ The team in the Markup has built [Blacklight](https://themarkup.org/blacklight?u
 
 This post is from the [growth.design](https://growth.design/case-studies/tiktok-feed-psychology/) on how TikTok's feed is addictive.  
 
-The site's vision reads,  "We believe that sharing meaningful experiences makes the world better".  UI & UX the site is presenting is intriguing. Apart TikTok, the site has case studies on several other popular services like Tinder, Uber Eats, Tesla & more.
+The site's vision reads,  "We believe that sharing meaningful experiences makes the world better".  UI & UX of the is intriguing, and true to the vision, the experience is good. Apart TikTok, the site has case studies on several other popular services like Tinder, Uber Eats, Tesla & more.
+
+
+**4. Curious case of QAnon**
+
+For the uninitiated, below is the introduction in [Wikipedia](https://en.wikipedia.org/wiki/QAnon).
+
+
+  > QAnon is a far-right conspiracy theory alleging that a cabal of Satan-worshiping pedophiles running a global child sex-trafficking ring is plotting against President Donald Trump, who is battling them, leading to a "day of reckoning" involving the mass arrest of journalists and politicians. No part of the theory is based on fact.
+
+
+The [Just Security](https://www.justsecurity.org/) says that QAnon’s conspiracy theory is a rebranded version of *the Protocols of the Elders of Zion*. The Protocols of the Elders of Zion was written by Russian anti-Jewish propagandists around 1902. It collected myths about a Jewish plot to take over the world that had existed for hundreds of years.
+
+
+There are several parallels between the theories of Nazis & Qanon. Go on read it yourself.
+
+**5. China and it's promise**
+
+How can a week goes by without something interesting pops out from the middle kingdom?  This time the promise involves global warming aka climate change. Mr Xi Jinping unveiled China's bold pitch for leadership on global warming at the United Nations, vowing his nation will reach peak emissions before 2030 and go carbon-neutral 30 years later.
+
+Meanwhile, in the first half of 2020 China approved 23 gigawatts-worth of new coal power projects, more than the previous two years combined, according to Global Energy Monitor (GEM), a San Francisco-based environmental NGO.
+
+If China couldn't keep the promise, it will not be the first time - it [happened with the security law passed by China](https://www.express.co.uk/news/world/1285743/china-news-hong-kong-new-law-national-security-hong-kong-protests-trump), [South China Sea](https://vnexplorer.net/us-criticizes-china-for-breaking-promise-in-the-east-sea-a2020100934.html) and more.
+
+Another developing story from [Kenya rings alarm](https://chinaafricaproject.com/analysis/china-faces-a-critical-test-in-kenya/).  
+
+> Kenya’s difficulties in servicing its debts for the newly-built, Chinese-financed Standard Gauge Railway (SGR) is nearing a breaking point. The railway is losing money at an unsustainable rate of $9.2 million a month making it inconceivable that Kenya Railways will be able to repay its Chinese creditors at the current rate.
+
+China has said repeatedly that it will not seize the port in the event of a default. Well, we can see how this ends, hope it doesn't apply the [debt trap diplomacy](https://www.reuters.com/article/us-china-laos-exclusive/exclusive-taking-power-chinese-firm-to-run-laos-electric-grid-amid-default-warnings-idUSKBN25V14C). 
 
 
 
@@ -42,7 +70,19 @@ The site's vision reads,  "We believe that sharing meaningful experiences makes 
 
 
 
-I wanted to end this with a [Twitter thread](https://threadreaderapp.com/thread/1306752241538404353.html), this is about how _the Professional athletes are always asking for weird, unconventional stipulations in their contracts_.
+
+
+
+## Twitter Thread
+
+This is a twitter thread on a [guide to note taking while reading](https://twitter.com/AlexAndBooks_/status/1310431178344853504). If you read books, follow the thread to get more from reading.
+
+Bonus: A thread on [owning a house pros & cons](https://twitter.com/VidyaG88/status/1310561383365242880) from personal finance point of view.
+
+
+## Something to smile
+
+What is the answer to Who do you think would win out of a lion, a hippopotamus and a rhino??"  During an interaction a kid posted this question to Sir David Attenborough and [he answered it](https://twitter.com/BBCBreakfast/status/1310839214628581376?s=08)
 
 
 
