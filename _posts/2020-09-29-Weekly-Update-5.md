@@ -29,6 +29,14 @@ The team in the Markup has built [Blacklight](https://themarkup.org/blacklight?u
 
 
 
+**3. The Psychology behind TikTok's addictive feed**
+
+This post is from the [growth.design](https://growth.design/case-studies/tiktok-feed-psychology/) on how TikTok's feed is addictive.  
+
+The site's vision reads,  "We believe that sharing meaningful experiences makes the world better".  UI & UX the site is presenting is intriguing. Apart TikTok, the site has case studies on several other popular services like Tinder, Uber Eats, Tesla & more.
+
+
+
 
 
 
