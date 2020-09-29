@@ -7,7 +7,7 @@ Tags: Updates
 comments: true
 ---
 
-This is the 5<sup>th</sup> instalment of weekly update. Let's revisit the interesting things that I came across in between last Monday and today (September 29, 2020). This is ### words long.
+This is the 5<sup>th</sup> instalment of weekly update. Let's revisit the interesting things that I came across in between last Monday and today (September 29, 2020). This is 759 words long.
 
 ## Some interesting finds from the past week  
 
@@ -61,7 +61,7 @@ Another developing story from [Kenya rings alarm](https://chinaafricaproject.com
 
 > Kenya’s difficulties in servicing its debts for the newly-built, Chinese-financed Standard Gauge Railway (SGR) is nearing a breaking point. The railway is losing money at an unsustainable rate of $9.2 million a month making it inconceivable that Kenya Railways will be able to repay its Chinese creditors at the current rate.
 
-China has said repeatedly that it will not seize the port in the event of a default. Well, we can see how this ends, hope it doesn't apply the [debt trap diplomacy](https://www.reuters.com/article/us-china-laos-exclusive/exclusive-taking-power-chinese-firm-to-run-laos-electric-grid-amid-default-warnings-idUSKBN25V14C). 
+China has said repeatedly that it will not seize the port in the event of a default. Well, we can see how this ends, hope it doesn't apply the [debt trap diplomacy](https://www.reuters.com/article/us-china-laos-exclusive/exclusive-taking-power-chinese-firm-to-run-laos-electric-grid-amid-default-warnings-idUSKBN25V14C).
 
 
 
