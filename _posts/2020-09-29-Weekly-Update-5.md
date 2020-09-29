@@ -39,24 +39,21 @@ Source: As of Sep 29. [ncov2019 live](https://ncov2019.live/data)
 
 The cases per million in India surged over global average. Also, the last 2 weeks data is scary, checkout below tweet.
 
-<div>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s the column, Coronavirus &quot;cases in the last two weeks,&quot; which I find most chilling<br>😢😢😢 <a href="https://t.co/FByYimgXDQ">pic.twitter.com/FByYimgXDQ</a></p>&mdash; William Dalrymple (@DalrympleWill) <a href="https://twitter.com/DalrympleWill/status/1310914769071878144?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-</div>
+
+<div><blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s the column, Coronavirus &quot;cases in the last two weeks,&quot; which I find most chilling<br>😢😢😢 <a href="https://t.co/FByYimgXDQ">pic.twitter.com/FByYimgXDQ</a></p>&mdash; William Dalrymple (@DalrympleWill) <a href="https://twitter.com/DalrympleWill/status/1310914769071878144?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  </div>
+
 
 
 
 
 ### Vaccine  Tracker
 
-|![The tracker](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Weekly-update/TrackerSep22.png) |
+|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Weekly-update/TrackerSep29.png?raw=true) |
 | :------------------------------------------------------------------------: |
-|                          Coronavirus Vaccine Tracker - Sep  22, 2020                                                                      |
+|                          Coronavirus Vaccine Tracker - Sep  29, 2020                                                                      |
 
 Source: [NYT](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)
 
-On comparing with the [last weeks's vaccine tracker](https://dheepakg.github.io/weekly-update/2020/09/06/Weekly-Update-2.html#vaccine--tracker), there are so many new entrants.  
 
-    1. Phase 1 - Vaccines by the University of Hong Kong, Covaxx and Germany’s University of Tübingen entered Phase 1.
-    2. Phase 3 - The last week it was 3 vaccines approved for  early or limited use, but this week it grown into 5.
 
 That's the updates for the week.
