@@ -9,8 +9,17 @@ comments: true
 
 This is the 5<sup>th</sup> instalment of weekly update. Let's revisit the interesting things that I came across in between last Monday and today (September 29, 2020). This is ### words long.
 
-## Some interesting finds from the past week
+## Some interesting finds from the past week  
 
+1. What could an old TV could do? Breaking the Internet, may be.  
+
+This has happened in a village in Wales, UK.     
+
+  > It turned out that at 0700 every morning the occupant would switch on their old TV which would in-turn knock out broadband for the entire village.  
+
+The TV’s owner “immediately agreed to switch it off and not use again.”   
+
+2. How many trackers does your blog/site has?
 
 
 
