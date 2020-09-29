@@ -41,6 +41,8 @@ The cases per million in India surged over global average. Also, the last 2 week
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s the column, Coronavirus &quot;cases in the last two weeks,&quot; which I find most chilling<br>😢😢😢 <a href="https://t.co/FByYimgXDQ">pic.twitter.com/FByYimgXDQ</a></p>&mdash; William Dalrymple (@DalrympleWill) <a href="https://twitter.com/DalrympleWill/status/1310914769071878144?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+
 ### Vaccine  Tracker
 
 |![The tracker](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Weekly-update/TrackerSep22.png) |
