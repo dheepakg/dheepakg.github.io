@@ -37,11 +37,7 @@ I wanted to end this with a [Twitter thread](https://threadreaderapp.com/thread/
 
 Source: As of Sep 29. [ncov2019 live](https://ncov2019.live/data)
 
-The cases per million in India surged over global average. Also, the last 2 weeks data is scary, checkout below tweet.
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It&#39;s the column, Coronavirus &quot;cases in the last two weeks,&quot; which I find most chilling<br>😢😢😢 <a href="https://t.co/FByYimgXDQ">pic.twitter.com/FByYimgXDQ</a></p>&mdash; William Dalrymple (@DalrympleWill) <a href="https://twitter.com/DalrympleWill/status/1310914769071878144?ref_src=twsrc%5Etfw">September 29, 2020</a></blockquote>       
-
+The cases per million in India surged over global average. Also, the last 2 weeks data is scary, checkout [this tweet](https://twitter.com/DalrympleWill/status/1310914769071878144).
 
 
 
