@@ -11,15 +11,21 @@ This is the 5<sup>th</sup> instalment of weekly update. Let's revisit the intere
 
 ## Some interesting finds from the past week  
 
-1. What could an old TV could do? Breaking the Internet, may be.  
+**1. What could an old TV could do? Breaking the Internet, may be.**   
 
-This has happened in a village in Wales, UK.     
+Yes, the old TV took revenge on internet, in a village in Wales, UK. The story in [the Register](https://www.theregister.com/2020/09/22/old_tv_broke_broadband/?utm_source=newsletter&utm_medium=email&utm_campaign=newsletter_axioslogin&stream=top) is worth a read, and could be valid post in [r/Whatcouldgowrong](https://www.reddit.com/r/Whatcouldgowrong/)  
 
   > It turned out that at 0700 every morning the occupant would switch on their old TV which would in-turn knock out broadband for the entire village.  
 
 The TV’s owner “immediately agreed to switch it off and not use again.”   
 
-2. How many trackers does your blog/site has?
+**2. How many trackers does your blog/site has?**   
+
+This is a story from [the markup](https://themarkup.org/blacklight/2020/09/22/blacklight-tracking-advertisers-digital-privacy-sensitive-websites?utm_campaign=Data_Elixir&utm_source=Data_Elixir_304).
+
+What I found interesting was, [Oracle Data Cloud kills off its AddThis Audience Business](https://www.adexchanger.com/privacy/oracle-data-cloud-kills-off-its-addthis-audience-business-in-europe/#:~:text=) in Europe, thanks to GDPR law.
+
+The team in the Markup has built [Blacklight](https://themarkup.org/blacklight?url=),  a privacy inspector. If you're owning a site, do checkout how many trackers your site has.
 
 
 
