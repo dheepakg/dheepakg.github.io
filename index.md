@@ -1,23 +1,18 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: default
+title: Home
 ---
 
 
 <!-- why? -->
-**Why?** In the age of Internet, I'm, just like you, consuming a lot of information and I need a place to order and give it back to the society.  
+**Why?** In the age of Internet, I'm, just like you, consuming a lot of information and I need a place to rearrange and trying to return it back to the society.  
 
 <!-- How -->
-**How?** I believe writing is way better than a video. Also, I enjoy reading and also being an introvert, writing is more favourable to me.
+**How?** To consume knowledge, I believe writing is above most of the other medium. I enjoy reading and also being an introvert, writing is more favourable.
 
 <!-- What? -->
 **What?**
-The plan is to update here regularly with my thoughts, life events, interesting things that I found in the wild wild web.
+The plan is to update here regularly with my thoughts, life events, interesting things that I found in the world wild web.
 
 &nbsp;
 
@@ -25,7 +20,7 @@ The plan is to update here regularly with my thoughts, life events, interesting 
 &nbsp;
 
 
-1. So, [who am I](/about)?
+1. So, [who am I](/about.html)?
 2. The new things that I come across that you might be interested in is found in [TIL page](/TIL.html). It's day-wise journal entry.
 3. I post weekly updates on things that got my attention. This is mostly of national & international news. Head over to [the past week](/TPW.html) page.
-4. All the blog posts are available under [archive](/archives/) section
+4. All the blog posts are available under [blog](/blog.html) section

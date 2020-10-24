@@ -1,63 +1,33 @@
-title: Dheepak's blog
-author: Dheepak
-#email: your-email@domain.com
-description: > # this means to ignore newlines until "show_excerpts:"
-  A blog on my political views, daily mistakes and so much more
+# Dependencies
+markdown:         kramdown
+highlighter:      Rouge
 
-show_excerpts: true # set to true to show excerpts on the homepage
+# Permalinks
+permalink:        pretty
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-  sitemap: true
+# Setup
+title:            Dheepak Govindaraj
+tagline:          ''
+description:      'Data Enthusiast and Software Developer'
+url:              https://dheepakg.github.io/
+baseurl:          /
 
-  # generate social links in footer
-  social_links:
-    twitter: deegovee
-    github: dheepakg
-    rss: rss
-    # dribbble: jekyll
-    # facebook: jekyll
-    # flickr:   jekyll
-    # instagram: jekyll
-    # linkedin: jekyll
-    # pinterest: jekyll
-    # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    # youtube_channel_name: CloudCannon
-    # telegram: jekyll
-    # googleplus: +jekyll
-    # microdotblog: jekyll
-    # keybase: jekyll
-    # Mastodon instances
-    # mastodon:
-    # - username: jekyll
-    #   instance: example.com
-    # - username: jekyll2
-    #   instance: example.com
-
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-  - pages/TIL.md
-  - pages/TPW.md
-  - pages/Archives.md
+author:
+  name:           'Dheepak'
+  url:            dheepakg.github.io
+  email:          ''
+  github:         'https://github.com/dheepakg'
+  twitter:        'https://twitter.com/dheeepakg'
+  linkedin:       'https://www.linkedin.com/in/dheepak-govindaraj-83a22623/'
 
 
-kramdown:
-  parse_block_html: true
+# Custom vars
+version:          2.1.0
 
-# Build settings
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
-theme: minima
-
-minima:
-  skin: dark
+github:
+  repo:           https://github.com/dheepakg/dheepakg.github.io
 
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+  - jekyll-gist
+  - redcarpet
   - jemoji
-  - liquid_reading_time
