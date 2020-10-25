@@ -13,6 +13,6 @@ The interview is usually a stressful affair. I usually prepare _100s_ of topics,
 
 The interviewer was friendly and made me absolutely comfortable, there were no stress-inducing questions, all through the entire discussion.
 
-And then, I asked for feedback, which is entirely new from my end. This guy gave few feedbacks on how to think and approach a new tool. That was not new either, but it blew me off. Sudden in rush of dopamine and felt as if I got the job position itself, to be frank I'm most likely to flunk. But I felt satisfied, energised :+1:.
+And then, I asked for feedback, which is entirely new from my end. This guy gave few feedbacks on how to think and approach a new tool. That was not new either, but it blew me off. Sudden in rush of dopamine and felt as if I got the job position itself, to be frank I'm most likely to flunk. But I felt satisfied, energised :+1:
 
 Have a happy dappy day.
