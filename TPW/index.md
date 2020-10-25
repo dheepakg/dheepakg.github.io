@@ -1,7 +1,23 @@
 ---
 layout: page
 title: The Past Week
+permalink: TPW.html
 ---
+
+{% for post in site.categories.Weekly-Update %}
+
+
+
+<h2> <a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+{{ post.excerpt | markdownify }}
+
+
+
+{% endfor %}
+
+
+
 
 
 <!-- {% for tpw_post in site.TPW reversed%}
@@ -17,7 +33,7 @@ title: The Past Week
 
 
 
-{% for tpw_post in site.TPW reversed%}
+<!-- {% for tpw_post in site.TPW reversed%}
 
 
 <div class="post">
@@ -30,11 +46,11 @@ title: The Past Week
 </div>
 
 
-{% endfor %}
+{% endfor %} -->
 
 
-<!--
-<div class="posts">
+
+<!-- <div class="posts">
   {% for post in site.TPW reversed %}
   <div class="post">
     <h1 class="post-title">

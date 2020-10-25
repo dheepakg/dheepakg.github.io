@@ -5,7 +5,10 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
+
   <div class="post">
+
+
     <h1 class="post-title">
       <a href="{{ site.baseurl }}{{ post.url }}">
         {{ post.title | markdownify }}
@@ -19,6 +22,7 @@ title: Home
     {{ post.excerpt | markdownify }}
   </div>
   {% endfor %}
+
 </div>
 
 <div class="pagination">
@@ -31,7 +35,7 @@ title: Home
   {% if paginator.previous_page %}
     <a class="pagination-item newer"
        href="{{ site.baseurl }}/{% if paginator.page > 2 %}page{{paginator.previous_page}}{% endif %}">
-       Newer <i class="fa fa-arrow-right"></i> 
+       Newer <i class="fa fa-arrow-right"></i>
    </a>
   {% endif %}
 

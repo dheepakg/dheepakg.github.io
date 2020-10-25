@@ -20,7 +20,7 @@ baseurl:
 # blogurl:          /blog/
 
 # Assets
-images:         '/images'
+images:         'assets/images'
 pdfs:           '/pdf'
 
 author:
