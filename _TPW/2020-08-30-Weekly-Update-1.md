@@ -1,10 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "Weekly Update - Aug 30, 2020"
 date:   2020-08-30 17:08:17 +0530
 categories: Weekly-Update
 Tags: Updates
 comments: true
+permalink: weekly-1.html
 ---
 
 Let's revisit the interesting things that I came across in between last Monday and today (August 30, 2020).

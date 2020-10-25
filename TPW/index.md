@@ -7,6 +7,19 @@ title: The Past Week
 <!-- {% for tpw_post in site.TPW reversed%}
 
 
+- <span>{{ tpw_post.date | date_to_string }}</span> <a href="{{ site.baseurl }}{{ tpw_post.url }}">    {{ tpw_post.title | markdownify }}  </a>
+
+
+
+
+
+{% endfor %} -->
+
+
+
+{% for tpw_post in site.TPW reversed%}
+
+
 <div class="post">
   <h1 class="post-title">{{ tpw_post.title | markdownify }}</h1>
   {% if tpw_post.subtitle %}
@@ -17,15 +30,15 @@ title: The Past Week
 </div>
 
 
-{% endfor %} -->
+{% endfor %}
 
 
-
+<!--
 <div class="posts">
   {% for post in site.TPW reversed %}
   <div class="post">
     <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
+      <a href="{{ post.url }}">
         {{ post.title | markdownify }}
       </a>
     </h1>
@@ -38,6 +51,8 @@ title: The Past Week
   </div>
   {% endfor %}
 </div>
+
+
 
 <div class="pagination">
   {% if paginator.next_page %}
@@ -53,4 +68,4 @@ title: The Past Week
    </a>
   {% endif %}
 
-</div>
+</div> -->
