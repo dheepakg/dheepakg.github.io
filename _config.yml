@@ -1,39 +1,25 @@
 # Dependencies
-highlighter:      rouge
-
-plugins:
-  - jekyll-paginate
-  - jekyll-feed
-  - jemoji
+markdown:         kramdown
+highlighter:      Rouge
 
 # Permalinks
-permalink:              /blog/:categories/:title/
-# permalink:            blog/:categories/:year/:month/:day/:title/
+permalink:        pretty
 
 # Setup
-title:            'Dheepak Govindaraj'
-name:             'Dheepak Govindaraj'
-#tagline:          ''
-description:      'Data Enthusiast and software developer'
-#url:              http://vakila.github.io/
+title:            Dheepak Govindaraj
+tagline:          ''
+description:      'Data Enthusiast and Software Developer'
+url:              https://dheepakg.github.io/
 baseurl:
-# blogurl:          /blog/
-
-# Assets
-images:         '/images'
-pdfs:           '/pdf'
 
 author:
-  name:           'Dheepak Govindaraj'
+  name:           'Dheepak'
   url:            dheepakg.github.io
-  email:          'anjanavakil@gmail.com'
+  email:          ''
   github:         'https://github.com/dheepakg'
   twitter:        'https://twitter.com/dheeepakg'
-  googleplus:     ''
   linkedin:       'https://www.linkedin.com/in/dheepak-govindaraj-83a22623/'
 
-paginate:  3
-# paginate_path: '/TPW/page:num/'
 
 # Custom vars
 version:          2.1.0
@@ -41,15 +27,7 @@ version:          2.1.0
 github:
   repo:           https://github.com/dheepakg/dheepakg.github.io
 
-# Collections
-collections:
-  - TIL
-  - TPW
-
-# defaults:
-#   -
-#     scope:
-#       path: ""
-#       type: "projects" # a collection in your site, in plural form
-#     values:
-#       layout: "default"
+plugins:
+  - jekyll-gist
+  - redcarpet
+  - jemoji
