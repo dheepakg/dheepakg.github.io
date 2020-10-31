@@ -3,7 +3,7 @@ layout: default
 title: About me
 ---
 
-<h1> Blog posts </h1>
+<h1> About me </h1>
 
 
 Hey there!
