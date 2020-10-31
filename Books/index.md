@@ -1,0 +1,24 @@
+---
+layout: default
+title: Recommendations
+permalink: /recos/books.html
+---
+
+
+### Book Recommendation
+
+<br>
+
+<!-- |# |Book Name| Author  |
+|---|---|---|{% for post in site.posts reversed %}{% if post.tags[0] == 'books' %}
+| 1 | <a href="{{ site.baseurl }} {{ post.url }} ">   {{ post.title  }} </a> | {{ post.author }} |
+
+{% endif %}
+
+  {% endfor %} -->
+
+
+
+  |# |Book Name| Author  |  
+  |---|---|---| {% for post in site.posts reversed %}  {% if post.tags[0] == 'books' %}
+  | {% increment my_counter %} | <a href="{{ site.baseurl }} {{ post.url }} ">   {{ post.title  }} </a> | {{ post.author }} |  {% endif %}     {% endfor %}

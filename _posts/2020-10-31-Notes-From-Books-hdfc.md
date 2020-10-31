@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "HDFC Bank 2.0 From Dawn to Digital"
+author: "Tamal Bandyopadhyay"
+date:   2020-10-10 11:07:00 +0530
+categories: Recommendations
+tags: [books, Notes]
+comments: true
+---
+
+
+This is about a book Recommendation.
+
+## WIP
