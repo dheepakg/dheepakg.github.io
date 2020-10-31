@@ -3,7 +3,7 @@ layout: post
 title: "A lost relationship"
 date: 2020-04-12 19:24:27 +0530
 categories: "Experience"
-Tags: Pixel, Experience
+tags: [blog, Pixel, Experience]
 comments: true
 ---
 The relationship lasted for 2 years, 3 months, 11 days. Barring restroom moments, we were together all the time. I'm talking about my Pixel 2, which has provided me a wonderful experience on any electronics gadget that I've ever owned.

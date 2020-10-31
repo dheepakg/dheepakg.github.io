@@ -18,7 +18,7 @@ A Sherlockian.
 
 I love stories - podcast, blogs, vlogs, books or documentaries. I do think dubsmash is overrated.
 
-Reach out to me at [@deegovee](https://twitter.com/deegovee)
+Reach out to me at [@dheeepakg](https://twitter.com/dheeepakg)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjQwNjc3NzYzXX0=

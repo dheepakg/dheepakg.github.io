@@ -3,7 +3,7 @@ layout: post
 title: "Unexpected outcome"
 date: 2020-09-08 19:47:27 +0530
 categories: "Experience"
-Tags: Interview, Delighted
+tags: [blog, Interview, Delighted]
 comments: true
 ---
 

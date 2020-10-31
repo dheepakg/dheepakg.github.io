@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Working with Raspberry Pi files &middot; Dheepak Govindaraj
+    
+  </title>
+
+  <!-- Theme CSS -->
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+  <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+  <!-- Custom CSS -->
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"> -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/public/css/custom.css">
+
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+  <!-- <link rel="shortcut icon" href="/public/favicon.ico"> -->
+
+  <!-- Feed (jekyll-feed) -->
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Dheepak Govindaraj" />
+</head>
+
+
+  <body class="theme-base-0c">
+
+    <div class="sidebar">
+  <div class="container left-align">
+    <div class="sidebar-about">
+      <h1>
+        <a href="/">
+          Dheepak Govindaraj
+        </a>
+      </h1>
+      <p class="lead">Data Enthusiast and software developer</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <!-- <a class="sidebar-nav-item" href="/">Home</a> -->
+
+      
+
+      <a class="sidebar-nav-item" href="/Blog/">Blog</a>
+      
+      <a class="sidebar-nav-item"
+         href="/about/">About</a>
+      <!-- a class="sidebar-nav-item"
+         href="/resume/">Resume</a -->
+      <a class="sidebar-nav-item"
+         href="/TIL/">TIL</a>
+      <a class="sidebar-nav-item"
+         href="/TPW.html">The Past Week</a>
+    </nav>
+
+    <ul class="list-inline" id="sidebar-buttons">
+
+        <li>
+            <a href="https://github.com/dheepakg" target="_blank" class="btn-social btn-outline" title="dheepakg on GitHub">
+                <i class="fa fa-fw fa-github"></i>
+            </a>
+        </li>
+
+        <li>
+            <a href="https://twitter.com/dheeepakg" target="_blank" class="btn-social btn-outline" title="@dheeepakg on Twitter">
+                <i class="fa fa-fw fa-twitter"></i>
+            </a>
+        </li>
+
+        <li>
+            <a href="https://www.linkedin.com/in/dheepak-govindaraj-83a22623/" target="_blank" class="btn-social btn-outline" title="Dheepak Govindaraj on LinkedIn">
+                <i class="fa fa-fw fa-linkedin"></i>
+            </a>
+        </li>
+
+
+    </ul>
+
+    <p id="credits">&copy; 2020. <a href="/credits">Credits</a>.</p>
+  </div>
+</div>
+
+
+
+    <div class="content container">
+      <div class="post">
+  <h1 class="post-title"><p>Working with Raspberry Pi files</p>
+</h1>
+  
+  <span class="post-date">04 Apr 2020</span>
+  <p>Some reference on how to connect to a Raspberry Pi running in the same LAN network.</p>
+
+<p>I’ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to <a href="https://dheepakg.github.io/diy/2019/06/17/no-more-ad-breaks.html">filter off the ads</a> using Pi-hole<sup id="a1"><a href="#f1">1</a></sup>, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file. the plan is to arrive to some meaningful conclusion of the data.</p>
+
+<p>The good thing about Pi-hole is its maintenance is literally <em>zero</em>, no need for us to interfere in its operation, barring occasional update. And, with the need of updates, I google the commands to connect to Rpi. Every. Single. Time.</p>
+
+<p>With practice, the commands gets typed, thanks to muscle memory. However, to get it practiced I gotta use the commands quite often. Googling the commands is an obstacle and discourages me to use CLI to enter into Rpi. Noting down the commands is quite useful for reference, and why not make it decentralised by adding to GitHub. Going a step ahead, lets add to blog. If it works out well, more references can be added to the blog for my reference sake.</p>
+
+<p><strong>To identify the IP address of Raspberry Pi</strong></p>
+
+<p>The first one will spit out the IP Address, while the <em>ping</em> gives IP address and the time taken to reach the IP<sup id="a2"><a href="#f2">2</a></sup>.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">hostname</span> <span class="nt">-I</span>
+</code></pre></div></div>
+<p>or</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ping raspberrypi.local
+</code></pre></div></div>
+
+<p><strong>To enter into Rpi from another machine on same network</strong></p>
+
+<p>Use <code class="language-plaintext highlighter-rouge">ssh</code> protocol to copy files to and from Rpi<sup id="a3"><a href="#f3">3</a></sup>.</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>ssh pi@hostname_of_rpi_from_above_step
+</code></pre></div></div>
+<p>Default credentials for Raspberry Pi (with Raspbian OS)
+Username: pi; Password: raspberry</p>
+
+<p><strong>Copying files from Rpi</strong>
+Use <code class="language-plaintext highlighter-rouge">scp</code> protocol to copy files to and from Rpi<sup id="a4"><a href="#f4">4</a></sup>.</p>
+
+<p>Copying file from Rpi</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>scp pi@hostname_of_rpi_from_above_step:pathin_rpi/filename.ext destination_filename.ext
+</code></pre></div></div>
+
+<p>Copying file from Rpi</p>
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>scp filename.ext pi@1hostname_of_rpi_from_above_step:path_in_rpi/
+</code></pre></div></div>
+<p><strong>References</strong><br />
+<b id="f1">1.</b> Pi-hole <a href="https://pi-hole.net/">https://pi-hole.net/</a>    <a href="#a1">↩</a></p>
+
+<p><b id="f2">2.</b>  Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md">docs</a> <a href="#a2">↩</a></p>
+
+<p><b id="f3">3.</b> Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/README.md">docs on ssh connections</a>  <a href="#a3">↩</a></p>
+
+<p><b id="f4">4.</b> Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md">docs on scp connections</a>  <a href="#a3">↩</a></p>
+
+</div>
+
+<!-- <div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2020/10/10/Books.html">
+            <p>A curious question on reading?</p>
+
+            <small>10 Oct 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2020/09/29/Weekly-Update-5.html">
+            <p>Weekly Update 5 - Sep 29, 2020</p>
+
+            <small>29 Sep 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2020/09/22/Weekly-Update-4.html">
+            <p>Weekly Update 4 - Sep 22, 2020</p>
+
+            <small>22 Sep 2020</small>
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div> -->
+
+    </div>
+
+
+  </body>
+</html>

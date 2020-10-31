@@ -1,0 +1,33 @@
+---
+layout: default
+title: The Past Week
+permalink: TPW.html
+---
+<h1> The Past Week </h1>
+</br>
+<div class="posts">
+
+
+  {% for post in site.posts %}
+
+  {% if post.tags[0] == 'weekly-updates' %}
+
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        {{ post.title | markdownify }}
+      </a>
+    </h2>
+    {% if post.subtitle %}
+      <h3 class="post-subtitle">{{ post.subtitle | markdownify  }}</h3>
+    {% endif %}
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+
+    {{ post.excerpt | markdownify }}
+
+  </div>
+
+  {% endif %}
+  {% endfor %}
+
+</div>

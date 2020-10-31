@@ -3,7 +3,7 @@ layout: post
 title:  "Weekly Update 5 - Sep 29, 2020"
 date:   2020-09-29 19:07:00 +0530
 categories: Weekly-Update
-Tags: Updates
+tags: [weekly-updates, Updates]
 comments: true
 ---
 

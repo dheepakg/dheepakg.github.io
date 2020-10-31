@@ -2,13 +2,14 @@
 highlighter:      rouge
 
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-feed
   - jemoji
 
 # Permalinks
-permalink:              /blog/:categories/:title/
+# permalink:              pretty
 # permalink:            blog/:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title.html
 
 # Setup
 title:            'Dheepak Govindaraj'
@@ -31,7 +32,7 @@ author:
   googleplus:     ''
   linkedin:       'https://www.linkedin.com/in/dheepak-govindaraj-83a22623/'
 
-paginate:  3
+# paginate:  3
 # paginate_path: '/TPW/page:num/'
 
 # Custom vars
@@ -44,6 +45,7 @@ github:
 collections:
   - TIL
   - TPW
+  - Blog
 
 # defaults:
 #   -

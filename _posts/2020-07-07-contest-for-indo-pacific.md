@@ -3,7 +3,7 @@ layout: post
 title: "Contest for the Indo-Pacific"
 date: 2020-07-07 22:24:27 +0530
 categories: "Book"
-Tags: Geopolitics, China
+tags: [blog, Geopolitics, China]
 comments: true
 ---
 

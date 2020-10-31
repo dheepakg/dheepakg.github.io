@@ -3,7 +3,7 @@ layout: post
 title:  "Fight against Climate Change is not getting traction - Why?"
 date:   2019-06-23 11:17:27 +0530
 categories: Opinion
-Tags: Climat Change, Environment
+tags: [blog, Climate Change, Environment]
 comments: true
 ---
 

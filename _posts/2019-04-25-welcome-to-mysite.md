@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to the site!"
 date:   2019-04-25 19:47:17 +0530
 categories: Welcome
-Tags: foobar
+tags: [blog, foobar]
 comments: true
 ---
 This is a new site built on [Jekyll](https://jekyllrb.com/), hosted on [GitHub](https://github.com/dheepakg/dheepakg.github.io).

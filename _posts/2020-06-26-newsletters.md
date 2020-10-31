@@ -3,7 +3,7 @@ layout: post
 title: "The return of Newsletters"
 date: 2020-06-26 19:24:27 +0530
 categories: "Opinion"
-Tags: Email, Newsletter
+tags: [blog, Email, Newsletter]
 comments: true
 ---
 
@@ -16,15 +16,15 @@ There is a couple of first order effects,
 
 Beyond First Order<sup id="a2">[2](#f2)</sup>
 
- 1. Started losing time in aimless scrolling of social media. 
+ 1. Started losing time in aimless scrolling of social media.
  2. Missed to read important emails
  3. The phone addiction becomes a thing
 
 Thanks to one of the tweet thread, I started subscribing to newsletters. But the problem is cluttered inbox. Took a half day to cleanup my inbox, unsubscribed umpteen emails, turned off facebook's 'birthday wishes' emails.
 
-It's been over a month of reading newsletters. I feel satisfied with this new habit of going through emails in the mornings instead of scrolling my news feed. 
+It's been over a month of reading newsletters. I feel satisfied with this new habit of going through emails in the mornings instead of scrolling my news feed.
 
-Also, on every morning, my inbox becomes zero. 
+Also, on every morning, my inbox becomes zero.
 
 I'll list down my newsletter in another post.
 

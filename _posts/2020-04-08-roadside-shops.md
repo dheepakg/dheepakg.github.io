@@ -3,7 +3,7 @@ layout: post
 title: "Shouldn’t there be some regulation – road side shops"
 date: 2020-04-08 12:40:27 +0530
 categories: Opinion
-Tags: repost, everyday, people
+tags: [blog, repost, everyday, people]
 comments: true
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Starting with Jekyll"
 date: 2019-05-04 22:02:00 +0530
 categories: Programming
-Tags: Meta
+tags: [blog, Meta]
 comments: true
 ---
 

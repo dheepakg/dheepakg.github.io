@@ -3,11 +3,9 @@ layout: post
 title:  "Yes, humanity exists"
 date:   2019-07-22 23:17:27 +0530
 categories: Experience
-Tags: Feel Good
+tags: [blog, Feel Good]
 comments: true
 ---
-
-[comment]: <> (Events made us to believe humanity is dead)
 
 The social media is made of several bubbles. The bubbles, each of us build around us, with like minded people. With the bubble is well constructed, we live and slowly start believing it is the reflection of the actual world.  
 

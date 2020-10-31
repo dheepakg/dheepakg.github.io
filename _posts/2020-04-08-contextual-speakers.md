@@ -3,7 +3,7 @@ layout: post
 title: "Striving with Contextual speakers"
 date: 2020-04-08 12:40:27 +0530
 categories: Experience
-Tags: repost, everyday, people
+tags: [blog, repost, everyday, people]
 comments: true
 ---
 

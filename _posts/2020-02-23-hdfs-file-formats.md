@@ -3,7 +3,7 @@ layout: post
 title:  "Comparison of various HDFS file formats"
 date:   2020-02-23 13:47:17 +0530
 categories: Hands-On
-Tags: avro, parquet, csv, json
+tags: [blog, avro, parquet, csv, json]
 comments: true
 ---
 
