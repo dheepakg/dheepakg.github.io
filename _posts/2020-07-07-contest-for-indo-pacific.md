@@ -2,18 +2,20 @@
 layout: post
 title: "Contest for the Indo-Pacific"
 date: 2020-07-07 22:24:27 +0530
+author: Rory Medcalf
 categories: "Book"
-tags: [blog, Geopolitics, China]
+pages: 477
+tags: [books, Geopolitics, China]
 comments: true
 ---
 
 #### Getting introduced to this book
 The border is tense. The Ladakh known for its snowy cold climate is hotly discussed by the media. The reason being Chinese aggressive intrusion across LAC, amidst the ongoing COVID-19 pandemic. ThePrint.in's [Cut the clutter](https://www.youtube.com/watch?v=tKxfBRBSSIc&list=PLfa0eRI2uIaR1iOJnq7tklxIJDLxTxI5y) is so good in clearing the muddled political events. This book was introduced through one of its [video](https://www.youtube.com/watch?v=GVeU83X72J0).
 
-### What's the book is about?
+#### What's the book is about?
 It's a nonfiction book on Indo-Pacific, an idea or a geopolitical region, written by Rory Medcalf. The author is a [Professor](https://researchers.anu.edu.au/researchers/medcalf-r) has been Head of the National Security College (NSC) at the Australian National University.
 
-### Contents
+#### Contents
 
 The book's full title is Contest for the Indo-Pacific: Why **China** Won't Map the Future. So, obviously this book revolves around the nation.
 
