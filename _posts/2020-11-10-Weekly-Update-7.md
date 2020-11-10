@@ -7,7 +7,7 @@ tags: [weekly-updates, Updates]
 comments: true
 ---
 
-This is the 7<sup>th</sup> instalment of weekly update. Let's revisit the interesting things that I came across in between last Monday and today (November 10, 2020). This is <> words long
+This is the 7<sup>th</sup> instalment of weekly update. Let's revisit the interesting things that I came across in between last Monday and today (November 10, 2020). This is 444 words long.
 
 **1. [#USElection2020](https://twitter.com/search?q=%23USElections2020)**
 
@@ -17,7 +17,7 @@ Joe Biden (aka [Amtrak Joe](https://railway-news.com/how-did-president-elect-bid
 **2. [Vaccine is here, finally](#vaccine)**  
 On November 9<sup>th</sup>, Pfizer announced positive early results from its coronavirus vaccine trial, cementing the lead in a frenzied global race that has unfolded at record-breaking speed.
 
-The firm that invented the #Pfizer vaccine, Biontech, is a German medical startup founded by the children of Turkish immigrants: Özlem Türeci (CMO) and Uğur Şahin (CEO).
+The firm that invented the Pfizer vaccine, Biontech, is a German medical startup founded by the children of Turkish immigrants: Özlem Türeci (CMO) and Uğur Şahin (CEO).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The century’s best advert for:<br><br>(a) science<br>(b) startups<br>(c) immigration<br><br>🚀 🚀 🚀 <a href="https://t.co/NGenr2uJb3">https://t.co/NGenr2uJb3</a></p>&mdash; Matt Clifford (@matthewclifford) <a href="https://twitter.com/matthewclifford/status/1325799713111764992?ref_src=twsrc%5Etfw">November 9, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
