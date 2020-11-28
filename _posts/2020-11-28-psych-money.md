@@ -12,8 +12,8 @@ comments: true
 This is about [The Psychology of Money](https://www.amazon.in/gp/product/9390166268/) by [Morgan Housel](https://www.collaborativefund.com/blog/authors/morgan/), a Columnist. This book became a sensation in the [#fintwit](https://twitter.com/hashtag/fintwit?lang=en). Many tweeters recommended the book and I preordered it on Amazon.
 
 |![The Cover image](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Books/psych-money.jpg?raw=true){:height="600px" width="450px"}|
-| :------------------------------------------------------------------------: |
-|       Book Cover                                                           |
+| :-----------------------------------------------: |
+|       Book Cover                                  |
 
 The book is crisp - 240 pages grouped into 20 chapters, each having a story to explain actions behind money decisions.
 
@@ -61,4 +61,11 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 ### 4. Confounding Compounding
 > $81.5 billion of Warren Buffett's $84.5 billion net worth came after his 65th birthday. Our minds are not built to handle such absurdities.
 
-*  
+*  Lessons from one field can often teach us something important about unrelated fields
+* "_His skill is investing; his secret is time_" - on Warren Buffett  
+* Good investing is about earning pretty good returns that you can stick with  and which can be repeated for the longest period of time. That's when compounding runs wild.  
+* If you were a technology optimist in the 1950s you may have predicted that practical storage would become 1000 times or 10,000 times larger. Few would have said _30 million_ times larger within lifetime. But, thats what happened.
+
+### 5. Getting Wealthy vs. Staying Wealthy
+> Good investing is not necessarily about making good decisions. It's about consistently not screwing up.
+* 
