@@ -15,12 +15,12 @@ This is about [The Psychology of Money](https://www.amazon.in/gp/product/9390166
 | :--------------------: |
 |       Book Cover       |
 
-The book is crisp - 240 pages grouped into 20 chapters, each having a story to explain actions behind money decisions.
+The book is crisp - 240 pages grouped into 20 chapters, each having few stories to explain actions behind money decisions.
 
 
+## Notes from each of the chapter
 
-
-### Introduction
+### [Introduction](#intro)
 * A genius who loses control of their emotions can be a financial disaster.
 * Financial success is not a hard science. It's a soft skill.
 * Physics isn't controversial; it's guided by laws. Finance is different; it's guided by human behaviours.
@@ -31,6 +31,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 
 > Your personal experiences with money make up maybe 0.0000001% of what's happened in the world, but maybe 80% of how you think the world works.
 
+
   * Everyone has their own unique experience with how the world works.
   * "Some lessons have to be experienced before they can be understood" - Michael Batnick
   * "Our findings suggest that individual investors' willingness to bear risk depends on personal history." - The Economist
@@ -40,6 +41,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 
 ### 2. Luck & Risk
 > Nothing is as good or as bad as it seems.
+
  * _Luck and Risk_ are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort.  
  * The line between "inspiringly bold" and "foolishly reckless" can be a millimetre thick and only visible with hindsight.
  * Risk and Luck are doppelgängers.
@@ -195,3 +197,51 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 
 * The more you want something to be true, the more likely you are to believe a story that overestimates the odds of it being true.
 * Investing is one of the only field that offers daily opportunities for extreme rewards.
+* Incentives are a powerful motivators, and we should always remember how they influence our own financial goals and outlooks.
+
+* Everyone has an incomplete view of the world. But we form a complete narrative to fill the gaps.
+* Risk is what's left when you think you've thought of everything.
+
+
+
+### 19. All Together Now
+> What we've learned about psychology of Money
+
+1. Manage your money in a way that helps you sleep at night.
+2. If you want to do better as an investor, the single most powerful thing you can do is increase your time horizon.
+3. Become OK with a lot of things going wrong. You can be wrong half the time and still make a fortune.
+4. Use money to gain control over your time.
+5. Be nice and less flashy.
+6. Save. Just save. You don't need a specific reason to save.
+7. Define the cost of success and be ready to pay for it.
+8. Worship room for error.
+9. Avoid the extreme ends of financial decisions.
+10. You should like risk because it pays off over time.
+11. Define the game you're playijng.
+12. Respect the mess.
+
+
+### Confessions
+> The psychology of my own money.
+
+* Independence, to me, doesn't mean you'll stop working. It means you only do the work you like with people you like at the times you want for as long as you want.
+
+* True success is exiting some rat race to modulate one's activities for peace of mind.
+* Good decisions aren't always rational. At some point you have to choose between being happy or being 'right'.
+
+* Everyone will face a huge expense they did not expect - and they don't plan for these expenses specifically because they did not expect them.
+
+* The 1<sup>st</sup> rule of compounding is to never interrupt is unnecessarily.
+
+* Every investor should pick a strategy that has highest probability of successfully meeting their goals.
+
+* I can afford to not be the greatest investor in the world; but I can't afford to be a bad investor.
+
+
+## [Conclusion](#conclusion)  
+
+The book begins with the below quote from _the Sherlock Holmes_.
+
+>> The world is full of obvious things which by any chance ever observes
+
+[James Clear](https://jamesclear.com/about) says, " everyone should own a copy". He is right to the every word. This book deserves to be read multiple times to reassess where we are at our financial journey.
