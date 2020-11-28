@@ -135,4 +135,36 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 ### 13. Room for Error
 > The most important part of every plan is planning on your plan not going according to plan.
 
+* The wisdom is having room for error is acknowledging that uncertainty, randomness, and chance are an ever present part of life.
+* The purpose of having _Margin of safety_ is to render the forecast unnecessary.
+
+* Room of error lets you endure a range of potential outcomes and endurance lets you stick around long enough to let the odds of benefitting from low-probablity outcome fall in your favour.
+* Having a gap between what you can technically endure versus what's emotionally possible is an overlooked version of room for error.
+* IF something has 95% odds of being right, the 5% odds of being wrong means you will almost certainly experience the downside at some point in your life.
+
+* A homeowner wiped out in 2009 had no chance of taking advantage of cheap mortage rates in 2010.
+* A good rule of thumb - That everything that can break will eventually break.
+
+
+### 14. You'll Change
+> Long-term planning is harder that it seems because people's goals and desires change over time.
+
+* An underpinning of psychology is that people are poor forecasters of their future selves.
+
+* We should avoid extreme end of financial planning.
+* We should also come to accept the reality of changing our minds.
+* Sunk cost - Anchoring decisions to past efforts that can't be refunded.
+* Financial goals made when you were a different person should be abandoned without mercy versus put on life support and dragged on can be a good strategy to minimize future regrets.
+
+
+### 15. Nothing's Free
+> Everything has a price, but not all prices appear on labels.
+
+* Every job looks easy when you're not the one doing it.
+* In Investing _volatality_ is always a fee, not a fine.
+
+
+### 16. You & Me
+> Beware taking financial cues from people playing different game than you are.
+
 * 
