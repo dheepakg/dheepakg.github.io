@@ -79,4 +79,60 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 ### 6. Tails, You Win
 > You can be wrong half the time and still make a fortune.
 
+* "I've been banging away at this thing for 30 years. I think the simple math is, some projects works and some don't. There's no reason to belabour either one. Just get on to next." - Brad Pitt accepting Screen Actors Guild Award
+
+* The idea that few things account for most results is not just true for companies in your investment portfolio. It's also an important part of your own behaviour as an investor.
+* Good definition of investing genius is one who can do the average thing when all those around them are going crazy.
+* The fact that you can read this book is the result of the longest tail you can imagine.
+
+
+### 7. Freedom
+> Controlling your time is the highest dividend money pays
+
+* The ability to do _what you want, when you want, with who you want, for as long as you want,_ is priceless. It is the highest dividend money pays.
+
+* Doing something you love on a schedule  you can't control can feel the same _as doing something that you hate_
+* "If the operating equipment of the 21<sup>st</sup> century is a portable device, this means the modern factory is not a place at all. _The factory is the day itself._" - Derek Thomson of The Atlantic.
+
+
+### 8. Man in the Car Paradox
+> No one is impressed with your possessions as much as you are.
+
+* Humility, Kindness, and empathy will bring you more respect than horsepower ever will.
+
+### 9. Wealth is What You Don't See
+> Spending money to show peopple how mush money you have is the fastest way to have less money
+
+* Rich is current income. But _wealth_ is hidden. _It's income that's not spent_.
+* People are good at learning by imitation. But the hidden nature of wealth makes it hard to imitate others and learn their ways.
+
+
+### 10. Save Money
+> The only factor you can control generates one of the only things that matters.
+
+* The value of wealth is relative to what you need.
+* Only saving for a specific goal makes sense is a predictable world. _But ours isn't always predictable_.
+* Past a certain level is income, what you need is just what sits below your ego.
+* People's ability to save is more in their control than they might think.
+* Flexibility and control over your time is an unseen return on wealth.
+
+
+### 11. Reasonable > Rational
+> Aiming to be mostly reasonable works better than trying to be coldly rational.
+
+* It may be rational to want a fever if you have an infection. But its not reasonable.
+
+
+### 12. Suprise!
+> History is the study of change, ironically used as a map of the future.
+
+* You'll likely miss the outlier events that move the needle the most.
+* The majority of what's happening at any given moment in the global economy can be  tied back to a handful of past events that were nearly impossible to predict.
+
+* History can be misleading guide to the future of the economy or stock market.
+* Historians are not prophets.
+
+### 13. Room for Error
+> The most important part of every plan is planning on your plan not going according to plan.
+
 * 
