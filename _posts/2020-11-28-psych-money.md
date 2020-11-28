@@ -11,15 +11,13 @@ comments: true
 
 This is about [The Psychology of Money](https://www.amazon.in/gp/product/9390166268/) by [Morgan Housel](https://www.collaborativefund.com/blog/authors/morgan/), a Columnist. This book became a sensation in the [#fintwit](https://twitter.com/hashtag/fintwit?lang=en). Many tweeters recommended the book and I preordered it on Amazon.
 
-|![The Cover image](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Books/psych-money.jpg?raw=true){:height="300px" width="500px"}|
+|![The Cover image](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Books/psych-money.jpg?raw=true){:height="500px" width="300px"}|
 | :------------------------------------------------------------------------: |
 |       Book Cover                                                           |
 
 The book is crisp - 240 pages grouped into 20 chapters, each having a story to explain actions behind money decisions.
 
-|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Books/psych-money.jpg?raw=true =300x500) |
-| :------------------------------------------------------------------------: |
-|       Book Cover                                                           |
+
 
 
 ### Introduction
