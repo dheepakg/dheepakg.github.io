@@ -5,7 +5,9 @@ permalink: /recos/books.html
 ---
 
 
-### Book Recommendation
+### Books - Notes & Summaries
+
+This page contains notes and summary from the list of books that I read in the recent past. This is definitely not a book review.
 
 <br>
 
