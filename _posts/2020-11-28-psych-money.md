@@ -221,7 +221,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 12. Respect the mess.
 
 
-### [Confessions](#20)
+### Confessions[:link:](#20)
 > The psychology of my own money.
 
 * Independence, to me, doesn't mean you'll stop working. It means you only do the work you like with people you like at the times you want for as long as you want.
@@ -238,7 +238,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 * I can afford to not be the greatest investor in the world; but I can't afford to be a bad investor.
 
 
-## [Conclusion](#conclusion)  
+## Conclusion[:link:](#conclusion)  
 
 The book begins with the below quote from _the Sherlock Holmes_.
 
