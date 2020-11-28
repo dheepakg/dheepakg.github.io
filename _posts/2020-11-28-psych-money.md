@@ -12,8 +12,8 @@ comments: true
 This is about [The Psychology of Money](https://www.amazon.in/gp/product/9390166268/) by [Morgan Housel](https://www.collaborativefund.com/blog/authors/morgan/), a Columnist. This book became a sensation in the [#fintwit](https://twitter.com/hashtag/fintwit?lang=en). Many tweeters recommended the book and I preordered it on Amazon.
 
 |![The Cover image](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Books/psych-money.jpg?raw=true){:height="600px" width="450px"}|
-| :-----------------------------------------------: |
-|       Book Cover                                  |
+| :--------------------: |
+|       Book Cover       |
 
 The book is crisp - 240 pages grouped into 20 chapters, each having a story to explain actions behind money decisions.
 
@@ -67,5 +67,16 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 * If you were a technology optimist in the 1950s you may have predicted that practical storage would become 1000 times or 10,000 times larger. Few would have said _30 million_ times larger within lifetime. But, thats what happened.
 
 ### 5. Getting Wealthy vs. Staying Wealthy
-> Good investing is not necessarily about making good decisions. It's about consistently not screwing up.
+> Good investing is not necessarily about making good decisions. It's about consistently not screwing up.  
+
+* There are million ways to get wealthy, and plenty of books on how to do so. But there's only one way to stay wealthy; some combination of frugality and paranoia.
+* Compunding only grows if you can give an asset years and years to grow.
+* Planning is important, but the most important part of every plan is to plan on the plan not going according to plan.
+* A plan is only useful if it can survive reality. And a future filled with unknowns is everyone's reality.
+* Destruction in the face of progress is not only possible, but an efficient way to get rid of excess.
+* You need short-term paranoia to keep you alive long enough to exploit long-term optimism.
+
+### 6. Tails, You Win
+> You can be wrong half the time and still make a fortune.
+
 * 
