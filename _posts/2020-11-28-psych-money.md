@@ -167,4 +167,31 @@ The book is crisp - 240 pages grouped into 20 chapters, each having a story to e
 ### 16. You & Me
 > Beware taking financial cues from people playing different game than you are.
 
-* 
+* Bubbles form when the momentum of short-term returns attracts enough money that the makeup of investors shifts from mostly long term to mostly short term.
+
+* A young lawyer aiming to be a partner at a prestigious law firm might need to maintain an appearance that I, a writer who can work in sweatpants, have no need for.
+
+
+### 17. The Seduction of Pessimism
+> Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you
+
+* Optimism is a belief that odds of a good outcome are in your favour over time, even when there will be setbacks along the way.
+* "For reasons I have never understand, people like to hear that the world is going to hell" - Historian Deirdre McCloskey
+
+* Pessimism sounds smarter and more plausible than Optimism.
+* There are 2 topics that will affect your life whether you're interested in them or not: Money & Health.
+* Pessimists often extrapolate present trends without accounting for how markets adapt.
+
+* Iron law in Economics - Extremely good and extremely bad circumstances rarely stay that way for long because _supply and demand adapt in hard-to-predict ways_.
+
+* The progress happen too slowly to notice. But setbacks happen too quickly to ignore
+* Growth is driven by compounding, which always takes time. Destruction is driven by single point of failure, which can happen in seconds and loss of confidence which can happen in an instant.
+
+* Pessimism reduces expectations, narrowing the gap between possible outcomes and outcomes you feel great about.
+* Expecting things to be bad is the best way to be pleasantly surprised.
+
+### 18. When You'll Believe Anything
+> Appealing fictions, and why stories more powerful that statistics.
+
+* The more you want something to be true, the more likely you are to believe a story that overestimates the odds of it being true.
+* Investing is one of the only field that offers daily opportunities for extreme rewards.
