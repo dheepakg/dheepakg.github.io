@@ -20,7 +20,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 
 ## Notes from each of the chapter
 
-### [Introduction](#intro)
+### Introduction
 * A genius who loses control of their emotions can be a financial disaster.
 * Financial success is not a hard science. It's a soft skill.
 * Physics isn't controversial; it's guided by laws. Finance is different; it's guided by human behaviours.
@@ -221,7 +221,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 12. Respect the mess.
 
 
-### Confessions[:link:](#20)
+### 20. Confessions
 > The psychology of my own money.
 
 * Independence, to me, doesn't mean you'll stop working. It means you only do the work you like with people you like at the times you want for as long as you want.
@@ -238,7 +238,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 * I can afford to not be the greatest investor in the world; but I can't afford to be a bad investor.
 
 
-## Conclusion[:link:](#conclusion)  
+## Conclusion  
 
 The book begins with the below quote from _the Sherlock Holmes_.
 
