@@ -15,6 +15,6 @@ This page contains podcasts, and my favourite episode of the podcasts. Also, the
 
 
 
-  |# |Podcast Name| Podcaster | Runtime |
-  |---|---|---|---| {% for post in site.posts reversed %}  {% if post.tags[1] == 'podcast' %}
-  | {% increment my_counter %} | <a href="{{ site.baseurl }} {{ post.url }} ">   {{ post.title  }} </a> | {{ post.author }} | {{ post.runtime }} |{% endif %}     {% endfor %}
+  |# |Podcast Name| Podcaster | Subject |Runtime | Frequency |
+  |---|---|---|---|---|---| {% for post in site.posts reversed %}  {% if post.tags[1] == 'podcast' %}
+  | {% increment my_counter %} | <a href="{{ site.baseurl }} {{ post.url }} ">   {{ post.title  }} </a> | {{ post.podcaster }} | {{post.subject }} | {{ post.runtime }} |{{ post.frequency }}|{% endif %}     {% endfor %}
