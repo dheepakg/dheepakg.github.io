@@ -22,5 +22,5 @@ This page contains notes and summary from the list of books that I read in the r
 
 
   |# |Book Name| Author  |  Pages |
-  |---|---|---|---| {% for post in site.posts reversed %}  {% if post.tags[0] == 'books' %}
+  |---|---|---|---| {% for post in site.posts reversed %}  {% if post.tags[1] == 'books' %}
   | {% increment my_counter %} | <a href="{{ site.baseurl }} {{ post.url }} ">   {{ post.title  }} </a> | {{ post.author }} | {{ post.pages }} |{% endif %}     {% endfor %}
