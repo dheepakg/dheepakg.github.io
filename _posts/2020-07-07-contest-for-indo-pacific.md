@@ -5,7 +5,7 @@ date: 2020-07-07 22:24:27 +0530
 author: Rory Medcalf
 categories: "Book"
 pages: 477
-tags: [books, Geopolitics, China]
+tags: [blog, books, Geopolitics, China]
 comments: true
 ---
 

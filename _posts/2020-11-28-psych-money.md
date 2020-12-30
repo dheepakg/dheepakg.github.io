@@ -5,7 +5,7 @@ author: "Morgan Housel"
 pages: 238
 date:   2020-11-28 10:07:00 +0530
 categories: Recommendations
-tags: [books, Notes]
+tags: [blog, books, Notes]
 comments: true
 ---
 

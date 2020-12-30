@@ -3,7 +3,7 @@ layout: post
 title:  "Weekly Update 7 - Nov 10, 2020"
 date:   2020-11-10 20:07:00 +0530
 categories: Weekly-Update
-tags: [weekly-updates, Updates]
+tags: [blog, weekly-updates, Updates]
 comments: true
 ---
 
