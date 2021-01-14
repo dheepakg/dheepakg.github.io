@@ -25,7 +25,7 @@
 
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/about/">About</a>
       <a class="sidebar-nav-item" href="{{ site.baseurl }}/TIL/">TIL</a>
-      <a class="sidebar-nav-item" href="{{ site.baseurl }}/reco.html">Recos</a>
+      <!-- <a class="sidebar-nav-item" href="{{ site.baseurl }}/reco.html">Recos</a> -->
     </nav>
 
     <ul class="list-inline" id="sidebar-buttons">
@@ -61,7 +61,22 @@
           <i class="fa fa-fw fa-linkedin"></i>
         </a>
       </li>
+
+
       <li>
+          <div class="dropdown fa fa-caret-down">
+
+          <div class=" dropdown-content">
+            <a href="{{ site.baseurl }}/recos/books.html" title="Book Recommendations"><i class="fa fa-book" aria-hidden="true"></i></a>
+            <a href="https://getpocket.com/@dh0A9g0GdTt9dTX3f0ps447pn3T6d120GO9x88I709a7e1A263925b7dJaNwqg61"  title="Pocket Recommendations"  target="_blank"  ><i class="fa fa-get-pocket" aria-hidden="true"></i></a >
+            <a href="{{ site.baseurl }} /recos/podcasts.html" title="Podcast Recommendations"><i class="fa fa-podcast" aria-hidden="true"></i></a>
+
+          </div>
+
+      </div>
+      </a>
+        </li>
+        <li>
         <a
           href="https://github.com/dheepakg/dheepakg.github.io/issues"
           target="_blank"
@@ -71,11 +86,7 @@
           <i class="fa fa-bug"></i>
         </a>
       </li>
-      <!-- <li>
-            <a href="{{ site.baseurl }}/reco.html" class="btn-social btn-outline" title="Recommended books, podcasts, videos et al">
-                <i class="fa fa-star"></i>
-            </a>
-        </li> -->
+      </li>
     </ul>
 
     <p id="credits">
