@@ -5,6 +5,7 @@ plugins:
   # - jekyll-paginate
   - jekyll-feed
   - jemoji
+  - jekyll-seo-tag
 
 # Permalinks
 # permalink:              pretty
