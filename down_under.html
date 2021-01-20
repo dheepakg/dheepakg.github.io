@@ -1,0 +1,60 @@
+<html>
+  <h1>Border-Gavaskar Trophy Australia 2020/21</h1>
+  <br />
+  <br />
+  <h2>How Indian players fared across the series</h2>
+  <body>
+    <script
+      type="text/javascript"
+      src="https://www.gstatic.com/charts/loader.js"
+    ></script>
+
+    <div id="sankey_multiple" style="width: 900px; height: 300px"></div>
+
+    <script type="text/javascript">
+      google.charts.load("current", { packages: ["sankey"] });
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn("string", "From");
+        data.addColumn("string", "To");
+        data.addColumn("number", "Weight");
+        data.addRows([
+          ["India", "Adelaide", 11],
+
+          ["Adelaide", "Paternity Leave", 1],
+          ["Adelaide", "Injured", 1],
+
+          ["Adelaide", "Dropped", 2],
+
+          ["Adelaide", "Melbourne", 7],
+          ["Bench", "Melbourne", 1],
+          ["Recovered", "Melbourne", 1],
+          ["Debut", "Melbourne", 2],
+
+          ["Melbourne", "Injured", 1],
+
+          ["Melbourne", "Sydney", 9],
+          ["Debut", "Sydney", 1],
+          ["Recovered", "Sydney", 1],
+          ["Sydney", "Injured", 4],
+
+          ["Sydney", "Brisbane", 7],
+          ["Debut", "Brisbane", 2],
+          ["Bench", "Brisbane", 2],
+        ]);
+
+        // Set chart options
+        var options = {
+          width: 600,
+        };
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.Sankey(
+          document.getElementById("sankey_multiple")
+        );
+        chart.draw(data, options);
+      }
+    </script>
+  </body>
+</html>
