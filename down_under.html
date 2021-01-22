@@ -1,8 +1,8 @@
 <html>
-  <h1>Border-Gavaskar Trophy Australia 2020/21</h1>
+  <!-- <h1>Border-Gavaskar Trophy Australia 2020/21</h1>
   <br />
   <br />
-  <h2>How Indian players fared across the series</h2>
+  <h2>How Indian players fared across the series</h2> -->
   <body>
     <script
       type="text/javascript"
@@ -46,7 +46,19 @@
 
         // Set chart options
         var options = {
-          width: 600,
+          width: 750,
+          height: 400,
+          sankey: {
+            node: {
+              label: {
+                fontName: "Times-Roman",
+                fontSize: 14,
+                color: "#871b47",
+                bold: true,
+                italic: true,
+              },
+            },
+          },
         };
 
         // Instantiate and draw our chart, passing in some options.
