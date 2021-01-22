@@ -1,0 +1,56 @@
+<html>
+  <h1>Border-Gavaskar Trophy Australia 2020/21</h1>
+  <br />
+  <br />
+  <h2>How Indian playing XI in 1st test fared in the final test?</h2>
+  <body>
+    <script
+      type="text/javascript"
+      src="https://www.gstatic.com/charts/loader.js"
+    ></script>
+
+    <div id="sankey_multiple" style="width: 900px; height: 300px"></div>
+
+    <script type="text/javascript">
+      google.charts.load("current", { packages: ["sankey"] });
+      google.charts.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = new google.visualization.DataTable();
+        data.addColumn("string", "From");
+        data.addColumn("string", "To");
+        data.addColumn("number", "Weight");
+        data.addRows([
+          ["Playing XI in the first Test", "Playing XI in the fourth Test", 3],
+          ["Playing XI in the first Test", "Absence due to Personal reason", 1],
+          ["Playing XI in the first Test", "Injured in First Test", 1],
+          ["Playing XI in the first Test", "Injured in Second Test", 1],
+          ["Playing XI in the first Test", "Injured in Third Test", 4],
+          ["Playing XI in the first Test", "Removed from team", 1],
+        ]);
+
+        // Set chart options
+        var options = {
+          width: 750,
+          height: 400,
+          sankey: {
+            node: {
+              label: {
+                fontName: "Times-Roman",
+                fontSize: 14,
+                color: "#871b47",
+                bold: true,
+                italic: true,
+              },
+            },
+          },
+        };
+
+        // Instantiate and draw our chart, passing in some options.
+        var chart = new google.visualization.Sankey(
+          document.getElementById("sankey_multiple")
+        );
+        chart.draw(data, options);
+      }
+    </script>
+  </body>
+</html>
