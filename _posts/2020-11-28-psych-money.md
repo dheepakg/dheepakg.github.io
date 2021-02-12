@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Psychology of Money"
+title:  "The Psychology of Money - Notes"
 author: "Morgan Housel"
 pages: 238
 date:   2020-11-28 10:07:00 +0530
@@ -42,11 +42,11 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 ### 2. Luck & Risk
 > Nothing is as good or as bad as it seems.
 
- * _Luck and Risk_ are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort.  
+ * _Luck and Risk_ are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort.
  * The line between "inspiringly bold" and "foolishly reckless" can be a millimetre thick and only visible with hindsight.
  * Risk and Luck are doppelgängers.
  * Be careful who you praise and admire. Careful who you look down upon and wish to avoid becoming.
- * Focus less on specific individuals and case studies and more on broad patterns.  
+ * Focus less on specific individuals and case studies and more on broad patterns.
 
 
 ### 3. Never Enough
@@ -64,12 +64,12 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 > $81.5 billion of Warren Buffett's $84.5 billion net worth came after his 65th birthday. Our minds are not built to handle such absurdities.
 
 *  Lessons from one field can often teach us something important about unrelated fields
-* "_His skill is investing; his secret is time_" - on Warren Buffett  
-* Good investing is about earning pretty good returns that you can stick with  and which can be repeated for the longest period of time. That's when compounding runs wild.  
+* "_His skill is investing; his secret is time_" - on Warren Buffett
+* Good investing is about earning pretty good returns that you can stick with  and which can be repeated for the longest period of time. That's when compounding runs wild.
 * If you were a technology optimist in the 1950s you may have predicted that practical storage would become 1000 times or 10,000 times larger. Few would have said _30 million_ times larger within lifetime. But, thats what happened.
 
 ### 5. Getting Wealthy vs. Staying Wealthy
-> Good investing is not necessarily about making good decisions. It's about consistently not screwing up.  
+> Good investing is not necessarily about making good decisions. It's about consistently not screwing up.
 
 * There are million ways to get wealthy, and plenty of books on how to do so. But there's only one way to stay wealthy; some combination of frugality and paranoia.
 * Compunding only grows if you can give an asset years and years to grow.
@@ -238,7 +238,7 @@ The book is crisp - 240 pages grouped into 20 chapters, each having few stories 
 * I can afford to not be the greatest investor in the world; but I can't afford to be a bad investor.
 
 
-## Conclusion  
+## Conclusion
 
 The book begins with the below quote from _the Sherlock Holmes_.
 
