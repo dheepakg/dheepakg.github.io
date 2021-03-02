@@ -6,18 +6,27 @@ title: Blog
     <style>
       body {
         font-family: Calibri, sans-serif;
-        align-items:center;
 
       }
+      p {
+    /* word-break: break-all; */
+      white-space: normal;
+      justify-content: space-between;
+
+}
 
       .bigger-box {
+        /* position: absolute; */
+          right: 0px;
+
         border-radius: 25px;
         border-style: groove;
         border-spacing: 20px;
         padding-bottom: 20px;
         padding-left: 20px;
         padding-right: 30px;
-        max-width: 100ch;
+        max-width: 80ch;
+        /* width: 100%; */
         margin: 20px;
       }
 
@@ -28,13 +37,18 @@ title: Blog
       }
 
       .box-title {
+        padding-top: 10px;
         background-color: rgb(211, 211, 211);
+  vertical-align:baseline;
+
+
         float: left;
         width: 50%;
-        line-height: 6px;
+        line-height: 5px;
         font-weight: bolder;
       }
       .timestamp {
+         padding-top: 10px;
         text-align: right;
         background-color: rgb(211, 211, 211);
         float: left;
@@ -56,7 +70,7 @@ This mostly consists of trivial things that I see interesting.
     <div class="bigger-box">
       <div class="clearfix">
         <div class="box-title">
-          <p>{{ post.title }}</p>
+          <p >{{ post.title }}</p>
         </div>
         <div class="timestamp">
           <p>{{ post.date | date_to_string }}</p>
