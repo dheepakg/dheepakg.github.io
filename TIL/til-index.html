@@ -3,6 +3,45 @@ layout: default
 title: Blog
 ---
 
+    <style>
+      body {
+        font-family: Calibri, sans-serif;
+        align-items:center;
+
+      }
+
+      .bigger-box {
+        border-radius: 25px;
+        border-style: groove;
+        border-spacing: 20px;
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 30px;
+        max-width: 100ch;
+        margin: 20px;
+      }
+
+      .clearfix::after {
+        content: "";
+        clear: both;
+        display: table;
+      }
+
+      .box-title {
+        background-color: rgb(211, 211, 211);
+        float: left;
+        width: 50%;
+        line-height: 6px;
+        font-weight: bolder;
+      }
+      .timestamp {
+        text-align: right;
+        background-color: rgb(211, 211, 211);
+        float: left;
+        width: 50%;
+        line-height: 5px;
+      }
+    </style>
 <h1> Today I Learnt </h1>
 </br>
 This mostly consists of trivial things that I see interesting.
@@ -13,15 +52,20 @@ This mostly consists of trivial things that I see interesting.
 
   {% if post.tags[0] == 'TIL' %}
 
-  <div class="post">
-    <h3> {{ post.date | date_to_string }} </h3>
-    <h5> {{ post.title }} </h5>
-    <h6> Source: {{ post.source }} </h6>
+  <body>
+    <div class="bigger-box">
+      <div class="clearfix">
+        <div class="box-title">
+          <p>{{ post.title }}</p>
+        </div>
+        <div class="timestamp">
+          <p>{{ post.date | date_to_string }}</p>
+        </div>
+      </div>
 
-
-    {{ post.content | markdownify }}
-
-  </div>
+      <p>{{ post.content | markdownify }}</p>
+    </div>
+  </body>
 
   {% endif %}
   {% endfor %}

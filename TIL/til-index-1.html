@@ -1,0 +1,29 @@
+---
+layout: default
+title: Blog
+---
+
+<h1> Today I Learnt </h1>
+</br>
+This mostly consists of trivial things that I see interesting.
+<div class="posts">
+
+
+  {% for post in site.posts %}
+
+  {% if post.tags[0] == 'TIL' %}
+
+  <div class="post">
+    <h3> {{ post.date | date_to_string }} </h3>
+    <h5> {{ post.title }} </h5>
+    <h6> Source: {{ post.source }} </h6>
+
+
+    {{ post.content | markdownify }}
+
+  </div>
+
+  {% endif %}
+  {% endfor %}
+
+</div>
