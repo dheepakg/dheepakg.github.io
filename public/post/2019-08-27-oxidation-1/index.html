@@ -1,216 +1,32 @@
-<!DOCTYPE html>
-<html class="no-js" lang="en">
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Oxidation 1 - Cargo, Rustdoc - Dheepak</title>
-	<script>(function(d,e){d[e]=d[e].replace("no-js","js");})(document.documentElement,"className");</script>
-	<meta name="description" content="">
-		<meta property="og:title" content="Oxidation 1 - Cargo, Rustdoc" />
-<meta property="og:description" content="What is rustup, rustc &amp; rustdoc ?
+<!doctype html><html class=no-js lang=en><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><meta http-equiv=x-ua-compatible content="IE=edge"><title>Oxidation 1 - Cargo, Rustdoc - Dheepak's blog</title><script>(function(a,b){a[b]=a[b].replace("no-js","js")})(document.documentElement,"className")</script><meta name=description content><meta property="og:title" content="Oxidation 1 - Cargo, Rustdoc"><meta property="og:description" content="What is rustup, rustc & rustdoc ?
 rustup- Used to update the latest Rust version. rustc filename.rs - Used to compile rust source code. rustdoc - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as rustup docs
-Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure." />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="/post/2019-08-27-oxidation-1/" /><meta property="article:section" content="post" />
-<meta property="article:published_time" content="2019-08-27T11:24:27&#43;05:30" />
-<meta property="article:modified_time" content="2019-08-27T11:24:27&#43;05:30" />
-
-
-		<meta itemprop="name" content="Oxidation 1 - Cargo, Rustdoc">
-<meta itemprop="description" content="What is rustup, rustc &amp; rustdoc ?
+Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure."><meta property="og:type" content="article"><meta property="og:url" content="/post/2019-08-27-oxidation-1/"><meta property="article:section" content="post"><meta property="article:published_time" content="2019-08-27T11:24:27+05:30"><meta property="article:modified_time" content="2019-08-27T11:24:27+05:30"><meta itemprop=name content="Oxidation 1 - Cargo, Rustdoc"><meta itemprop=description content="What is rustup, rustc & rustdoc ?
 rustup- Used to update the latest Rust version. rustc filename.rs - Used to compile rust source code. rustdoc - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as rustup docs
-Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure."><meta itemprop="datePublished" content="2019-08-27T11:24:27&#43;05:30" />
-<meta itemprop="dateModified" content="2019-08-27T11:24:27&#43;05:30" />
-<meta itemprop="wordCount" content="250">
-<meta itemprop="keywords" content="Rust," />
-		<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Oxidation 1 - Cargo, Rustdoc"/>
-<meta name="twitter:description" content="What is rustup, rustc &amp; rustdoc ?
+Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure."><meta itemprop=datePublished content="2019-08-27T11:24:27+05:30"><meta itemprop=dateModified content="2019-08-27T11:24:27+05:30"><meta itemprop=wordCount content="250"><meta itemprop=keywords content="Rust,"><meta name=twitter:card content="summary"><meta name=twitter:title content="Oxidation 1 - Cargo, Rustdoc"><meta name=twitter:description content="What is rustup, rustc & rustdoc ?
 rustup- Used to update the latest Rust version. rustc filename.rs - Used to compile rust source code. rustdoc - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as rustup docs
-Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure."/>
-
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-	<link rel="dns-prefetch" href="//fonts.googleapis.com">
-	<link rel="dns-prefetch" href="//fonts.gstatic.com">
-	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
-
-	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/custom.css">
-
-	<link rel="shortcut icon" href="/favicon.ico">
-		
-</head>
-<body class="body">
-	<div class="container container--outer">
-		<header class="header">
-	<div class="container header__container">
-		
-	<div class="logo logo--mixed">
-		<a class="logo__link" href="/" title="Dheepak" rel="home">
-			<div class="logo__item logo__imagebox">
-					<img class="logo__img" src="/img/favicon-32x32.png">
-				</div><div class="logo__item logo__text">
-					<div class="logo__title">Dheepak</div>
-					
-				</div>
-		</a>
-	</div>
-		
-<nav class="menu">
-	<button class="menu__btn" aria-haspopup="true" aria-expanded="false" tabindex="0">
-		<span class="menu__btn-title" tabindex="-1">Menu</span>
-	</button>
-	<ul class="menu__list">
-		<li class="menu__item">
-			<a class="menu__link" href="/post/">
-				
-				<span class="menu__text">Blog Posts</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/notes/">
-				
-				<span class="menu__text">Notes</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/recommended/">
-				
-				<span class="menu__text">Recommended</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/til/">
-				
-				<span class="menu__text">TIL</span>
-				
-			</a>
-		</li>
-		<li class="menu__item">
-			<a class="menu__link" href="/about/">
-				
-				<span class="menu__text">Who am I</span>
-				
-			</a>
-		</li>
-	</ul>
-</nav>
-
-	</div>
-</header>
-		<div class="wrapper flex">
-			<div class="primary">
-			
-<main class="main" role="main">
-	<article class="post">
-		<header class="post__header">
-			<h1 class="post__title">Oxidation 1 - Cargo, Rustdoc</h1>
-			<div class="post__meta meta"><div class="meta__item-author meta__item">
-	<svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2 0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class="meta__text">Dheepak Govindaraj</span>
-</div>
-<div class="meta__item-datetime meta__item">
-	<svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class="meta__text" datetime="2019-08-27T11:24:27&#43;05:30">2019-08-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg><span class="meta__text"><a class="meta__link" href="/categories/programming/" rel="category">Programming</a>
-	</span>
-</div></div>
-		</header><div class="content post__content clearfix">
-			<p><strong>What is <code>rustup</code>, <code>rustc</code> &amp; <code>rustdoc</code> ?</strong></p>
-<p><code>rustup</code>- Used to update the latest Rust version.
+Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure."><link rel=preconnect href=https://fonts.gstatic.com crossorigin><link rel=dns-prefetch href=//fonts.googleapis.com><link rel=dns-prefetch href=//fonts.gstatic.com><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700"><link rel=stylesheet href=/css/style.css><link rel=stylesheet href=/><link rel="shortcut icon" href=/favicon.ico></head><body class=body><div class="container container--outer"><header class=header><div class="container header__container"><div class=logo><a class=logo__link href=/ title="Dheepak's blog" rel=home><div class="logo__item logo__text"><div class=logo__title>Dheepak's blog</div></div></a></div><nav class=menu><button class=menu__btn aria-haspopup=true aria-expanded=false tabindex=0>
+<span class=menu__btn-title tabindex=-1>Menu</span></button><ul class=menu__list><li class=menu__item><a class=menu__link href=/post/><span class=menu__text>Blog Posts</span></a></li><li class=menu__item><a class=menu__link href=/notes/><span class=menu__text>Notes</span></a></li><li class=menu__item><a class=menu__link href=/recommended/><span class=menu__text>Recommended</span></a></li><li class=menu__item><a class=menu__link href=/til/><span class=menu__text>TIL</span></a></li><li class=menu__item><a class=menu__link href=/about/><span class=menu__text>Who am I</span></a></li></ul></nav></div></header><div class="wrapper flex"><div class=primary><main class=main role=main><article class=post><header class=post__header><h1 class=post__title>Oxidation 1 - Cargo, Rustdoc</h1><div class="post__meta meta"><div class="meta__item-author meta__item"><svg class="meta__icon icon icon-author" width="16" height="16" viewBox="0 0 12 16"><path d="M6 1c2.2.0 3.5 2 3.5 4.5C9.5 7 8.9 8.2 8 9c2.9.8 4 2.5 4 5v1H0v-1c0-2.5 1.1-4.2 4-5-.9-.8-1.5-2-1.5-3.5C2.5 3 3.8 1 6 1z"/></svg><span class=meta__text>Dheepak Govindaraj</span></div><div class="meta__item-datetime meta__item"><svg class="meta__icon icon icon-time" width="16" height="14" viewBox="0 0 30 28"><path d="M15 0C7 0 1 6 1 14s6 14 14 14 14-6 14-14S23 0 15 0zm0 25C9 25 4 20 4 14S9 3 15 3s11 5 11 11-5 11-11 11zm1-18h-2v8.4l6.8 4.4L22 18l-6-3.8V7z"/></svg><time class=meta__text datetime=2019-08-27T11:24:27+05:30>2019-08-27</time></div><div class="meta__item-categories meta__item"><svg class="meta__icon icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2 1 2h8v11H0V2z"/></svg><span class=meta__text><a class=meta__link href=/categories/programming/ rel=category>Programming</a></span></div></div></header><div class="content post__content clearfix"><p><strong>What is <code>rustup</code>, <code>rustc</code> & <code>rustdoc</code> ?</strong></p><p><code>rustup</code>- Used to update the latest Rust version.
 <code>rustc filename.rs</code> - Used to compile rust source code.
-<code>rustdoc</code> - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as <code>rustup docs</code></p>
-<p><strong>Project initialization</strong>
+<code>rustdoc</code> - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as <code>rustup docs</code></p><p><strong>Project initialization</strong>
 After installing Rust, we should initialize a project using <code>Cargo</code>
-<code>cargo init project_path</code>  -
-This will create a project folder of below file structure.</p>
-<p><strong>Project folder - File Structure</strong></p>
-<p>To work in Rust, you should have a project folder. The folder structure is like below.</p>
-<pre><code>Project_name
+<code>cargo init project_path</code> -
+This will create a project folder of below file structure.</p><p><strong>Project folder - File Structure</strong></p><p>To work in Rust, you should have a project folder. The folder structure is like below.</p><pre><code>Project_name
   ├── src
   │     └──main.rs
   ├── target
   ├── Cargo.lock
   └── Cargo.toml
-</code></pre><ul>
-<li>
-<p><strong>src - Source folder</strong>: Source code lies under this folder
-The rust files are of &lsquo;.rs&rsquo; extension. We can have as many rust files under the folder</p>
-</li>
-<li>
-<p><strong>target - Target folder</strong>: The final executables lies in this folder.   The final executable will be created on using <code>cargo build --release</code> and will be ready for production.</p>
-</li>
-<li>
-<p><strong>Cargo.toml</strong>: This is a manifest file that holds package &amp; dependent package details.</p>
-</li>
-</ul>
-<p>Below is the sample <code>Cargo.toml</code> file created in my project.</p>
-<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-toml" data-lang="toml">[<span style="color:#a6e22e">package</span>]
-<span style="color:#a6e22e">name</span> = <span style="color:#e6db74">&#34;Euler-Rust&#34;</span>
-<span style="color:#a6e22e">version</span> = <span style="color:#e6db74">&#34;0.1.0&#34;</span>
-<span style="color:#a6e22e">authors</span> = [<span style="color:#e6db74">&#34;dheepakg &lt;email_id@gmail.com&gt;&#34;</span>]
-<span style="color:#a6e22e">edition</span> = <span style="color:#e6db74">&#34;2018&#34;</span>
+</code></pre><ul><li><p><strong>src - Source folder</strong>: Source code lies under this folder
+The rust files are of &lsquo;.rs&rsquo; extension. We can have as many rust files under the folder</p></li><li><p><strong>target - Target folder</strong>: The final executables lies in this folder. The final executable will be created on using <code>cargo build --release</code> and will be ready for production.</p></li><li><p><strong>Cargo.toml</strong>: This is a manifest file that holds package & dependent package details.</p></li></ul><p>Below is the sample <code>Cargo.toml</code> file created in my project.</p><div class=highlight><pre style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-toml data-lang=toml>[<span style=color:#a6e22e>package</span>]
+<span style=color:#a6e22e>name</span> = <span style=color:#e6db74>&#34;Euler-Rust&#34;</span>
+<span style=color:#a6e22e>version</span> = <span style=color:#e6db74>&#34;0.1.0&#34;</span>
+<span style=color:#a6e22e>authors</span> = [<span style=color:#e6db74>&#34;dheepakg &lt;email_id@gmail.com&gt;&#34;</span>]
+<span style=color:#a6e22e>edition</span> = <span style=color:#e6db74>&#34;2018&#34;</span>
 
-<span style="color:#75715e"># See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html</span>
+<span style=color:#75715e># See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html</span>
 
-[<span style="color:#a6e22e">dependencies</span>]
+[<span style=color:#a6e22e>dependencies</span>]
 
 
-</code></pre></div><p>I&rsquo;m using VS Code IDE. So, after doing the Cargo init, I open the project in VS Code. That&rsquo;s it. We would have <code>src/main.rs</code> will be ready for execution. We can learn further by modifying the file.</p>
-
-		</div>
-		<footer class="post__footer">
-			
-<div class="post__tags tags clearfix">
-	<svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5 0 11V3C0 1.5.8.8.8.8S1.5 0 3 0h8c1.5 0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
-	<ul class="tags__list">
-		<li class="tags__item">
-			<a class="tags__link btn" href="/tags/rust/" rel="tag">Rust</a>
-		</li>
-	</ul>
-</div>
-		</footer>
-	</article>
-</main>
-
-<div class="authorbox clearfix">
-	<div class="authorbox__header">
-		<span class="authorbox__name">About Dheepak Govindaraj</span>
-	</div>
-</div>
-
-<nav class="pager flex">
-	<div class="pager__item pager__item--prev">
-		<a class="pager__link" href="/post/2019-08-22-what-makes-rust-attractive/" rel="prev">
-			<span class="pager__subtitle">«&thinsp;Previous</span>
-			<p class="pager__title">What makes Rust interesting?</p>
-		</a>
-	</div>
-	<div class="pager__item pager__item--next">
-		<a class="pager__link" href="/post/2019-08-28-oxidation-2/" rel="next">
-			<span class="pager__subtitle">Next&thinsp;»</span>
-			<p class="pager__title">Oxidation 2 - Variables, Shadowing</p>
-		</a>
-	</div>
-</nav>
-
-
-			</div>
-			
-		</div>
-		<footer class="footer">
-	<div class="container footer__container flex">
-		
-		<div class="footer__copyright">
-			&copy; 2021 Dheepak Govindaraj.
-			<span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span>
-		</div>
-	</div>
-</footer>
-	</div>
-<script async defer src="/js/menu.js"></script>
-<script src="/js/custom.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script>
-</body>
-</html>
+</code></pre></div><p>I&rsquo;m using VS Code IDE. So, after doing the Cargo init, I open the project in VS Code. That&rsquo;s it. We would have <code>src/main.rs</code> will be ready for execution. We can learn further by modifying the file.</p></div><footer class=post__footer><div class="post__tags tags clearfix"><svg class="tags__badge icon icon-tag" width="16" height="16" viewBox="0 0 32 32"><path d="M32 19c0 1-1 2-1 2L21 31s-1 1-2 1-2-1-2-1L2 16c-1-1-1.4-2-1.4-2S0 12.5.0 11V3C0 1.5.8.8.8.8S1.5.0 3 0h8c1.5.0 3 .6 3 .6S15 1 16 2l15 15s1 1 1 2zM7 10a3 3 0 100-6 3 3 0 000 6z"/></svg><ul class=tags__list><li class=tags__item><a class="tags__link btn" href=/tags/rust/ rel=tag>Rust</a></li></ul></div></footer></article></main><div class="authorbox clearfix"><div class=authorbox__header><span class=authorbox__name>About Dheepak Govindaraj</span></div></div><nav class="pager flex"><div class="pager__item pager__item--prev"><a class=pager__link href=/post/2019-08-22-what-makes-rust-attractive/ rel=prev><span class=pager__subtitle>«&#8201;Previous</span><p class=pager__title>What makes Rust interesting?</p></a></div><div class="pager__item pager__item--next"><a class=pager__link href=/post/2019-08-28-oxidation-2/ rel=next><span class=pager__subtitle>Next&#8201;»</span><p class=pager__title>Oxidation 2 - Variables, Shadowing</p></a></div></nav></div></div><footer class=footer><div class="container footer__container flex"><div class=footer__copyright>&copy; 2021 Dheepak Govindaraj.
+<span class=footer__copyright-credits>Generated with <a href=https://gohugo.io/ rel="nofollow noopener" target=_blank>Hugo</a> and <a href=https://github.com/Vimux/Mainroad/ rel="nofollow noopener" target=_blank>Mainroad</a> theme.</span></div></div></footer></div><script async defer src=/js/menu.js></script><script src=/></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=TeX-AMS-MML_HTMLorMML" async></script></body></html>
