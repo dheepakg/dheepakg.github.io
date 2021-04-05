@@ -1,7 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dheepak's blog</title><link>/recommended/</link><description>Recent content on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 08:07:00 +0530</lastBuildDate><atom:link href="/recommended/index.xml" rel="self" type="application/rss+xml"/><item><title>Darknet Diaries</title><link>/recommended/2020-12-31-darknet-diaries/</link><pubDate>Thu, 31 Dec 2020 08:07:00 +0530</pubDate><guid>/recommended/2020-12-31-darknet-diaries/</guid><description>This podcast is hosted by Jack Rhysider. Each of the episodes deals with events in cyberspace.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dheepak&#39;s blog</title>
+    <link>/recommended/</link>
+    <description>Recent content on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 31 Dec 2020 08:07:00 +0530</lastBuildDate><atom:link href="/recommended/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darknet Diaries</title>
+      <link>/recommended/2020-12-31-darknet-diaries/</link>
+      <pubDate>Thu, 31 Dec 2020 08:07:00 +0530</pubDate>
+      
+      <guid>/recommended/2020-12-31-darknet-diaries/</guid>
+      <description>This podcast is hosted by Jack Rhysider. Each of the episodes deals with events in cyberspace.
 My favourite episode is the one that covered the Bangladesh Bank Heist.
 There is no coding involved, Jack explains the strange/new words in layman terms. You should give a try if you&amp;rsquo;re curious about what&amp;rsquo;s happening in cyber space.
-PS: Darknet Diaries has no relation with the darknet, the one accessed through Tor.</description></item><item><title>Talk Python To Me</title><link>/recommended/2020-12-30-talk-py-to-me/</link><pubDate>Wed, 30 Dec 2020 22:07:00 +0530</pubDate><guid>/recommended/2020-12-30-talk-py-to-me/</guid><description>This is the 1stever podcast that I started with. I&amp;rsquo;m listening to the show regularly since 2017, yet I couldn&amp;rsquo;t recall how I got introduced to this show.
+PS: Darknet Diaries has no relation with the darknet, the one accessed through Tor.</description>
+    </item>
+    
+    <item>
+      <title>Talk Python To Me</title>
+      <link>/recommended/2020-12-30-talk-py-to-me/</link>
+      <pubDate>Wed, 30 Dec 2020 22:07:00 +0530</pubDate>
+      
+      <guid>/recommended/2020-12-30-talk-py-to-me/</guid>
+      <description>This is the 1stever podcast that I started with. I&amp;rsquo;m listening to the show regularly since 2017, yet I couldn&amp;rsquo;t recall how I got introduced to this show.
 According to the talkpython.fm,
-Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
-Michael Kennedy hosts this show and he conducts trainings as well.</description></item></channel></rss>
+  Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
+  Michael Kennedy hosts this show and he conducts trainings as well.</description>
+    </item>
+    
+  </channel>
+</rss>

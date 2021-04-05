@@ -1,6 +1,6 @@
 ---
 title:  "Black - Python"
-date:  2020-08-10 12:00:00 +0530
+date:  2020-08-10
 categories:
   - TIL
 tags:

@@ -1,6 +1,6 @@
 ---
 title:  "Atomic Habits - Notes"
-date:   2021-02-12 10:00:00 +0530
+date:   2021-02-11
 categories:
  - Book
 tags:

@@ -1,6 +1,6 @@
 ---
 title:  "Talk Python To Me"
-date:   2020-12-30 22:07:00 +0530
+date:   2020-12-30
 Categories:
   - Podcast
 tags:

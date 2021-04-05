@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>books on Dheepak's blog</title><link>/tags/books/</link><description>Recent content in books on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Feb 2021 10:00:00 +0530</lastBuildDate><atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml"/><item><title>Atomic Habits - Notes</title><link>/notes/atomic-habits/</link><pubDate>Fri, 12 Feb 2021 10:00:00 +0530</pubDate><guid>/notes/atomic-habits/</guid><description/></item><item><title>The Psychology of Money - Notes</title><link>/notes/psych-money/</link><pubDate>Sat, 28 Nov 2020 10:07:00 +0530</pubDate><guid>/notes/psych-money/</guid><description>This is about The Psychology of Money by Morgan Housel, a Columnist. This book became a sensation in the #fintwit. Many tweeters recommended the book and I preordered it on Amazon.
-{:height=&amp;ldquo;600px&amp;rdquo; width=&amp;ldquo;450px&amp;rdquo;} Book Cover The book is crisp - 240 pages grouped into 20 chapters, each having few stories to explain actions behind money decisions.
-Notes from each of the chapter Introduction A genius who loses control of their emotions can be a financial disaster.</description></item><item><title>A curious question on reading?</title><link>/post/2020-06-07-books/</link><pubDate>Sun, 07 Jun 2020 11:07:00 +0530</pubDate><guid>/post/2020-06-07-books/</guid><description>My SO asked a curious question. I froze, like a Windows XP machine, couldn&amp;rsquo;t answer then. After the incident, for several nights, the question ran through in my head to decipher the answer.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>books on Dheepak&#39;s blog</title>
+    <link>/tags/books/</link>
+    <description>Recent content in books on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 10:00:00 +0530</lastBuildDate><atom:link href="/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atomic Habits - Notes</title>
+      <link>/notes/atomic-habits/</link>
+      <pubDate>Fri, 12 Feb 2021 10:00:00 +0530</pubDate>
+      
+      <guid>/notes/atomic-habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Psychology of Money - Notes</title>
+      <link>/notes/psych-money/</link>
+      <pubDate>Sat, 28 Nov 2020 10:07:00 +0530</pubDate>
+      
+      <guid>/notes/psych-money/</guid>
+      <description>This is about The Psychology of Money by Morgan Housel, a Columnist. This book became a sensation in the #fintwit. Many tweeters recommended the book and I preordered it on Amazon.
+   {:height=&amp;ldquo;600px&amp;rdquo; width=&amp;ldquo;450px&amp;rdquo;}     Book Cover    The book is crisp - 240 pages grouped into 20 chapters, each having few stories to explain actions behind money decisions.
+Notes from each of the chapter Introduction  A genius who loses control of their emotions can be a financial disaster.</description>
+    </item>
+    
+    <item>
+      <title>A curious question on reading?</title>
+      <link>/post/2020-06-07-books/</link>
+      <pubDate>Sun, 07 Jun 2020 11:07:00 +0530</pubDate>
+      
+      <guid>/post/2020-06-07-books/</guid>
+      <description>My SO asked a curious question. I froze, like a Windows XP machine, couldn&amp;rsquo;t answer then. After the incident, for several nights, the question ran through in my head to decipher the answer.
 Let&amp;rsquo;s start with little about me . I like to read books. As of today, reading is one of the hobby for me. For her, reading is a boring chore, like majority around me.
-The question was simple and on to the point.</description></item></channel></rss>
+The question was simple and on to the point.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title:  Phygital
-date:  2021-01-03 12:00:00 +0530
+date:  2021-01-03
 categories:
  - TIL
 tags:

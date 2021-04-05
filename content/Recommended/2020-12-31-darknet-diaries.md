@@ -1,6 +1,6 @@
 ---
 title:  "Darknet Diaries"
-date:   2020-12-31 08:07:00 +0530
+date:   2020-12-31
 categories:
     - Podcast
 tags:

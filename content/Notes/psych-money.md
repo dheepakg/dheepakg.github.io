@@ -1,6 +1,6 @@
 ---
 title:  "The Psychology of Money - Notes"
-date:   2020-11-28 10:07:00 +0530
+date:   2020-11-28
 categories:
  - Book
 tags:

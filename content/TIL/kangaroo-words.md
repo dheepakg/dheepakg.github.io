@@ -1,6 +1,6 @@
 ---
 title:  The Kangaroo Words
-date:  2021-01-23 12:00:00 +0530
+date:  2021-01-23
 categories:
  - TIL
 tags:

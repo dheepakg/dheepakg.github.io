@@ -1,6 +1,6 @@
 ---
 title:  The Diderot Effect
-date:  2021-01-13 12:00:00 +0530
+date:  2021-01-13
 categories:
  - TIL
 tags:

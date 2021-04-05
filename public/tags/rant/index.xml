@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rant on Dheepak's blog</title><link>/tags/rant/</link><description>Recent content in Rant on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 11 Jul 2020 23:24:27 +0530</lastBuildDate><atom:link href="/tags/rant/index.xml" rel="self" type="application/rss+xml"/><item><title>One needn't be proud</title><link>/post/2020-07-12-pride/</link><pubDate>Sat, 11 Jul 2020 23:24:27 +0530</pubDate><guid>/post/2020-07-12-pride/</guid><description>Social Media is a petri dish, culturing cultured and uncultured humans in real time. Based on your followers and taste you develop your own bubble, reinforce the bubble&amp;rsquo;s collective thought and at some point of time you&amp;rsquo;ll start believing it.
-One way to not get lost in the rabbit hole is to think the collective thought (trending topic) is wrong and trying to justify it. Then I came across this &amp;lsquo;-pride&amp;rsquo; posts.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rant on Dheepak&#39;s blog</title>
+    <link>/tags/rant/</link>
+    <description>Recent content in Rant on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 23:24:27 +0530</lastBuildDate><atom:link href="/tags/rant/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>One needn&#39;t be proud</title>
+      <link>/post/2020-07-12-pride/</link>
+      <pubDate>Sat, 11 Jul 2020 23:24:27 +0530</pubDate>
+      
+      <guid>/post/2020-07-12-pride/</guid>
+      <description>Social Media is a petri dish, culturing cultured and uncultured humans in real time. Based on your followers and taste you develop your own bubble, reinforce the bubble&amp;rsquo;s collective thought and at some point of time you&amp;rsquo;ll start believing it.
+One way to not get lost in the rabbit hole is to think the collective thought (trending topic) is wrong and trying to justify it. Then I came across this &amp;lsquo;-pride&amp;rsquo; posts.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,6 @@
 ---
 title:  Git Commits
-date:  2020-08-09 12:00:00 +0530
+date:  2020-08-09
 categories:
    - TIL
 tags:

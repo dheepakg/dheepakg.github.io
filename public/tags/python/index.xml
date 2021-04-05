@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Python on Dheepak's blog</title><link>/tags/python/</link><description>Recent content in Python on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 30 Dec 2020 22:07:00 +0530</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml"/><item><title>Talk Python To Me</title><link>/recommended/2020-12-30-talk-py-to-me/</link><pubDate>Wed, 30 Dec 2020 22:07:00 +0530</pubDate><guid>/recommended/2020-12-30-talk-py-to-me/</guid><description>This is the 1stever podcast that I started with. I&amp;rsquo;m listening to the show regularly since 2017, yet I couldn&amp;rsquo;t recall how I got introduced to this show.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Dheepak&#39;s blog</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 22:07:00 +0530</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Talk Python To Me</title>
+      <link>/recommended/2020-12-30-talk-py-to-me/</link>
+      <pubDate>Wed, 30 Dec 2020 22:07:00 +0530</pubDate>
+      
+      <guid>/recommended/2020-12-30-talk-py-to-me/</guid>
+      <description>This is the 1stever podcast that I started with. I&amp;rsquo;m listening to the show regularly since 2017, yet I couldn&amp;rsquo;t recall how I got introduced to this show.
 According to the talkpython.fm,
-Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
-Michael Kennedy hosts this show and he conducts trainings as well.</description></item><item><title>Black - Python</title><link>/til/2020-08-10-til-black-py/</link><pubDate>Mon, 10 Aug 2020 12:00:00 +0530</pubDate><guid>/til/2020-08-10-til-black-py/</guid><description>The common problem while using Black in VS Code for Python formatting, can be overcome by following below steps.
-Enable format on save Search for python formatting provider and select black Source: medium.com</description></item><item><title>PyConIndia 2019</title><link>/post/2019-10-13-pycon-india-2019/</link><pubDate>Sun, 13 Oct 2019 11:24:27 +0530</pubDate><guid>/post/2019-10-13-pycon-india-2019/</guid><description>My primary source of Python and Python related news was/is Python podcast, since 2016. In 2018, I came to know about Pycon taking place in Cleveland, OH. Dan Bader&amp;rsquo;s vlog on PyCon &amp;lsquo;18 was another pull factor towards the PyCon. Due to the ticket pricing I couldn&amp;rsquo;t make it to it. In H2 of 2018, I returned to India, and was looking forward to attend PyConIndia, which should be affordable.</description></item></channel></rss>
+  Talk Python to Me is a weekly podcast hosted by Michael Kennedy. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps).
+  Michael Kennedy hosts this show and he conducts trainings as well.</description>
+    </item>
+    
+    <item>
+      <title>Black - Python</title>
+      <link>/til/2020-08-10-til-black-py/</link>
+      <pubDate>Mon, 10 Aug 2020 12:00:00 +0530</pubDate>
+      
+      <guid>/til/2020-08-10-til-black-py/</guid>
+      <description>The common problem while using Black in VS Code for Python formatting, can be overcome by following below steps.
+ Enable format on save Search for python formatting provider and select black   Source: medium.com  </description>
+    </item>
+    
+    <item>
+      <title>PyConIndia 2019</title>
+      <link>/post/2019-10-13-pycon-india-2019/</link>
+      <pubDate>Sun, 13 Oct 2019 11:24:27 +0530</pubDate>
+      
+      <guid>/post/2019-10-13-pycon-india-2019/</guid>
+      <description>My primary source of Python and Python related news was/is Python podcast, since 2016. In 2018, I came to know about Pycon taking place in Cleveland, OH. Dan Bader&amp;rsquo;s vlog on PyCon &amp;lsquo;18 was another pull factor towards the PyCon. Due to the ticket pricing I couldn&amp;rsquo;t make it to it. In H2 of 2018, I returned to India, and was looking forward to attend PyConIndia, which should be affordable.</description>
+    </item>
+    
+  </channel>
+</rss>

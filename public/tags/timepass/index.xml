@@ -1,2 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Timepass on Dheepak's blog</title><link>/tags/timepass/</link><description>Recent content in Timepass on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 07 Jul 2019 23:17:27 +0530</lastBuildDate><atom:link href="/tags/timepass/index.xml" rel="self" type="application/rss+xml"/><item><title>Podcast listening 101</title><link>/post/2019-07-07-podcast-101/</link><pubDate>Sun, 07 Jul 2019 23:17:27 +0530</pubDate><guid>/post/2019-07-07-podcast-101/</guid><description>Podcast is a audio show, could be anythingranging from interviews to discussions to story telling. The Podcasts became a thing with the iPods. Even the term itself derived from the Apple&amp;rsquo;s gadget. Off late, with the arrival of 3rdparty apps, more people from Android are attracted, along with the Apple users.
-In Apple, iTunes enables us to listen to Podcast. Google released their own app very recently and the customization is very limited.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timepass on Dheepak&#39;s blog</title>
+    <link>/tags/timepass/</link>
+    <description>Recent content in Timepass on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2019 23:17:27 +0530</lastBuildDate><atom:link href="/tags/timepass/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podcast listening 101</title>
+      <link>/post/2019-07-07-podcast-101/</link>
+      <pubDate>Sun, 07 Jul 2019 23:17:27 +0530</pubDate>
+      
+      <guid>/post/2019-07-07-podcast-101/</guid>
+      <description>Podcast is a audio show, could be anythingranging from interviews to discussions to story telling. The Podcasts became a thing with the iPods. Even the term itself derived from the Apple&amp;rsquo;s gadget. Off late, with the arrival of 3rdparty apps, more people from Android are attracted, along with the Apple users.
+In Apple, iTunes enables us to listen to Podcast. Google released their own app very recently and the customization is very limited.</description>
+    </item>
+    
+  </channel>
+</rss>
