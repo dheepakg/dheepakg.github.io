@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>words on Dheepak</title>
+    <link>/tags/words/</link>
+    <description>Recent content in words on Dheepak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jan 2021 12:00:00 +0530</lastBuildDate><atom:link href="/tags/words/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Kangaroo Words</title>
+      <link>/til/kangaroo-words/</link>
+      <pubDate>Sat, 23 Jan 2021 12:00:00 +0530</pubDate>
+      
+      <guid>/til/kangaroo-words/</guid>
+      <description>A kangaroo word is a word that contains all the letters of one of its synonyms, called a joey word, arranged so that these letters appear in the same order in both words.
+For example - in[flammable], [malign]ant, [ma]scu[l]in[e]
+ Source: Wikipedia  </description>
+    </item>
+    
+    <item>
+      <title>Phygital</title>
+      <link>/til/phygital/</link>
+      <pubDate>Sun, 03 Jan 2021 12:00:00 +0530</pubDate>
+      
+      <guid>/til/phygital/</guid>
+      <description>The combination of the physical and digital tools results in &amp;ldquo;Phygital&amp;rdquo;. This morph word suggests that the success in the future of marketing depends on creating an ecosystem between the company and its customers that involves both the digital and physical space.
+ Source: wikipedia  </description>
+    </item>
+    
+  </channel>
+</rss>

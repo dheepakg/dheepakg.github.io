@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Dheepak</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Dheepak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 10:00:00 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>/categories/book/</link>
+      <pubDate>Fri, 12 Feb 2021 10:00:00 +0530</pubDate>
+      
+      <guid>/categories/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIL</title>
+      <link>/categories/til/</link>
+      <pubDate>Sat, 23 Jan 2021 12:00:00 +0530</pubDate>
+      
+      <guid>/categories/til/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Podcast</title>
+      <link>/categories/podcast/</link>
+      <pubDate>Thu, 31 Dec 2020 08:07:00 +0530</pubDate>
+      
+      <guid>/categories/podcast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Weekly-Update</title>
+      <link>/categories/weekly-update/</link>
+      <pubDate>Tue, 10 Nov 2020 20:07:00 +0530</pubDate>
+      
+      <guid>/categories/weekly-update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>/categories/experience/</link>
+      <pubDate>Tue, 08 Sep 2020 19:47:27 +0530</pubDate>
+      
+      <guid>/categories/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opinion</title>
+      <link>/categories/opinion/</link>
+      <pubDate>Mon, 03 Aug 2020 11:47:27 +0530</pubDate>
+      
+      <guid>/categories/opinion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hands-On</title>
+      <link>/categories/hands-on/</link>
+      <pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate>
+      
+      <guid>/categories/hands-on/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Thu, 29 Aug 2019 11:24:27 +0530</pubDate>
+      
+      <guid>/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Side-Project</title>
+      <link>/categories/side-project/</link>
+      <pubDate>Mon, 17 Jun 2019 20:12:27 +0530</pubDate>
+      
+      <guid>/categories/side-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Welcome</title>
+      <link>/categories/welcome/</link>
+      <pubDate>Thu, 25 Apr 2019 19:47:17 +0530</pubDate>
+      
+      <guid>/categories/welcome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

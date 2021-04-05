@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meta on Dheepak</title>
+    <link>/tags/meta/</link>
+    <description>Recent content in Meta on Dheepak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 May 2019 22:02:00 +0530</lastBuildDate><atom:link href="/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Starting with Jekyll</title>
+      <link>/post/2019-05-04-working-with-jekyll/</link>
+      <pubDate>Sat, 04 May 2019 22:02:00 +0530</pubDate>
+      
+      <guid>/post/2019-05-04-working-with-jekyll/</guid>
+      <description>It&amp;rsquo;s cool to have a personal website. As a novice, where to start? The cheapest, practical and programmatic option is Github Pages
+Cheapest - Free to use GH Pages. You may not get a dedicated domain, but you&amp;rsquo;ll get a name.github.io
+Practical - You can go for blogger or wordPress for writing a blog post. However, you&amp;rsquo;ll never get to experience the nitty-gritty involved with running an actual website.
+Programmatic - Once you started programming, it will be intriguing to learn something new.</description>
+    </item>
+    
+  </channel>
+</rss>

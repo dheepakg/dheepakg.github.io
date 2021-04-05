@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dheepak</title>
+    <link>/til/</link>
+    <description>Recent content on Dheepak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Jan 2021 12:00:00 +0530</lastBuildDate><atom:link href="/til/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Kangaroo Words</title>
+      <link>/til/kangaroo-words/</link>
+      <pubDate>Sat, 23 Jan 2021 12:00:00 +0530</pubDate>
+      
+      <guid>/til/kangaroo-words/</guid>
+      <description>A kangaroo word is a word that contains all the letters of one of its synonyms, called a joey word, arranged so that these letters appear in the same order in both words.
+For example - in[flammable], [malign]ant, [ma]scu[l]in[e]
+ Source: Wikipedia  </description>
+    </item>
+    
+    <item>
+      <title>The Diderot Effect</title>
+      <link>/til/diderot-effect/</link>
+      <pubDate>Wed, 13 Jan 2021 12:00:00 +0530</pubDate>
+      
+      <guid>/til/diderot-effect/</guid>
+      <description>The Diderot Effect states that obtaining a new possession often creates a spiral of consumption which leads you to acquire more new things. As a result, we end up buying things that our previous selves never needed to feel happy or fulfilled.
+ Source: https://jamesclear.com/  </description>
+    </item>
+    
+    <item>
+      <title>Phygital</title>
+      <link>/til/phygital/</link>
+      <pubDate>Sun, 03 Jan 2021 12:00:00 +0530</pubDate>
+      
+      <guid>/til/phygital/</guid>
+      <description>The combination of the physical and digital tools results in &amp;ldquo;Phygital&amp;rdquo;. This morph word suggests that the success in the future of marketing depends on creating an ecosystem between the company and its customers that involves both the digital and physical space.
+ Source: wikipedia  </description>
+    </item>
+    
+    <item>
+      <title>Black - Python</title>
+      <link>/til/2020-08-10-til-black-py/</link>
+      <pubDate>Mon, 10 Aug 2020 12:00:00 +0530</pubDate>
+      
+      <guid>/til/2020-08-10-til-black-py/</guid>
+      <description>The common problem while using Black in VS Code for Python formatting, can be overcome by following below steps.
+ Enable format on save Search for python formatting provider and select black   Source: medium.com  </description>
+    </item>
+    
+    <item>
+      <title>Git Commits</title>
+      <link>/til/2020-08-09-til-git-commits/</link>
+      <pubDate>Sun, 09 Aug 2020 12:00:00 +0530</pubDate>
+      
+      <guid>/til/2020-08-09-til-git-commits/</guid>
+      <description>Some of the icons we can use in commit massages, to turn commits more graphical.
+   Icon Keyword Equivalent Commits     :tada: :tada: Initial Commit   :rocket: :rocket: when implementing a new feature   :hammer: :hammer: when fixing a bug or issue   :art: :art: when refactor/improving code   :construction: :construction: Work in progress   :pencil: :pencil: Some small updates   :truck: :truck: Move or rename resources     Source: dev.</description>
+    </item>
+    
+  </channel>
+</rss>
