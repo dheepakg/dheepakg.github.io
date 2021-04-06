@@ -35,6 +35,6 @@ Source: As of Nov 3. [ncov2019 live](https://ncov2019.live/data)
 
 ### Vaccine  Tracker
 
-|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Weekly-update/TrackerNov03.png?raw=true) |
+|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Weekly-update/TrackerNov03.png?raw=true) |
 | :------------------------------------------------------------------------: |
 |                          Thanks to [NYT](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)                                                                      |

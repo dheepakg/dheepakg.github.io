@@ -108,7 +108,7 @@ The numbers are telling a grim story, no good news with respect to COVID-19.
 
 
 
-| ![The tracker](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Weekly-update/TrackerSep13.png) |
+| ![The tracker](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/main/assets/images/Weekly-update/TrackerSep13.png) |
 | :------------------------------------------------------------------------: |
 |                          Coronavirus Vaccine Tracker - Sep  13, 2020                                                                      |
 

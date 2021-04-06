@@ -4,7 +4,7 @@ date:   2020-11-10 20:07:00 +0530
 categories:
     - Weekly-Update
 tags:
-    - 
+    -
 draft: false
 ---
 
@@ -45,10 +45,10 @@ This is not some *Uighur problem*  for Muslim states to sit and watch the procee
 
 ### Past Week's Snapshot data
 
-|   | Total COVID-19 Cases | Cases Per Million | Deceased | Deceased Per Million | Recovered |
-| ------------------- | -------------------- | ----------------- | -------- | -------------------- | --------- |
-| Global              | 51.47M               | 6,610            | 1.27M  | 163                  | 35.75M    |
-| India               | 8.62M                | 6,223           | 127.32K   |  92                   | 7.99M     |
+|        | Total COVID-19 Cases | Cases Per Million | Deceased | Deceased Per Million | Recovered |
+| ------ | -------------------- | ----------------- | -------- | -------------------- | --------- |
+| Global | 51.47M               | 6,610             | 1.27M    | 163                  | 35.75M    |
+| India  | 8.62M                | 6,223             | 127.32K  | 92                   | 7.99M     |
 
 Source: As of Nov 10. [ncov2019 live](https://ncov2019.live/data)
 
@@ -60,6 +60,6 @@ Source: As of Nov 10. [ncov2019 live](https://ncov2019.live/data)
 
 ### Vaccine  Tracker
 
-|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Weekly-update/TrackerNov10.png?raw=true) |
-| :------------------------------------------------------------------------: |
-|                          Thanks to [NYT](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)                                                                      |
+| ![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Weekly-update/TrackerNov10.png?raw=true) |
+| :----------------------------------------------------------------------------------------------------------------------------: |
+|               Thanks to [NYT](https://www.nytimes.com/interactive/2020/science/coronavirus-vaccine-tracker.html)               |

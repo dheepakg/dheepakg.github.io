@@ -108,7 +108,7 @@ The cases per million in India surged over global average. Also, the last 2 week
 
 ### Vaccine  Tracker
 
-|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/master/assets/images/Weekly-update/TrackerSep29.png?raw=true) |
+|![The tracker](https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Weekly-update/TrackerSep29.png?raw=true) |
 | :------------------------------------------------------------------------: |
 |                          Coronavirus Vaccine Tracker - Sep  29, 2020                                                                      |
 

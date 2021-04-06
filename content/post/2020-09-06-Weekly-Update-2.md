@@ -56,7 +56,7 @@ The takeaway has one good news, number of _recovery has increased_. But, rest al
 
 
 
-| ![The tracker](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/master/assets/images/Weekly-update/TrackerSep04.png) |
+| ![The tracker](https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/main/assets/images/Weekly-update/TrackerSep04.png) |
 | :------------------------------------------------------------------------: |
 |                          Coronavirus Vaccine Tracker - Sep  6, 2020                                                                      |
 
