@@ -3,6 +3,7 @@ title = "Dheepak's blog"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
 theme = "mainroad"
+enableEmoji = true
 
 [Author] # Used in authorbox
 name = "Dheepak Govindaraj"
@@ -17,7 +18,7 @@ opengraph = true # Enable OpenGraph if true
 schema = true # Enable Schema
 twitter_cards = true # Enable Twitter Cards if true
 readmore = true # Show "Read more" button in list if true
-authorbox = true # Show authorbox at bottom of pages if true
+authorbox = false # Show authorbox at bottom of pages if true
 toc = true # Enable Table of Contents
 pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
 post_meta = [
