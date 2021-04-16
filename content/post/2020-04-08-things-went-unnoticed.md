@@ -4,8 +4,8 @@ date: 2020-04-08 13:01:27 +0530
 categories:
     - Opinion
 tags:
-    - repost,
-    - everyday,
+    - repost
+    - everyday
     - people
 draft: false
 ---

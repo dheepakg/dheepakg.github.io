@@ -4,8 +4,9 @@ date: 2020-03-21 12:40:27 +0530
 categories:
     - Hands-On
 tags:
-    - Pytest,
-    - Environment Variable,
+    - Python
+    - Pytest
+    - Environment Variable
     - reference
 draft: false
 ---

@@ -4,7 +4,7 @@ date:   2019-08-25 11:24:27 +0530
 categories:
     - Programming
 tags:
-    - Programming
+    - Rust
 draft: false
 ---
 

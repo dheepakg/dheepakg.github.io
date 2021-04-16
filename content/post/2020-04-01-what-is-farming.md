@@ -4,12 +4,12 @@ date:  2018-02-25 21:47:17 +0530
 categories:
     - Opinion
 tags:
-    - Agriculture,
-    - India,
-    - Questions,
-    - Welfare,
-    - Business,
-    - Imported
+    - Agriculture
+    - India
+    - Questions
+    - Welfare
+    - Business
+    - Repost
 draft: false
 ---
 

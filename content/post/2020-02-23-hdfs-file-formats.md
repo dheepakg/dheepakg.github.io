@@ -4,9 +4,9 @@ date:   2020-02-23 13:47:17 +0530
 categories:
     - Hands-On
 tags:
-    - avro,
-    - parquet,
-    - csv,
+    - avro
+    - parquet
+    - csv
     - json
 draft: false
 ---

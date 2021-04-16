@@ -4,7 +4,8 @@ date:   2020-08-30 17:08:17 +0530
 categories:
   - Weekly-Update
 tags:
-  - weekly-updates
+  - COVID 19
+  - Environment
 draft: false
 ---
 

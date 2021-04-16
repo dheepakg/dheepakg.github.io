@@ -4,7 +4,7 @@ date: 2020-04-08 12:40:27 +0530
 categories:
     - Opinion
 tags:
-    -  everyday,
+    -  Regulation
     -  people
 draft: false
 ---

@@ -4,8 +4,10 @@ date: 2019-04-26 19:47:17 +0530
 categories:
    - Opinion
 tags:
-   - Indian Election
+   - India
+   - Election
    - Tech vs Old school
+   - Repost
 draft: false
 ---
 

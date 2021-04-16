@@ -5,7 +5,7 @@ categories:
     - Opinion
 tags:
     - COVID-19
-    -  Marketplace
+    - Marketplace
 draft: false
 ---
 The future generations must be viewing *this* as a biggest psychological experiment, worst case scenario and the inhumane practice to save humanity and much more. *This* is COVID-19 **lockdown**.

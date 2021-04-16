@@ -7,7 +7,7 @@ tags:
     - Politics
     - India
     - Democracy
-    - Imported
+    - Repost
 draft: false
 ---
 

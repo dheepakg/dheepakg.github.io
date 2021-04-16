@@ -4,7 +4,10 @@ date:   2020-09-06 20:08:17 +0530
 categories:
   - Weekly-Update
 tags:
-  - weekly-updates
+  - COVID 19
+  - Trade war
+  - apps
+  - 
 draft: false
 ---
 

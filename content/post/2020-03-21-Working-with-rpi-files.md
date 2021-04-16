@@ -4,8 +4,8 @@ date: 2020-04-04 12:40:27 +0530
 categories:
     - Hands-On
 tags:
-    - Raspberry Pi,
-    - Files,
+    - Raspberry Pi
+    - Files
     - reference
 draft: false
 ---

@@ -4,7 +4,12 @@ date:   2020-09-13 21:02:00 +0530
 categories:
   - Weekly-Update
 tags:
-  - weekly-updates
+  - COVID 19
+  - AIIMS
+  - Japan
+  - China
+  - Netflix
+  - Happy
 draft: false
 ---
 
@@ -104,7 +109,7 @@ Source: As of Sep 13. [ncov2019 live](https://ncov2019.live/data)
 The numbers are telling a grim story, no good news with respect to COVID-19.
 
 
-###g Vaccine  Tracker
+### Vaccine  Tracker
 
 
 

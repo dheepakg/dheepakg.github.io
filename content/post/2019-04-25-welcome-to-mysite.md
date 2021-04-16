@@ -2,7 +2,7 @@
 title:  "Welcome to the site!"
 date:   2019-04-25 19:47:17 +0530
 categories:
-    - Welcome
+    - init
 tags:
     - foobar
 draft: false

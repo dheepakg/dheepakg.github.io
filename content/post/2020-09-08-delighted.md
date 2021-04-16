@@ -4,7 +4,7 @@ date:   2020-09-08 19:47:27 +0530
 categories:
     - Experience
 tags:
-    - Interview,
+    - Interview
     - Delighted
 draft: false
 ---
