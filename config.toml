@@ -73,3 +73,10 @@ tags_counter = false # Enable counter for each tag in "Tags" widget
 twitter = "dheeepakg"
 telegram = "dheeepak"
 github = "dheepakg"
+
+
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+expiryDate = ["expiryDate"]
+lastmod = [":git", "lastmod", "date", "publishDate"]
+publishDate = ["publishDate", "date"]
