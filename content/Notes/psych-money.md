@@ -17,7 +17,7 @@ This is about [The Psychology of Money](https://www.amazon.in/gp/product/9390166
 
 The book is crisp - 240 pages grouped into 20 chapters, each having few stories to explain actions behind money decisions.
 
-## Notes from each of the chapter
+**Notes from each of the chapter**
 
 ### Introduction
 
