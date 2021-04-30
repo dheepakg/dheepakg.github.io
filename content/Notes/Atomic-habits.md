@@ -81,7 +81,7 @@ draft: false
 
 #### Problem 1: Winners are losers have the same goals
 
-- The goal had always been there. It was only when they implemented a system of continuous small improvements that they achieve a different outcome .
+- The goal had always been there. It was only when they implemented a system of continuous small improvements that they achieve a different outcome.
 
 #### Problem 2: Achieving a goal is only a momentary change
 
@@ -122,4 +122,83 @@ Changing our habits is challenging for 2 reasons
 | :----------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                      Three Layers of Behaviour Change                                                      |
 
-- 
+1. First layer is changing your outcomes
+   - The goals you set are associated with this level
+2. The Second layer is changing your process
+   - Most of the habits you build are associated with this level
+3. The Third and deepest layer is changing your identity
+   - Most of the beliefs assumptions, and biases you hold are associated with this level.
+
+- Outcomes are about what you get.
+- Processes are about what you do.
+- Identity is about what you believe
+
+**Outcome-based and Identity-based Habits**
+
+- **Focussing on what we want to achieve** leads to outcome-based habits.
+- **Focussing on who we wish to become** leads to identity-based habits.
+
+- People don't even consider identity change when they set out to improve
+- Behind every system of actions are a system of beliefs.
+
+- The **ultimate** form of intrinsic motivation is when a habit becomes part of our identity.
+
+- Once our pride gets involved, we'll fight tooth and nail to maintain our habits.
+
+- Improvements are only temporary until we become part of who we are.
+
+- Good habits can make rational sense, but if we conflict with our identity, we will fail to put them into action.
+
+- Becoming the best version of ourself requires us to continuously edit our beliefs, and to upgrade and expand our identity.
+
+**The 2-step process to changing our IDENTITY**
+
+- Our identity is literally our "repeated beingness".
+- The effect of one-off experience tends to fade away while the effect of habits gets reinforced with time.
+- The process of building habits is actually the process of becoming ourself.
+
+- Every action we take is a vote for the type of person we wish to become.
+
+- The most practical way to change who we are is to change what we do.
+
+- Our habits shape our identity, and our identity shapes our habits, a two-way street.
+
+**The real reasons habits matter**
+
+- Identity change is North Star of habit change.
+- We have the power to change our beliefs about ourself. Our identity is not set in stone.
+- Eventually, we become our habits.
+
+### 3 How to build better habits in 4 simple steps.
+
+#### Why your brain builds habits
+
+- The process of habit formation begins with trial and error.
+- We're taking in tons of new information and trying to make sense of it all. The brain is busy learning the most effective course of action.
+
+- After we stumble upon an unexpected reward, we alter our strategy for next time. Our brain immediatele begins to catalog the events that preceded the reward. _Wait a minute - that feels good. What did I do right before that?_
+- Feedback loop of human behaviour - Try, Fail, Learn, Try Differently.
+
+- Habits are simple reliable solutions to recurring problems in our environment.
+- As habits are created, the level in the brain decreases.
+- The primary reason the brain remembers the past is to better predict what will work in the future.
+- Habit formation is incredible useful because the conscious mind is the bottleneck of the brain.
+- Habits do not restrict freedom, they create it.
+
+- **When we have our habits dialed in and the basics of life are handled and done, our mind is free to focus on new challenges and master the next set of problems. Building habits in the present allows us to do more of what we want in the future.**
+
+#### The Science Of Now Habits Work
+
+- Cue: are meaningless until they are interpreted
+- Craving: is the thoughts, feeling, and emotions of the observer are what transform a cue
+- Response: is the actual habit we perform, which can take the form of a thought or an action
+- Reward: is delivered by the response
+
+We chase rewards because they serve 2 purposes
+
+1.  They satisfy us
+2.  They teach us
+
+## The 1<sup>st</sup> Law
+
+> Make it obvious
