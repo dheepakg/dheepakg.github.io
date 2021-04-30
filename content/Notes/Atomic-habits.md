@@ -1,11 +1,18 @@
 ---
-title:  "Atomic Habits - Notes"
-date:   2021-02-11
+title: "Atomic Habits - Notes"
+date: 2021-02-11
 categories:
- - Book
+  - Book
 tags:
- - books
- - Notes
+  - books
+  - Notes
 draft: false
-authorbox: false
 ---
+
+| Book Name     | Author      | Subject Area   | Pages |
+| ------------- | ----------- | -------------- | ----- |
+| Atomic Habits | James Clear | Habit building | 271   |
+
+| <img src="https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Books/atomicHabits.jpeg?raw=true" alt="drawing" width="200"/> |
+| :--------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                           Cover page - Atomic Habits                                                           |
