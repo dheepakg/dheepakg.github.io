@@ -34,24 +34,6 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>/tags/test/</link>
-      <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
-      
-      <guid>/tags/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test-copy</title>
-      <link>/tags/test-copy/</link>
-      <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
-      
-      <guid>/tags/test-copy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>AWS</title>
       <link>/tags/aws/</link>
       <pubDate>Fri, 16 Apr 2021 09:00:00 +0530</pubDate>

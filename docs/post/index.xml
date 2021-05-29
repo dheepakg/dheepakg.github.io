@@ -16,24 +16,6 @@
     </item>
     
     <item>
-      <title>test</title>
-      <link>/post/2021-05-29-test/</link>
-      <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
-      
-      <guid>/post/2021-05-29-test/</guid>
-      <description>Test post</description>
-    </item>
-    
-    <item>
-      <title>test copy</title>
-      <link>/post/2021-05-29-test-copy/</link>
-      <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
-      
-      <guid>/post/2021-05-29-test-copy/</guid>
-      <description>Test post</description>
-    </item>
-    
-    <item>
       <title>AWS Certified Solution Architect - for whom, why and how</title>
       <link>/post/2021-04-16-aws-saa-co2/</link>
       <pubDate>Fri, 16 Apr 2021 09:00:00 +0530</pubDate>
