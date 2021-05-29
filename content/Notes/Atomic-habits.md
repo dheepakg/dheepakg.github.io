@@ -1,11 +1,13 @@
 ---
 title: "Atomic Habits - Notes"
+subtitle: Notes taken while reading the Atomic Habits
+
 date: 2021-02-11
 categories:
   - Book
 tags:
-  - books
-  - Notes
+  - Habit building
+  - Personal improvements
 draft: false
 ---
 
@@ -13,11 +15,9 @@ draft: false
 | ------------- | ----------- | -------------- | ----- |
 | Atomic Habits | James Clear | Habit building | 271   |
 
-
 | <img src="https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Books/atomicHabits.jpeg?raw=true" alt="drawing" width="200"/> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                           Cover page - Atomic Habits                                                           |
-
 
 **Notes from each of the chapter**
 

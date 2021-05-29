@@ -1,11 +1,13 @@
 ---
 title: "The Psychology of Money - Notes"
+subtitle: Notes taken while reading the The Psychology of Money
 date: 2020-11-28
 categories:
   - Book
 tags:
-  - books
-  - Notes
+  - Money
+  - Mindset
+  - Personal finance
 draft: false
 ---
 
