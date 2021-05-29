@@ -13,9 +13,11 @@ draft: false
 | ------------- | ----------- | -------------- | ----- |
 | Atomic Habits | James Clear | Habit building | 271   |
 
+
 | <img src="https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Books/atomicHabits.jpeg?raw=true" alt="drawing" width="200"/> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                           Cover page - Atomic Habits                                                           |
+
 
 **Notes from each of the chapter**
 
@@ -202,5 +204,3 @@ We chase rewards because they serve 2 purposes
 ## The 1<sup>st</sup> Law
 
 > Make it obvious
-
-
