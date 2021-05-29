@@ -3,28 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-<<<<<<< HEAD
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>/post/</loc>
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-  </url><url>
-    <loc>/categories/sample/</loc>
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-  </url><url>
-    <loc>/tags/test/</loc>
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-  </url><url>
-    <loc>/post/2021-05-29-test/</loc>
-    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
-=======
     <lastmod>2021-05-29T21:00:00+05:30</lastmod>
     <priority>0</priority>
   </url><url>
@@ -51,7 +29,15 @@
   </url><url>
     <loc>/tags/</loc>
     <lastmod>2021-05-29T21:00:00+05:30</lastmod>
->>>>>>> 2f581778ee7a32f7f08508b99f815d6b96bdc2c6
+  </url><url>
+    <loc>/categories/sample/</loc>
+    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
+  </url><url>
+    <loc>/tags/test/</loc>
+    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
+  </url><url>
+    <loc>/post/2021-05-29-test/</loc>
+    <lastmod>2021-05-29T09:00:00+05:30</lastmod>
   </url><url>
     <loc>/tags/aws/</loc>
     <lastmod>2021-04-16T09:00:00+05:30</lastmod>

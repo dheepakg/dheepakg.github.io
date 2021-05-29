@@ -5,16 +5,6 @@
     <link>/post/</link>
     <description>Recent content on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-<<<<<<< HEAD
-    <lastBuildDate>Sat, 29 May 2021 09:00:00 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>test</title>
-      <link>/post/2021-05-29-test/</link>
-      <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
-      
-      <guid>/post/2021-05-29-test/</guid>
-      <description>Test post</description>
-=======
     <lastBuildDate>Sat, 29 May 2021 21:00:00 +0530</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Kindle workflow</title>
@@ -23,7 +13,15 @@
       
       <guid>/post/2021-05-29-kindle-workflow/</guid>
       <description>fghjklkjhgfdghjklkjhg</description>
->>>>>>> 2f581778ee7a32f7f08508b99f815d6b96bdc2c6
+    </item>
+    
+    <item>
+      <title>test</title>
+      <link>/post/2021-05-29-test/</link>
+      <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
+      
+      <guid>/post/2021-05-29-test/</guid>
+      <description>Test post</description>
     </item>
     
     <item>
