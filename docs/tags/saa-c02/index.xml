@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAA-C02 on Dheepak&#39;s blog</title>
+    <link>/tags/saa-c02/</link>
+    <description>Recent content in SAA-C02 on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 16 Apr 2021 09:00:00 +0530</lastBuildDate><atom:link href="/tags/saa-c02/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Certified Solution Architect - for whom, why and how</title>
+      <link>/post/2021-04-16-aws-saa-co2/</link>
+      <pubDate>Fri, 16 Apr 2021 09:00:00 +0530</pubDate>
+      
+      <guid>/post/2021-04-16-aws-saa-co2/</guid>
+      <description>Certifications are a waste of time. It&amp;rsquo;s not unreasonable as I came across dumps (aka recent questions, question banks). Once you memorize the contents of the question bank, you can score cent percent. Memorise answers and recall them in the exam hall, score a pass mark - a common theme in schools and colleges. I went through it as there are no alternatives. But in the post-academic stage of life, I was hesitant to follow the same approach in office.</description>
+    </item>
+    
+  </channel>
+</rss>

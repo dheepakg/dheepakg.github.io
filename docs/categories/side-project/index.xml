@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Side-Project on Dheepak&#39;s blog</title>
+    <link>/categories/side-project/</link>
+    <description>Recent content in Side-Project on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 17 Jun 2019 20:12:27 +0530</lastBuildDate><atom:link href="/categories/side-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No more Ad breaks - thanks Pi-hole</title>
+      <link>/post/2019-06-17-no-more-ad-breaks/</link>
+      <pubDate>Mon, 17 Jun 2019 20:12:27 +0530</pubDate>
+      
+      <guid>/post/2019-06-17-no-more-ad-breaks/</guid>
+      <description>While browsing through Raspberry Pi&amp;rsquo;s sub in Reddit, I came across Pi-hole.
+Pi-hole is an interesting project, claims to be black hole of Ads. I guess the pi in the name refers to Raspberry Pi. As my Pi3 was lying in the corner unused, I went for the Pi-hole installation. Before continuing further on the experience, we need to discuss why the ads are bothering?
+What&amp;rsquo;s wrong with ads? I agree the ads are the revenue source of websites.</description>
+    </item>
+    
+    <item>
+      <title>First serious project that has some rational application</title>
+      <link>/post/2019-05-30-side-project-1/</link>
+      <pubDate>Wed, 29 May 2019 23:15:00 +0530</pubDate>
+      
+      <guid>/post/2019-05-30-side-project-1/</guid>
+      <description>I&amp;rsquo;m working in a corporate firm which employs 100K+ employees. As do with any organization of such a magnitude, there are certain rules &amp;amp; policies which cannot be breached. In most of the occasions, the policies really help us navigate without much of the issue. Yet, there are situations which impedes our progress.
+The impedement I felt was merging PDF files. What&amp;rsquo;s there to worry about, you may wonder. In our org, we have some version of Adobe Reader to view PDFs.</description>
+    </item>
+    
+  </channel>
+</rss>

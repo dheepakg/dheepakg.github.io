@@ -4,6 +4,7 @@ title = "Dheepak's blog"
 theme = "beautifulhugo"
 # themesDir = "../.."
 enableEmoji = true
+publishDir = "docs"
 
 
 metaDataFormat = "yaml"

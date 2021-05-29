@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raspberry Pi on Dheepak&#39;s blog</title>
+    <link>/tags/raspberry-pi/</link>
+    <description>Recent content in Raspberry Pi on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Apr 2020 12:40:27 +0530</lastBuildDate><atom:link href="/tags/raspberry-pi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working with Raspberry Pi files</title>
+      <link>/post/2020-03-21-working-with-rpi-files/</link>
+      <pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate>
+      
+      <guid>/post/2020-03-21-working-with-rpi-files/</guid>
+      <description>Some reference on how to connect to a Raspberry Pi running in the same LAN network.
+I&amp;rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to filter off the ads using Pi-hole1, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file.</description>
+    </item>
+    
+    <item>
+      <title>No more Ad breaks - thanks Pi-hole</title>
+      <link>/post/2019-06-17-no-more-ad-breaks/</link>
+      <pubDate>Mon, 17 Jun 2019 20:12:27 +0530</pubDate>
+      
+      <guid>/post/2019-06-17-no-more-ad-breaks/</guid>
+      <description>While browsing through Raspberry Pi&amp;rsquo;s sub in Reddit, I came across Pi-hole.
+Pi-hole is an interesting project, claims to be black hole of Ads. I guess the pi in the name refers to Raspberry Pi. As my Pi3 was lying in the corner unused, I went for the Pi-hole installation. Before continuing further on the experience, we need to discuss why the ads are bothering?
+What&amp;rsquo;s wrong with ads? I agree the ads are the revenue source of websites.</description>
+    </item>
+    
+  </channel>
+</rss>
