@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Dheepak&#39;s blog</title>
-    <link>/tags/programming/</link>
+    <link>https://dheepakg.github.io/tags/programming/</link>
     <description>Recent content in Programming on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 May 2019 23:15:00 +0530</lastBuildDate><atom:link href="/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2019 23:15:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First serious project that has some rational application</title>
-      <link>/post/2019-05-30-side-project-1/</link>
+      <link>https://dheepakg.github.io/post/2019-05-30-side-project-1/</link>
       <pubDate>Wed, 29 May 2019 23:15:00 +0530</pubDate>
       
-      <guid>/post/2019-05-30-side-project-1/</guid>
+      <guid>https://dheepakg.github.io/post/2019-05-30-side-project-1/</guid>
       <description>I&amp;rsquo;m working in a corporate firm which employs 100K+ employees. As do with any organization of such a magnitude, there are certain rules &amp;amp; policies which cannot be breached. In most of the occasions, the policies really help us navigate without much of the issue. Yet, there are situations which impedes our progress.
 The impedement I felt was merging PDF files. What&amp;rsquo;s there to worry about, you may wonder. In our org, we have some version of Adobe Reader to view PDFs.</description>
     </item>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Programming on Dheepak&#39;s blog</title>
-    <link>/categories/programming/</link>
+    <link>https://dheepakg.github.io/categories/programming/</link>
     <description>Recent content in Programming on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 29 Aug 2019 11:24:27 +0530</lastBuildDate><atom:link href="/categories/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Aug 2019 11:24:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Oxidation 2 - Variables, Shadowing</title>
-      <link>/post/2019-08-28-oxidation-2/</link>
+      <link>https://dheepakg.github.io/post/2019-08-28-oxidation-2/</link>
       <pubDate>Thu, 29 Aug 2019 11:24:27 +0530</pubDate>
       
-      <guid>/post/2019-08-28-oxidation-2/</guid>
+      <guid>https://dheepakg.github.io/post/2019-08-28-oxidation-2/</guid>
       <description>Variables
 In Python, the variables are assigned with the type based on the content.
 string_variable = &amp;#39;some text&amp;#39; int_variable = 33 print(type(string_variable), type(int_variable)) And, these variables are allowed to change in a program.
@@ -22,10 +22,10 @@ In Rust, the variables can either be mutable or immutable. By default, the varia
     
     <item>
       <title>Oxidation 1 - Cargo, Rustdoc</title>
-      <link>/post/2019-08-27-oxidation-1/</link>
+      <link>https://dheepakg.github.io/post/2019-08-27-oxidation-1/</link>
       <pubDate>Tue, 27 Aug 2019 11:24:27 +0530</pubDate>
       
-      <guid>/post/2019-08-27-oxidation-1/</guid>
+      <guid>https://dheepakg.github.io/post/2019-08-27-oxidation-1/</guid>
       <description>What is rustup, rustc &amp;amp; rustdoc ?
 rustup- Used to update the latest Rust version. rustc filename.rs - Used to compile rust source code. rustdoc - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as rustup docs
 Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure.</description>
@@ -33,20 +33,20 @@ Project initialization After installing Rust, we should initialize a project usi
     
     <item>
       <title>What makes Rust interesting?</title>
-      <link>/post/2019-08-22-what-makes-rust-attractive/</link>
+      <link>https://dheepakg.github.io/post/2019-08-22-what-makes-rust-attractive/</link>
       <pubDate>Sun, 25 Aug 2019 11:24:27 +0530</pubDate>
       
-      <guid>/post/2019-08-22-what-makes-rust-attractive/</guid>
+      <guid>https://dheepakg.github.io/post/2019-08-22-what-makes-rust-attractive/</guid>
       <description>Podcasts. That&amp;rsquo;s how I got introduced to the Rust language.
 In one of the PythonBytes episode I heard about the PyOxidizer for the first time. Basically, it uses Rust to bundle Python code into an executable code. There is already quite a number of modules to convert code into an executable file. According to Michael Kennedy, the Git repo is so active, that made me to explore what the PyOxidizer is made of.</description>
     </item>
     
     <item>
       <title>Starting with Jekyll</title>
-      <link>/post/2019-05-04-working-with-jekyll/</link>
+      <link>https://dheepakg.github.io/post/2019-05-04-working-with-jekyll/</link>
       <pubDate>Sat, 04 May 2019 22:02:00 +0530</pubDate>
       
-      <guid>/post/2019-05-04-working-with-jekyll/</guid>
+      <guid>https://dheepakg.github.io/post/2019-05-04-working-with-jekyll/</guid>
       <description>It&amp;rsquo;s cool to have a personal website. As a novice, where to start? The cheapest, practical and programmatic option is Github Pages
 Cheapest - Free to use GH Pages. You may not get a dedicated domain, but you&amp;rsquo;ll get a name.github.io
 Practical - You can go for blogger or wordPress for writing a blog post. However, you&amp;rsquo;ll never get to experience the nitty-gritty involved with running an actual website.

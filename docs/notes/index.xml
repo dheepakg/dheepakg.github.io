@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dheepak&#39;s blog</title>
-    <link>/notes/</link>
+    <link>https://dheepakg.github.io/notes/</link>
     <description>Recent content on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 11 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Atomic Habits - Notes</title>
-      <link>/notes/atomic-habits/</link>
+      <link>https://dheepakg.github.io/notes/atomic-habits/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>/notes/atomic-habits/</guid>
+      <guid>https://dheepakg.github.io/notes/atomic-habits/</guid>
       <description>Book Name Author Subject Area Pages     Atomic Habits James Clear Habit building 271            Cover page - Atomic Habits    Notes from each of the chapter
 Introduction How I learnt about Habits
   A habit is a routine or behaviour that is performed regularly - and in many cases, automatically.</description>
@@ -19,10 +19,10 @@ Introduction How I learnt about Habits
     
     <item>
       <title>The Psychology of Money - Notes</title>
-      <link>/notes/psych-money/</link>
+      <link>https://dheepakg.github.io/notes/psych-money/</link>
       <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>/notes/psych-money/</guid>
+      <guid>https://dheepakg.github.io/notes/psych-money/</guid>
       <description>This is about The Psychology of Money by Morgan Housel, a Columnist. This book became a sensation in the #fintwit. Many tweeters recommended the book and I preordered it on Amazon.
         Cover page    The book is crisp - 240 pages grouped into 20 chapters, each having few stories to explain actions behind money decisions.
 Notes from each of the chapter</description>
