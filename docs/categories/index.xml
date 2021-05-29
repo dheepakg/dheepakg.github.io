@@ -5,6 +5,7 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
+<<<<<<< HEAD
     <lastBuildDate>Sat, 29 May 2021 09:00:00 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>sample</title>
@@ -12,6 +13,15 @@
       <pubDate>Sat, 29 May 2021 09:00:00 +0530</pubDate>
       
       <guid>/categories/sample/</guid>
+=======
+    <lastBuildDate>Sat, 29 May 2021 21:00:00 +0530</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How-to</title>
+      <link>/categories/how-to/</link>
+      <pubDate>Sat, 29 May 2021 21:00:00 +0530</pubDate>
+      
+      <guid>/categories/how-to/</guid>
+>>>>>>> 2f581778ee7a32f7f08508b99f815d6b96bdc2c6
       <description></description>
     </item>
     
