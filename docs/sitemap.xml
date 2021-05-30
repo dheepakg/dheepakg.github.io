@@ -3,13 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dheepakg.github.io/</loc>
-    <lastmod>2021-05-29T21:00:00+05:30</lastmod>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url><url>
-    <loc>https://dheepakg.github.io/post/</loc>
-    <lastmod>2021-05-29T21:00:00+05:30</lastmod>
+    <loc>https://dheepakg.github.io/notes/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/book/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/categories/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/common-sense/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/investing/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/self-help/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/notes/important-things/</loc>
+    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/post/</loc>
     <lastmod>2021-05-29T21:00:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/guidance/</loc>
@@ -27,9 +48,6 @@
     <loc>https://dheepakg.github.io/tags/reading/</loc>
     <lastmod>2021-05-29T21:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/tags/</loc>
-    <lastmod>2021-05-29T21:00:00+05:30</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/tags/aws/</loc>
     <lastmod>2021-04-16T09:00:00+05:30</lastmod>
   </url><url>
@@ -45,13 +63,7 @@
     <loc>https://dheepakg.github.io/tags/saa-c02/</loc>
     <lastmod>2021-04-16T09:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/notes/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/notes/atomic-habits/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/book/</loc>
     <lastmod>2021-02-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/habit-building/</loc>

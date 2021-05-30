@@ -17,7 +17,7 @@ In Python, the variables are assigned with the type based on the content.
 string_variable = &amp;#39;some text&amp;#39; int_variable = 33 print(type(string_variable), type(int_variable)) And, these variables are allowed to change in a program.
 In Rust, the variables can either be mutable or immutable. By default, the variables are immutable.
  Mutable - Values are allowed to change Immutable - Values are not allowed to change
- fn main(){letdefault_variable=2;println!(&amp;#34;The value in default_variable is {}&amp;#34;,{default_variable});default_variable=3;//Here, the code will fail.</description>
+ fn main() { let default_variable = 2; println!</description>
     </item>
     
     <item>

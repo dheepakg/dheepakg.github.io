@@ -60,7 +60,7 @@ I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a 
   "headline": "Working with Raspberry Pi files",
   "description" : "Some reference on how to connect to a Raspberry Pi running in the same LAN network.\nI\u0026rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to filter off the ads using Pi-hole1, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file.",
   "inLanguage" : "en",
-  "wordCount":  329 ,
+  "wordCount":  333 ,
   "datePublished" : "2020-04-04T12:40:27",
   "dateModified" : "2020-04-04T12:40:27",
   "image" : "https:\/\/dheepakg.github.io\/",
@@ -125,9 +125,9 @@ I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a 
               <a class="navlinks-parent">Grouping</a>
               <div class="navlinks-children">
                 
-                  <a href="/categories">Categories</a>
+                  <a href="https://dheepakg.github.io/categories">Categories</a>
                 
-                  <a href="/tags">Tags</a>
+                  <a href="https://dheepakg.github.io/tags">Tags</a>
                 
               </div>
             </li>
@@ -135,13 +135,13 @@ I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a 
         
           
             <li>
-              <a title="About" href="/about/">About</a>
+              <a title="About" href="https://dheepakg.github.io/about/">About</a>
             </li>
           
         
           
             <li>
-              <a title="Notes" href="/notes/">Notes</a>
+              <a title="Notes" href="https://dheepakg.github.io/notes/">Notes</a>
             </li>
           
         
@@ -241,7 +241,7 @@ I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a 
     &nbsp;|&nbsp;<i class="fas fa-clock"></i>&nbsp;2&nbsp;minutes
   
   
-    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;329&nbsp;words
+    &nbsp;|&nbsp;<i class="fas fa-book"></i>&nbsp;333&nbsp;words
   
   
     
@@ -267,30 +267,30 @@ I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a 
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
       <article role="main" class="blog-post">
         <p>Some reference on how to connect to a Raspberry Pi running in the same LAN network.</p>
-<p>I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to <a href="https://dheepakg.github.io/diy/2019/06/17/no-more-ad-breaks.html">filter off the ads</a> using Pi-hole<!-- raw HTML omitted --><a href="#f1">1</a><!-- raw HTML omitted -->, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file. the plan is to arrive to some meaningful conclusion of the data.</p>
+<p>I&rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to <a href="https://dheepakg.github.io/diy/2019/06/17/no-more-ad-breaks.html">filter off the ads</a> using Pi-hole<sup id="a1"><a href="#f1">1</a></sup>, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file. the plan is to arrive to some meaningful conclusion of the data.</p>
 <p>The good thing about Pi-hole is its maintenance is literally <em>zero</em>, no need for us to interfere in its operation, barring occasional update. And, with the need of updates, I google the commands to connect to Rpi. Every. Single. Time.</p>
 <p>With practice, the commands gets typed, thanks to muscle memory. However, to get it practiced I gotta use the commands quite often. Googling the commands is an obstacle and discourages me to use CLI to enter into Rpi. Noting down the commands is quite useful for reference, and why not make it decentralised by adding to GitHub. Going a step ahead, lets add to blog. If it works out well, more references can be added to the blog for my reference sake.</p>
 <p><strong>To identify the IP address of Raspberry Pi</strong></p>
-<p>The first one will spit out the IP Address, while the <em>ping</em> gives IP address and the time taken to reach the IP<!-- raw HTML omitted --><a href="#f2">2</a><!-- raw HTML omitted -->.</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">hostname -I
+<p>The first one will spit out the IP Address, while the <em>ping</em> gives IP address and the time taken to reach the IP<sup id="a2"><a href="#f2">2</a></sup>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">hostname -I
 </code></pre></div><p>or</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ping raspberrypi.local
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ping raspberrypi.local
 </code></pre></div><p><strong>To enter into Rpi from another machine on same network</strong></p>
-<p>Use <code>ssh</code> protocol to copy files to and from Rpi<!-- raw HTML omitted --><a href="#f3">3</a><!-- raw HTML omitted -->.</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">ssh pi@hostname_of_rpi_from_above_step
+<p>Use <code>ssh</code> protocol to copy files to and from Rpi<sup id="a3"><a href="#f3">3</a></sup>.</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">ssh pi@hostname_of_rpi_from_above_step
 </code></pre></div><p>Default credentials for Raspberry Pi (with Raspbian OS)
 Username: pi; Password: raspberry</p>
 <p><strong>Copying files from Rpi</strong>
-Use <code>scp</code> protocol to copy files to and from Rpi<!-- raw HTML omitted --><a href="#f4">4</a><!-- raw HTML omitted -->.</p>
+Use <code>scp</code> protocol to copy files to and from Rpi<sup id="a4"><a href="#f4">4</a></sup>.</p>
 <p>Copying file from Rpi</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">scp pi@hostname_of_rpi_from_above_step:pathin_rpi/filename.ext destination_filename.ext
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">scp pi@hostname_of_rpi_from_above_step:pathin_rpi/filename.ext destination_filename.ext
 </code></pre></div><p>Copying file from Rpi</p>
-<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">scp filename.ext pi@1hostname_of_rpi_from_above_step:path_in_rpi/
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">scp filename.ext pi@1hostname_of_rpi_from_above_step:path_in_rpi/
 </code></pre></div><p><strong>References</strong>
-<!-- raw HTML omitted -->1.<!-- raw HTML omitted --> Pi-hole <a href="https://pi-hole.net/">https://pi-hole.net/</a>    <a href="#a1">↩</a></p>
-<p><!-- raw HTML omitted -->2.<!-- raw HTML omitted -->  Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md">docs</a> <a href="#a2">↩</a></p>
-<p><!-- raw HTML omitted -->3.<!-- raw HTML omitted --> Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/README.md">docs on ssh connections</a>  <a href="#a3">↩</a></p>
-<p><!-- raw HTML omitted -->4.<!-- raw HTML omitted --> Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md">docs on scp connections</a>  <a href="#a3">↩</a></p>
+<b id="f1">1.</b> Pi-hole <a href="https://pi-hole.net/">https://pi-hole.net/</a>    <a href="#a1">↩</a></p>
+<p><b id="f2">2.</b>  Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ip-address.md">docs</a> <a href="#a2">↩</a></p>
+<p><b id="f3">3.</b> Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/README.md">docs on ssh connections</a>  <a href="#a3">↩</a></p>
+<p><b id="f4">4.</b> Official Raspberry Pi <a href="https://www.raspberrypi.org/documentation/remote-access/ssh/scp.md">docs on scp connections</a>  <a href="#a3">↩</a></p>
 
 
         
@@ -372,9 +372,9 @@ Use <code>scp</code> protocol to copy files to and from Rpi<!-- raw HTML omitted
                   <ul>
                 
                 
-                    <li><a href="/post/2020-04-04-setting-pytest/">Setting pytest on zsh shell</a></li>
+                    <li><a href="https://dheepakg.github.io/post/2020-04-04-setting-pytest/">Setting pytest on zsh shell</a></li>
                 
-                    <li><a href="/post/2019-06-17-no-more-ad-breaks/">No more Ad breaks - thanks Pi-hole</a></li>
+                    <li><a href="https://dheepakg.github.io/post/2019-06-17-no-more-ad-breaks/">No more Ad breaks - thanks Pi-hole</a></li>
                 
               </ul>
 

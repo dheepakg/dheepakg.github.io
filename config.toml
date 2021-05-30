@@ -1,4 +1,5 @@
 baseurl = "https://dheepakg.github.io/"
+canonifyURLs = "true"
 # baseurl = ""
 DefaultContentLanguage = "en"
 title = "Dheepak's blog"
@@ -7,6 +8,10 @@ theme = "beautifulhugo"
 enableEmoji = true
 publishDir = "docs"
 
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"

@@ -5,7 +5,16 @@
     <link>https://dheepakg.github.io/categories/</link>
     <description>Recent content in Categories on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 29 May 2021 21:00:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 30 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Book</title>
+      <link>https://dheepakg.github.io/categories/book/</link>
+      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://dheepakg.github.io/categories/book/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>How-to</title>
       <link>https://dheepakg.github.io/categories/how-to/</link>
@@ -21,15 +30,6 @@
       <pubDate>Fri, 16 Apr 2021 09:00:00 +0530</pubDate>
       
       <guid>https://dheepakg.github.io/categories/experience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Book</title>
-      <link>https://dheepakg.github.io/categories/book/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/categories/book/</guid>
       <description></description>
     </item>
     
