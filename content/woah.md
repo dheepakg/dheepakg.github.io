@@ -10,10 +10,10 @@
 
 ---
 
-### Razors [#](razors)
+### Razors [#](#razors)
 
 ---
 
-### Effects [#](effects)
+### Effects [#](#effects)
 
 ---
