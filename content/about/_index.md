@@ -18,3 +18,5 @@ I love history. Politically a libertarian, believing state and religion should s
 A DC fan. A Sherlockian. I love stories - podcast, blogs, vlogs, books or documentaries.
 
 This was started to be a personal blog about my opinions. This is hosted in GitHub and built using ~~Jekyll~~ ~~Pelican~~ Hugo. I'm plannig to add my side projects in near future.
+
+While strolling in the WWW, I come across things worth noting down [_woah_](/woah/).
