@@ -9,3 +9,11 @@
 3. Don't worry if your career isn't something you want to do for the rest of your life.
 
 ---
+
+### Razors [#](razors)
+
+---
+
+### Effects [#](effects)
+
+---
