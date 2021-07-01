@@ -1,4 +1,4 @@
-## Something _woah_ things..
+## Some _woah_ things..
 
 ### Stop searching for your passion [#](#stop-passion-searching)
 
