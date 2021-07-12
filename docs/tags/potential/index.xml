@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Potential on Dheepak&#39;s blog</title>
+    <link>https://dheepakg.github.io/tags/potential/</link>
+    <description>Recent content in Potential on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Jul 2021 22:00:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/potential/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power of Open Data</title>
+      <link>https://dheepakg.github.io/post/2021-07-12-power-of-open-data/</link>
+      <pubDate>Mon, 12 Jul 2021 22:00:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2021-07-12-power-of-open-data/</guid>
+      <description>Amidst the second wave of COVID, a data analyst receives a tweet questioning a discrepancy. The data analyst is quite popular in the state for his daily analysis of COVID case count and 15k+ people following him.
+One of the questions was about a blip in the stats provided by authorities. My friend raised the question,
+Is there any false count happening with Coimbatore covid cases!!! There is addition of around 200 cases over night to the active cases in treatment count.</description>
+    </item>
+    
+  </channel>
+</rss>
