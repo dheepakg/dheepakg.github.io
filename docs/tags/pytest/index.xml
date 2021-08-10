@@ -8,10 +8,10 @@
     <lastBuildDate>Sat, 21 Mar 2020 12:40:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/pytest/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting pytest on zsh shell</title>
-      <link>https://dheepakg.github.io/2020/03/setting-pytest-on-zsh-shell/</link>
+      <link>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</link>
       <pubDate>Sat, 21 Mar 2020 12:40:27 +0530</pubDate>
       
-      <guid>https://dheepakg.github.io/2020/03/setting-pytest-on-zsh-shell/</guid>
+      <guid>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</guid>
       <description>https://stackoverflow.com/questions/54044327/get-pytest-autocompletion-in-zshell</description>
     </item>
     
