@@ -42,7 +42,7 @@ delayDisqus = false
 showRelatedPosts = true
 
 [permalinks]
-post = '/:year/:month/:title'
+post = '/post/:year/:month/:title'
 
 [params.comments]
 provider = 'utterances'
