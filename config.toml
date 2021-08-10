@@ -38,8 +38,12 @@ readingTime = true
 wordCount = true
 useHLJS = true
 socialShare = true
-delayDisqus = true
+delayDisqus = false
 showRelatedPosts = true
+
+[params.comments]
+provider = 'utterances'
+
 
 [Author]
 name = "Dheepak"
