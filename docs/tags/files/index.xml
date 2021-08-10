@@ -8,10 +8,10 @@
     <lastBuildDate>Sat, 04 Apr 2020 12:40:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/files/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Working with Raspberry Pi files</title>
-      <link>https://dheepakg.github.io/post/2020-03-21-working-with-rpi-files/</link>
+      <link>https://dheepakg.github.io/2020/04/working-with-raspberry-pi-files/</link>
       <pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate>
       
-      <guid>https://dheepakg.github.io/post/2020-03-21-working-with-rpi-files/</guid>
+      <guid>https://dheepakg.github.io/2020/04/working-with-raspberry-pi-files/</guid>
       <description>Some reference on how to connect to a Raspberry Pi running in the same LAN network.
 I&amp;rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to filter off the ads using Pi-hole1, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file.</description>
     </item>

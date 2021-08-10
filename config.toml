@@ -41,6 +41,9 @@ socialShare = true
 delayDisqus = false
 showRelatedPosts = true
 
+[permalinks]
+post = '/:year/:month/:title'
+
 [params.comments]
 provider = 'utterances'
 
