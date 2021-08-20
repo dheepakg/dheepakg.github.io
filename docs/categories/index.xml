@@ -5,7 +5,16 @@
     <link>https://dheepakg.github.io/categories/</link>
     <description>Recent content in Categories on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Jul 2021 22:00:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 13:26:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programming</title>
+      <link>https://dheepakg.github.io/categories/programming/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Experience</title>
       <link>https://dheepakg.github.io/categories/experience/</link>
@@ -57,15 +66,6 @@
       <pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate>
       
       <guid>https://dheepakg.github.io/categories/hands-on/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>https://dheepakg.github.io/categories/programming/</link>
-      <pubDate>Thu, 29 Aug 2019 11:24:27 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/categories/programming/</guid>
       <description></description>
     </item>
     

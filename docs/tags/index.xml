@@ -5,7 +5,52 @@
     <link>https://dheepakg.github.io/tags/</link>
     <description>Recent content in Tags on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Jul 2021 22:00:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 13:26:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>D3JS</title>
+      <link>https://dheepakg.github.io/tags/d3js/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/tags/d3js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DataViz</title>
+      <link>https://dheepakg.github.io/tags/dataviz/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/tags/dataviz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://dheepakg.github.io/tags/javascript/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://dheepakg.github.io/tags/learning/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://dheepakg.github.io/tags/python/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Administration</title>
       <link>https://dheepakg.github.io/tags/administration/</link>
@@ -561,15 +606,6 @@
       <pubDate>Sat, 21 Mar 2020 12:40:27 +0530</pubDate>
       
       <guid>https://dheepakg.github.io/tags/pytest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://dheepakg.github.io/tags/python/</link>
-      <pubDate>Sat, 21 Mar 2020 12:40:27 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/tags/python/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,17 @@
     <link>https://dheepakg.github.io/post/</link>
     <description>Recent content on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 12 Jul 2021 22:00:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 13:26:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A backend dev&#39;s journey into JS world - Part I</title>
+      <link>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</link>
+      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</guid>
+      <description>I use SQL and Python to earn my bread. Being an ETL developer turned Data Engineer, my work is to fetch data from different sources, cleaning it, and making it consumption ready before storing it in some storage space - database, S3 et al.
+It&amp;rsquo;s amusing to know that someone will be consuming this data and pull insights from it like a magician pulling a rabbit off his hat. The reporting tools were the go-to place to churn these processed data.</description>
+    </item>
+    
     <item>
       <title>Power of Open Data</title>
       <link>https://dheepakg.github.io/post/2021/07/power-of-open-data/</link>
