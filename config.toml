@@ -40,6 +40,8 @@ useHLJS = true
 socialShare = true
 delayDisqus = false
 showRelatedPosts = true
+readmore = true                     # Show "Read more" button in list if true
+
 
 [permalinks]
 post = '/post/:year/:month/:title'
