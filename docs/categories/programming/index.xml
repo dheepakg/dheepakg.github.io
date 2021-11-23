@@ -1,67 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Programming on Dheepak&#39;s blog</title>
-    <link>https://dheepakg.github.io/categories/programming/</link>
-    <description>Recent content in Programming on Dheepak&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 20 Aug 2021 13:26:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A backend dev&#39;s journey into JS world - Part I</title>
-      <link>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</link>
-      <pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</guid>
-      <description>I use SQL and Python to earn my bread. Being an ETL developer turned Data Engineer, my work is to fetch data from different sources, cleaning it, and making it consumption ready before storing it in some storage space - database, S3 et al.
-It&amp;rsquo;s amusing to know that someone will be consuming this data and pull insights from it like a magician pulling a rabbit off his hat. The reporting tools were the go-to place to churn these processed data.</description>
-    </item>
-    
-    <item>
-      <title>Oxidation 2 - Variables, Shadowing</title>
-      <link>https://dheepakg.github.io/post/2019/08/oxidation-2-variables-shadowing/</link>
-      <pubDate>Thu, 29 Aug 2019 11:24:27 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/post/2019/08/oxidation-2-variables-shadowing/</guid>
-      <description>Variables
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Programming on Dheepak's blog</title><link>https://dheepakg.github.io/categories/programming/</link><description>Recent content in Programming on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 20 Aug 2021 13:26:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/programming/index.xml" rel="self" type="application/rss+xml"/><item><title>A backend dev's journey into JS world - Part I</title><link>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</link><pubDate>Fri, 20 Aug 2021 13:26:00 +0530</pubDate><guid>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</guid><description>I use SQL and Python to earn my bread. Being an ETL developer turned Data Engineer, my work is to fetch data from different sources, cleaning it, and making it consumption ready before storing it in some storage space - database, S3 et al.
+It&amp;rsquo;s amusing to know that someone will be consuming this data and pull insights from it like a magician pulling a rabbit off his hat. The reporting tools were the go-to place to churn these processed data.</description></item><item><title>Oxidation 2 - Variables, Shadowing</title><link>https://dheepakg.github.io/post/2019/08/oxidation-2-variables-shadowing/</link><pubDate>Thu, 29 Aug 2019 11:24:27 +0530</pubDate><guid>https://dheepakg.github.io/post/2019/08/oxidation-2-variables-shadowing/</guid><description>Variables
 In Python, the variables are assigned with the type based on the content.
 string_variable = &amp;#39;some text&amp;#39; int_variable = 33 print(type(string_variable), type(int_variable)) And, these variables are allowed to change in a program.
 In Rust, the variables can either be mutable or immutable. By default, the variables are immutable.
- Mutable - Values are allowed to change Immutable - Values are not allowed to change
- fn main() { let default_variable = 2; println!</description>
-    </item>
-    
-    <item>
-      <title>Oxidation 1 - Cargo, Rustdoc</title>
-      <link>https://dheepakg.github.io/post/2019/08/oxidation-1-cargo-rustdoc/</link>
-      <pubDate>Tue, 27 Aug 2019 11:24:27 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/post/2019/08/oxidation-1-cargo-rustdoc/</guid>
-      <description>What is rustup, rustc &amp;amp; rustdoc ?
+Mutable - Values are allowed to change Immutable - Values are not allowed to change
+fn main() { let default_variable = 2; println!</description></item><item><title>Oxidation 1 - Cargo, Rustdoc</title><link>https://dheepakg.github.io/post/2019/08/oxidation-1-cargo-rustdoc/</link><pubDate>Tue, 27 Aug 2019 11:24:27 +0530</pubDate><guid>https://dheepakg.github.io/post/2019/08/oxidation-1-cargo-rustdoc/</guid><description>What is rustup, rustc &amp;amp; rustdoc ?
 rustup- Used to update the latest Rust version. rustc filename.rs - Used to compile rust source code. rustdoc - Rust documentation is generated from this command. This can generate documentation from markdown files. Also, it show the Rustbook opens in browser when called as rustup docs
-Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure.</description>
-    </item>
-    
-    <item>
-      <title>What makes Rust interesting?</title>
-      <link>https://dheepakg.github.io/post/2019/08/what-makes-rust-interesting/</link>
-      <pubDate>Sun, 25 Aug 2019 11:24:27 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/post/2019/08/what-makes-rust-interesting/</guid>
-      <description>Podcasts. That&amp;rsquo;s how I got introduced to the Rust language.
-In one of the PythonBytes episode I heard about the PyOxidizer for the first time. Basically, it uses Rust to bundle Python code into an executable code. There is already quite a number of modules to convert code into an executable file. According to Michael Kennedy, the Git repo is so active, that made me to explore what the PyOxidizer is made of.</description>
-    </item>
-    
-    <item>
-      <title>Starting with Jekyll</title>
-      <link>https://dheepakg.github.io/post/2019/05/starting-with-jekyll/</link>
-      <pubDate>Sat, 04 May 2019 22:02:00 +0530</pubDate>
-      
-      <guid>https://dheepakg.github.io/post/2019/05/starting-with-jekyll/</guid>
-      <description>It&amp;rsquo;s cool to have a personal website. As a novice, where to start? The cheapest, practical and programmatic option is Github Pages
+Project initialization After installing Rust, we should initialize a project using Cargo cargo init project_path - This will create a project folder of below file structure.</description></item><item><title>What makes Rust interesting?</title><link>https://dheepakg.github.io/post/2019/08/what-makes-rust-interesting/</link><pubDate>Sun, 25 Aug 2019 11:24:27 +0530</pubDate><guid>https://dheepakg.github.io/post/2019/08/what-makes-rust-interesting/</guid><description>Podcasts. That&amp;rsquo;s how I got introduced to the Rust language.
+In one of the PythonBytes episode I heard about the PyOxidizer for the first time. Basically, it uses Rust to bundle Python code into an executable code. There is already quite a number of modules to convert code into an executable file. According to Michael Kennedy, the Git repo is so active, that made me to explore what the PyOxidizer is made of.</description></item><item><title>Starting with Jekyll</title><link>https://dheepakg.github.io/post/2019/05/starting-with-jekyll/</link><pubDate>Sat, 04 May 2019 22:02:00 +0530</pubDate><guid>https://dheepakg.github.io/post/2019/05/starting-with-jekyll/</guid><description>It&amp;rsquo;s cool to have a personal website. As a novice, where to start? The cheapest, practical and programmatic option is Github Pages
 Cheapest - Free to use GH Pages. You may not get a dedicated domain, but you&amp;rsquo;ll get a name.github.io
 Practical - You can go for blogger or wordPress for writing a blog post. However, you&amp;rsquo;ll never get to experience the nitty-gritty involved with running an actual website.
-Programmatic - Once you started programming, it will be intriguing to learn something new.</description>
-    </item>
-    
-  </channel>
-</rss>
+Programmatic - Once you started programming, it will be intriguing to learn something new.</description></item></channel></rss>
