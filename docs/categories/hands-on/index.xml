@@ -1,3 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hands-On on Dheepak's blog</title><link>https://dheepakg.github.io/categories/hands-on/</link><description>Recent content in Hands-On on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 04 Apr 2020 12:40:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/hands-on/index.xml" rel="self" type="application/rss+xml"/><item><title>Working with Raspberry Pi files</title><link>https://dheepakg.github.io/post/2020/04/working-with-raspberry-pi-files/</link><pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate><guid>https://dheepakg.github.io/post/2020/04/working-with-raspberry-pi-files/</guid><description>Some reference on how to connect to a Raspberry Pi running in the same LAN network.
-I&amp;rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to filter off the ads using Pi-hole1, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file.</description></item><item><title>Setting pytest on zsh shell</title><link>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</link><pubDate>Sat, 21 Mar 2020 12:40:27 +0530</pubDate><guid>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</guid><description>https://stackoverflow.com/questions/54044327/get-pytest-autocompletion-in-zshell</description></item><item><title>Comparison of various HDFS file formats</title><link>https://dheepakg.github.io/post/2020/02/comparison-of-various-hdfs-file-formats/</link><pubDate>Sun, 23 Feb 2020 13:47:17 +0530</pubDate><guid>https://dheepakg.github.io/post/2020/02/comparison-of-various-hdfs-file-formats/</guid><description>I&amp;rsquo;ve been working with Big data since 2017. As I&amp;rsquo;m from data warehousing background, it was easier for me to understand what&amp;rsquo;s what, and build an analogy between DWH &amp;amp; big data frameworks. However, the various file formats used in HDFS always caught me off guard.
-In DWH, I never considered how the files are stored in DB, it&amp;rsquo;s managed by the database, maybe DBA might know how its done at the backend, as a DB developer it never bothered me.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hands-On on Dheepak&#39;s blog</title>
+    <link>https://dheepakg.github.io/categories/hands-on/</link>
+    <description>Recent content in Hands-On on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Apr 2020 12:40:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/categories/hands-on/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working with Raspberry Pi files</title>
+      <link>https://dheepakg.github.io/post/2020/04/working-with-raspberry-pi-files/</link>
+      <pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2020/04/working-with-raspberry-pi-files/</guid>
+      <description>Some reference on how to connect to a Raspberry Pi running in the same LAN network.
+I&amp;rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to filter off the ads using Pi-hole1, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file.</description>
+    </item>
+    
+    <item>
+      <title>Setting pytest on zsh shell</title>
+      <link>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</link>
+      <pubDate>Sat, 21 Mar 2020 12:40:27 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</guid>
+      <description>https://stackoverflow.com/questions/54044327/get-pytest-autocompletion-in-zshell</description>
+    </item>
+    
+    <item>
+      <title>Comparison of various HDFS file formats</title>
+      <link>https://dheepakg.github.io/post/2020/02/comparison-of-various-hdfs-file-formats/</link>
+      <pubDate>Sun, 23 Feb 2020 13:47:17 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2020/02/comparison-of-various-hdfs-file-formats/</guid>
+      <description>I&amp;rsquo;ve been working with Big data since 2017. As I&amp;rsquo;m from data warehousing background, it was easier for me to understand what&amp;rsquo;s what, and build an analogy between DWH &amp;amp; big data frameworks. However, the various file formats used in HDFS always caught me off guard.
+In DWH, I never considered how the files are stored in DB, it&amp;rsquo;s managed by the database, maybe DBA might know how its done at the backend, as a DB developer it never bothered me.</description>
+    </item>
+    
+  </channel>
+</rss>
