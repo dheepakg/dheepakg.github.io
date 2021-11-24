@@ -3,16 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dheepakg.github.io/</loc>
-    <lastmod>2021-08-20T13:26:00+05:30</lastmod>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://dheepakg.github.io/notes/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/book/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/health/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/non-fiction/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/self-help/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/sleep/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/notes/2021-10-20-why-we-sleep/</loc>
+    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/post/</loc>
     <lastmod>2021-08-20T13:26:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</loc>
-    <lastmod>2021-08-20T13:26:00+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/</loc>
     <lastmod>2021-08-20T13:26:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/d3js/</loc>
@@ -33,9 +57,6 @@
     <loc>https://dheepakg.github.io/tags/python/</loc>
     <lastmod>2021-08-20T13:26:00+05:30</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/tags/</loc>
-    <lastmod>2021-08-20T13:26:00+05:30</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/tags/administration/</loc>
     <lastmod>2021-07-12T22:00:00+05:30</lastmod>
   </url><url>
@@ -54,19 +75,10 @@
     <loc>https://dheepakg.github.io/post/2021/07/power-of-open-data/</loc>
     <lastmod>2021-07-12T22:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/notes/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/book/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/tags/common-sense/</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/investing/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/self-help/</loc>
     <lastmod>2021-05-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/notes/2021-05-30-important-things/</loc>
