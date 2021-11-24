@@ -9,7 +9,7 @@ tags:
   - Self help
   - Sleep
   - Non-fiction
-draft: true
+draft: false
 ---
 
 During an interview in my early days of career HR asked me how I manage day-to-day pressure that I face. I answered that I'll doze off and manage to move on from previous day's not-so-pleasant events. I told this anecdote whenever someone makes fun of my sleepiness. Lo and behold this book shone light on events happening inside the cranium while we sleep, and states that we do able to handle emotions and bad memories through good night's sleep.
@@ -190,4 +190,3 @@ _Matthew Walker's TED talk on sleep_ ⬇ _was a trending, views nearing 7M._
 ## A New Vision for Sleep in the 21<sup>st</sup> Century
 
 60. Accepting that our lack of sleep is a slow form of self-euthanasia.
-
