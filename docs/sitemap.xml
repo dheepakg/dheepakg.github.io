@@ -3,16 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dheepakg.github.io/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://dheepakg.github.io/post/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/ceo/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/indian-origin/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/opinion/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/twitter/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/post/2021/11/yet-another-tech-ceo-of-indian-origin/</loc>
+    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/notes/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/categories/book/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/health/</loc>
@@ -27,14 +48,8 @@
     <loc>https://dheepakg.github.io/tags/sleep/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/tags/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/notes/2021-10-20-why-we-sleep/</loc>
     <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/post/</loc>
-    <lastmod>2021-08-20T13:26:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</loc>
     <lastmod>2021-08-20T13:26:00+05:30</lastmod>
@@ -241,9 +256,6 @@
     <lastmod>2020-08-03T11:47:27+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/lifestyle/</loc>
-    <lastmod>2020-08-03T11:47:27+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/opinion/</loc>
     <lastmod>2020-08-03T11:47:27+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/post/2020/07/one-neednt-be-proud/</loc>
