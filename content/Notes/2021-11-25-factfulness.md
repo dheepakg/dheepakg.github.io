@@ -8,7 +8,7 @@ tags:
   - Self help
   - Non-fiction
   - data-driven
-draft: true
+draft: false
 ---
 
 While browsing the web around data visualization, someone recommended Hans Rosling's TED talk. You must watch the video if you like visualization or you like listening to story. While learning about him, I came across this book Factfulness.
@@ -53,7 +53,7 @@ Our cravings for sugar and fat make obesity one of the largest health problems i
 
 4. Misconceptions disappear only if there is some equally simple but more relevant way of thinking to replace them.
 
-5. How to control Gap Instinct
+5. **How to control Gap Instinct**
    1. Beware of averages - if we could check the spreads we would find they overlap. There is probably no gap at all.
    2. Beware of comparison of extremes - In all groups of countries/people, there are some at top and bottom. The majority is somewhere in between, where the gap is supposed to be.
    3. The view from up here - Looking from above distorts the view.
@@ -79,7 +79,7 @@ Our cravings for sugar and fat make obesity one of the largest health problems i
 
 12. When we hang onto rose-tinted version of history we deprive ourselves and our children of the truth. The evidence about the terrible past is scary, but it is a great resource. It can help us to appreciate what we have today and provide us with hope.
 
-13. To control Negativity instinct
+13. **To control Negativity instinct**
     1. Better and bad - Convince yourselves that things can be both better and bad
     2. Good news in not news - Good news is almost never reported. So, news is almost always bad.
     - On seeing bad news, ask whether equally positive news would have reached you.
@@ -88,18 +88,105 @@ Our cravings for sugar and fat make obesity one of the largest health problems i
 
 ## Chapter 3: The Straight Line Instinct
 
+14. Only proven method for curbing population growth is to eradicate extreme poverty and give people better lives, including education and contrceptives.
+
+15. Recognising that a line will just continue straight and remembering that such lines are rare in reality is part of factfulness
+
+16. **To avoid strainght line instinct**
+    1. Most of trends do not follow straight lines, instead they are S-curce, slides, humps and et al.
+
 ## Chapter 4: The Fear Instinct
+
+17. When we are afraid, we do not see clearly.
+
+18. Critical thinking is always difficult, but it's almost impossible when we are scared. There's no room for facts when our minds are occupied by fear.
+
+19. Fears once helped keep our ancestors alive, today help keep journalists employed.
+
+20. Disasters hit countries on all income levels, but the harm done is very different. With more money comes better preparedness.
+
+21. The fear instinct is strong that it can make people collaborate across the worls, to make greatest progress.
+
+22. Ask yourself..
+    > What kind of evidence could change my mind about vaccination?
+
+    > If the answer is 'no evidence could ever change my mind about vaccination', then you're putting yourself outside the evidence based reality.
+
+
+23. Fear can be useful, but only if it is directed at the right things.
+24. It makes us give our attention to the unlikely dangers that we are most afraid of, and neglect what is actually most risky.
+
+25. **To control fear instinct**
+    1. Fear vs Reality - The world is scarier than it is because of what we hear about is selected - by our own attention filter or by the media
+    2. Risk = Danger x Exposure - The risk something poses to you depends not on how scared it makes us feel, but a combination of - "how dangerous?" and "how much are we exposed?"
+    3. Calm before you carry on - Make few decisions as possible until the panic subsidised
 
 ## Chapter 5: The Size Instinct
 
+
+26. The world cannot be understood without numbers. And it cannot be understood with numbers alone.
+
+27. **To control Size instinct**
+    1. Compare - Always look for comparisons. Ideally, divide by something.
+    2. 80-20 Rule - Look for few largest items and deal with those first
+    3. Divide - Look for rate per person when comparing between coutries or regions
 ## Chapter 6: The Generalization Instinct
+
+28. We automatically categorises and generalises all the time.
+
+29. If we were seeing every item as unique, we may not have a language to describe the world around us.
+
+30. Flaking walls keep away the richer patients and their time consuming demands for costly treatments, allowing hospitals to use their limited resources to treat more people in more cost-effective ways
+
+31. **To control Generalization instinct**
+
+
+    1. Look for difference wihtin a group - Split he groups into smaller chunks
+    2. Look for similarities across the groups
+    3. Look for differences across the groups
+    4. Beware of majority - MAjority just means more than half - 51-49 and 99-1 are not same
+
+    5. Beware of vivid examples - Vivid examples are easier to recall but they might be the exception rather than the rule.
+    6. Assume people are not idiots - When something looks strange, be curious and humble and think, in what way is this a smart solution?
+
+
 
 ## Chapter 7: The Destiny Instinct
 
+32. Nothing is fixed or destined.
+
+33. **To control destiny instinct**
+    1. Keep track of gradual improvements
+    2. Update your knowledge
+    3. Collect examples of cultural changes
 ## Chapter 8: The Single Perspective Instinct
+
+34. Having a single persepective can limit your imagination
+
+35. **To control Sigle Perspective instinct**
+    1. Test your ideas: Have people who disagree with you
+    2. Hammers and nails: For hammer everything looks like a nail. Be ready to acquire more tools, with different functionalities
+    3. Numbers, but not only numbers: Love numbers for what they tell about real lives
+
+
+    4. Beware of simple ideas and simple solutions: History is full of visinaries who used simple utopian visions to justify terrible actions
 
 ## Chapter 9: The Blame Instinct
 
+  36. Blame instinct is an instinct to find a clear, simple reason for why something bad has happened.
+
+
+37.  **To control blame instinct**
+    1. Look for causes, not villains
+    2. Look for systems, not heroes
+
 ## Chapter 10: The Urgency Instinct
 
-## Chapter 11: Factfulness in practice
+  38. When a problem seems urgent the first thing to do is not to cry wolf, but to organise data.
+
+  39.  **To control Urgency instinct**
+        1. Take a breath: Ask for more time and more information
+        2. Insist on data: If something is urgent and important, it should be measured. Only relevant and accurate data is useful
+        3. Beware of fortune-tellers: Any prediction about future is uncertain.
+        4. Be wary of drastic action: Ask what the side effects will be. Ask how the idea has been tested.
+
