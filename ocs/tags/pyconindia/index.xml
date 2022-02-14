@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PyConIndia on Dheepak&#39;s blog</title>
+    <link>https://dheepakg.github.io/tags/pyconindia/</link>
+    <description>Recent content in PyConIndia on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 13 Oct 2019 11:24:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/pyconindia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PyConIndia 2019</title>
+      <link>https://dheepakg.github.io/post/2019/10/pyconindia-2019/</link>
+      <pubDate>Sun, 13 Oct 2019 11:24:27 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2019/10/pyconindia-2019/</guid>
+      <description>My primary source of Python and Python related news was/is Python podcast, since 2016. In 2018, I came to know about Pycon taking place in Cleveland, OH. Dan Bader&amp;rsquo;s vlog on PyCon &amp;lsquo;18 was another pull factor towards the PyCon. Due to the ticket pricing I couldn&amp;rsquo;t make it to it. In H2 of 2018, I returned to India, and was looking forward to attend PyConIndia, which should be affordable.</description>
+    </item>
+    
+  </channel>
+</rss>
