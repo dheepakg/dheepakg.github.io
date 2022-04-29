@@ -25,7 +25,7 @@ menu: main
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky"><a href="https://dheepak.notion.site/Bulls-Bears-and-Other-Beasts-4c8d3bb670194136bb3224b561447e77" target="_blank">  <img src="https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Books/bulls-bears.jpg?raw=true"   width=200>     </a> </td>
+    <td class="tg-0pky"><a href="https://dheepak.notion.site/Bulls-Bears-and-Other-Beasts-4c8d3bb670194136bb3224b561447e77" target="_blank">  <img src="https://github.com/dheepakg/dheepakg.github.io/blob/main/assets/images/Books/bulls-bears.jpeg?raw=true"   width=200>     </a> </td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
