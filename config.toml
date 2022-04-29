@@ -4,7 +4,7 @@ canonifyURLs = "true"
 DefaultContentLanguage = "en"
 title = "Dheepak's blog"
 theme = "beautifulhugo"
-disablePathToLower = true
+# disablePathToLower = true
 
 # themesDir = "../.."
 enableEmoji = true
