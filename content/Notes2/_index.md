@@ -1,9 +1,8 @@
 ---
-menu:
-  main:
-   name: Notes2
-authorbox: false
-sidebar: right
+title: Notes2
+date: 2014-04-09
+sidebar: false
+menu: main
 ---
 
 <style type="text/css">
