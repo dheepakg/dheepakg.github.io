@@ -1,5 +1,5 @@
 ---
-title: notes
+title: Notes
 date: 2022-05-04
 sidebar: false
 menu: main
