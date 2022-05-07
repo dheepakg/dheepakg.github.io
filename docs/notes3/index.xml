@@ -5,11 +5,11 @@
     <link>https://dheepakg.github.io/notes3/</link>
     <description>Recent content on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/notes3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/notes3/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Notes3</title>
+      <title>Key points from the books I read</title>
       <link>https://dheepakg.github.io/notes3/books/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
       <guid>https://dheepakg.github.io/notes3/books/</guid>
       <description>* { box-sizing: border-box; } body { padding: 1rem; } /* Just for the fallback layout */ main { max-width: 500px; margin: 0 auto; } article { margin: 1rem 0; } /* Now lets do a Grid-based layout */ @supports (display: grid) { main { max-width: 10000px; margin: 0; } article { margin: 0; } .reads { display: grid; grid-template-columns: repeat(3, minmax(300px, 1fr)); grid-gap: 1rem; } } .reads { font-family: Avenir, Roboto, Helvetica, san-serif; font-size: 80%; } .</description>

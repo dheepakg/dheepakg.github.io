@@ -5,7 +5,16 @@
     <link>https://dheepakg.github.io/</link>
     <description>Recent content on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 30 Nov 2021 20:06:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Key points from the books I read</title>
+      <link>https://dheepakg.github.io/notes3/books/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://dheepakg.github.io/notes3/books/</guid>
+      <description>* { box-sizing: border-box; } body { padding: 1rem; } /* Just for the fallback layout */ main { max-width: 500px; margin: 0 auto; } article { margin: 1rem 0; } /* Now lets do a Grid-based layout */ @supports (display: grid) { main { max-width: 10000px; margin: 0; } article { margin: 0; } .reads { display: grid; grid-template-columns: repeat(3, minmax(300px, 1fr)); grid-gap: 1rem; } } .reads { font-family: Avenir, Roboto, Helvetica, san-serif; font-size: 80%; } .</description>
+    </item>
+    
     <item>
       <title>Yet another tech CEO of Indian origin</title>
       <link>https://dheepakg.github.io/post/2021/11/yet-another-tech-ceo-of-indian-origin/</link>
@@ -14,25 +23,6 @@
       <guid>https://dheepakg.github.io/post/2021/11/yet-another-tech-ceo-of-indian-origin/</guid>
       <description>From co-founder to CEO, Jack Dorsey was carrying Twitter&amp;rsquo;s identity for sometime now. He is not without controversies. Twitter and Facebook came to prominence on somewhat same time. Yet, Facebook became a cash-rich poster boy among the social media, Twitter lagging behind Facebook, unclear how to monetize the Twitter as a product. As a CEO, he was blamed for being CEO on Square and not concentrating on Twitter.
  + Fun fact: Argawal joins the growing ranks of powerful US tech executives of Indian descent.</description>
-    </item>
-    
-    <item>
-      <title>Factfulness</title>
-      <link>https://dheepakg.github.io/notes/2021-11-25-factfulness/</link>
-      <pubDate>Mon, 25 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/notes/2021-11-25-factfulness/</guid>
-      <description>While browsing the web around data visualization, someone recommended Hans Rosling&amp;rsquo;s TED talk. You must watch the video if you like visualization or you like listening to story. While learning about him, I came across this book Factfulness.
-     Book Name Author Subject Area Pages     Factfulness: Ten reasons we&amp;rsquo;re wrong about the world Hans Rosling Data-based thinking 342      About author Hans Rosling was a Swedish physician, academic, and public speaker.</description>
-    </item>
-    
-    <item>
-      <title>Why We Sleep: Unlocking the Power of Sleep and Dreams</title>
-      <link>https://dheepakg.github.io/notes/2021-10-20-why-we-sleep/</link>
-      <pubDate>Wed, 20 Oct 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/notes/2021-10-20-why-we-sleep/</guid>
-      <description>During an interview in my early days of career HR asked me how I manage day-to-day pressure that I face. I answered that I&amp;rsquo;ll doze off and manage to move on from previous day&amp;rsquo;s not-so-pleasant events. I told this anecdote whenever someone makes fun of my sleepiness. Lo and behold this book shone light on events happening inside the cranium while we sleep, and states that we do able to handle emotions and bad memories through good night&amp;rsquo;s sleep.</description>
     </item>
     
     <item>
@@ -56,16 +46,6 @@ The distance between the decision-makers and us is more than the distance betwee
     </item>
     
     <item>
-      <title>The Most Important Thing: Uncommon Sense for The Thoughtful Investor</title>
-      <link>https://dheepakg.github.io/notes/2021-05-30-important-things/</link>
-      <pubDate>Sun, 30 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/notes/2021-05-30-important-things/</guid>
-      <description>Book Name Author Subject Area Pages     The Most Important Thing: Uncommon Sense for The Thoughtful Investor Howard S. Marks Investment 196    About author Howard Marks is an American investor, associated with Oaktree Capital Management, the largest investor in distressed securities worldwide. His memos are popular among investors community
-Second-level thinking   Successful investing requires thoughtful attention to many separate aspects, all at the same time.</description>
-    </item>
-    
-    <item>
       <title>Longreads with Kindle</title>
       <link>https://dheepakg.github.io/post/2021/05/longreads-with-kindle/</link>
       <pubDate>Sat, 29 May 2021 21:00:00 +0530</pubDate>
@@ -83,28 +63,6 @@ Firstly, it&amp;rsquo;s the only hardware product from Amazon.</description>
       
       <guid>https://dheepakg.github.io/post/2021/04/aws-certified-solution-architect-for-whom-why-and-how/</guid>
       <description>Certifications are a waste of time. It&amp;rsquo;s not unreasonable as I came across dumps (aka recent questions, question banks). Once you memorize the contents of the question bank, you can score cent percent. Memorise answers and recall them in the exam hall, score a pass mark - a common theme in schools and colleges. I went through it as there are no alternatives. But in the post-academic stage of life, I was hesitant to follow the same approach in office.</description>
-    </item>
-    
-    <item>
-      <title>Atomic Habits - Notes</title>
-      <link>https://dheepakg.github.io/notes/2021-02-11-atomic-habits/</link>
-      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/notes/2021-02-11-atomic-habits/</guid>
-      <description>Book Name Author Subject Area Pages     Atomic Habits James Clear Habit building 271            Cover page - Atomic Habits    Notes from each of the chapter
-Introduction How I learnt about Habits
-  A habit is a routine or behaviour that is performed regularly - and in many cases, automatically.</description>
-    </item>
-    
-    <item>
-      <title>The Psychology of Money - Notes</title>
-      <link>https://dheepakg.github.io/notes/2020-11-28-psych-money/</link>
-      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/notes/2020-11-28-psych-money/</guid>
-      <description>This is about The Psychology of Money by Morgan Housel, a Columnist. This book became a sensation in the #fintwit. Many tweeters recommended the book and I preordered it on Amazon.
-        Cover page    The book is crisp - 240 pages grouped into 20 chapters, each having few stories to explain actions behind money decisions.
-Notes from each of the chapter</description>
     </item>
     
     <item>
@@ -514,15 +472,6 @@ Why does it matter? Everything depends on the answer. If it’s Occupation, you 
       <guid>https://dheepakg.github.io/post/2017/05/democracy-a-silver-bullet/</guid>
       <description>I’m a big fan of Democratic government. Went to war, in cyber world, with my friends whenever they say Saudi Arabia/China style of government is better than D-government. I’m pro-democracy because I believe in free will of humans.
 So far, every dictator has ruled the people, crushed the basic rights in the name of religion, communism, socialism et al. We are not animals to be herded by some dictator. On the other end of spectrum, we have democracy.</description>
-    </item>
-    
-    <item>
-      <title>Notes3</title>
-      <link>https://dheepakg.github.io/notes3/books/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://dheepakg.github.io/notes3/books/</guid>
-      <description>* { box-sizing: border-box; } body { padding: 1rem; } /* Just for the fallback layout */ main { max-width: 500px; margin: 0 auto; } article { margin: 1rem 0; } /* Now lets do a Grid-based layout */ @supports (display: grid) { main { max-width: 10000px; margin: 0; } article { margin: 0; } .reads { display: grid; grid-template-columns: repeat(3, minmax(300px, 1fr)); grid-gap: 1rem; } } .reads { font-family: Avenir, Roboto, Helvetica, san-serif; font-size: 80%; } .</description>
     </item>
     
     <item>

@@ -3,8 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dheepakg.github.io/</loc>
-    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://dheepakg.github.io/notes3/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://dheepakg.github.io/notes3/books/</loc>
+    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/post/</loc>
     <lastmod>2021-11-30T20:06:00+05:30</lastmod>
@@ -29,33 +36,6 @@
   </url><url>
     <loc>https://dheepakg.github.io/post/2021/11/yet-another-tech-ceo-of-indian-origin/</loc>
     <lastmod>2021-11-30T20:06:00+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/book/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/data-driven/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes/2021-11-25-factfulness/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/non-fiction/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/self-help/</loc>
-    <lastmod>2021-10-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/health/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/sleep/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes/2021-10-20-why-we-sleep/</loc>
-    <lastmod>2021-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/post/2021/08/a-backend-devs-journey-into-js-world-part-i/</loc>
     <lastmod>2021-08-20T13:26:00+05:30</lastmod>
@@ -96,15 +76,6 @@
     <loc>https://dheepakg.github.io/post/2021/07/power-of-open-data/</loc>
     <lastmod>2021-07-12T22:00:00+05:30</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/tags/common-sense/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/investing/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes/2021-05-30-important-things/</loc>
-    <lastmod>2021-05-30T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://dheepakg.github.io/tags/guidance/</loc>
     <lastmod>2021-05-29T21:00:00+05:30</lastmod>
   </url><url>
@@ -131,27 +102,6 @@
   </url><url>
     <loc>https://dheepakg.github.io/tags/saa-c02/</loc>
     <lastmod>2021-04-16T09:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes/2021-02-11-atomic-habits/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/habit-building/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/personal-improvements/</loc>
-    <lastmod>2021-02-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/mindset/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/money/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/personal-finance/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes/2020-11-28-psych-money/</loc>
-    <lastmod>2020-11-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/blasphemy/</loc>
     <lastmod>2020-11-10T20:07:00+05:30</lastmod>
@@ -510,17 +460,7 @@
     <loc>https://dheepakg.github.io/tags/politics/</loc>
     <lastmod>2017-05-06T22:47:17+05:30</lastmod>
   </url><url>
-    <loc>https://dheepakg.github.io/notes3/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url><url>
     <loc>https://dheepakg.github.io/about/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes2/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/notes3/books/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/credits/</loc>
