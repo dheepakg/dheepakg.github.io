@@ -1,5 +1,5 @@
 ---
-title: Key points from the books I read
+title: Notes
 date: 2022-05-04
 sidebar: false
 menu: main
