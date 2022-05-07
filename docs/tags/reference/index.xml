@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>reference on Dheepak&#39;s blog</title>
+    <link>https://dheepakg.github.io/tags/reference/</link>
+    <description>Recent content in reference on Dheepak&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 04 Apr 2020 12:40:27 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/reference/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Working with Raspberry Pi files</title>
+      <link>https://dheepakg.github.io/post/2020/04/working-with-raspberry-pi-files/</link>
+      <pubDate>Sat, 04 Apr 2020 12:40:27 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2020/04/working-with-raspberry-pi-files/</guid>
+      <description>Some reference on how to connect to a Raspberry Pi running in the same LAN network.
+I&amp;rsquo;ve been using Raspberry Pi running in home, for last 10 months. Until a month ago, the sole purpose of the RPi is to filter off the ads using Pi-hole1, then a speed test module was scheduled to run on it. By the setup, the speedtest-cli runs every 10 mins and fetches internet into csv file.</description>
+    </item>
+    
+    <item>
+      <title>Setting pytest on zsh shell</title>
+      <link>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</link>
+      <pubDate>Sat, 21 Mar 2020 12:40:27 +0530</pubDate>
+      
+      <guid>https://dheepakg.github.io/post/2020/03/setting-pytest-on-zsh-shell/</guid>
+      <description>https://stackoverflow.com/questions/54044327/get-pytest-autocompletion-in-zshell</description>
+    </item>
+    
+  </channel>
+</rss>
