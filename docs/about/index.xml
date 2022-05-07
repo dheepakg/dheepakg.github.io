@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Dheepak&#39;s blog</title>
+    <title>Dheepak&#39;s blog</title>
     <link>https://dheepakg.github.io/about/</link>
-    <description>Recent content in About on Dheepak&#39;s blog</description>
+    <description>Recent content on Dheepak&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dheepakg.github.io/about/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dheepakg.github.io/about/about/</guid>
+      <description>Hey there!
+I am Dheepak. I am a self-taught developer and I have been programming since 2014. I write SQL for food and Python for fun. Outside of work, I am a confused bloke. In terms of food, I love dosa, and Blackcurrant (yea, it tastes like cough syrup) flavored ice cream. I tweet a lot.
+I read books, self-help being the least favorite. Have a peek into my shelf or my Pocket recommendations.</description>
+    </item>
+    
   </channel>
 </rss>

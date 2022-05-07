@@ -8,10 +8,10 @@
     <lastBuildDate>Wed, 04 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
-      <link>https://dheepakg.github.io/notes/books/</link>
+      <link>https://dheepakg.github.io/notes3/books/</link>
       <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://dheepakg.github.io/notes/books/</guid>
+      <guid>https://dheepakg.github.io/notes3/books/</guid>
       <description>* { box-sizing: border-box; } body { padding: 1rem; } /* Just for the fallback layout */ main { max-width: 500px; margin: 0 auto; } article { margin: 1rem 0; } /* Now lets do a Grid-based layout */ @supports (display: grid) { main { max-width: 10000px; margin: 0; } article { margin: 0; } .reads { display: grid; grid-template-columns: repeat(3, minmax(300px, 1fr)); grid-gap: 1rem; } } .reads { font-family: Avenir, Roboto, Helvetica, san-serif; font-size: 80%; } .</description>
     </item>
     
@@ -472,6 +472,17 @@ Why does it matter? Everything depends on the answer. If it’s Occupation, you 
       <guid>https://dheepakg.github.io/post/2017/05/democracy-a-silver-bullet/</guid>
       <description>I’m a big fan of Democratic government. Went to war, in cyber world, with my friends whenever they say Saudi Arabia/China style of government is better than D-government. I’m pro-democracy because I believe in free will of humans.
 So far, every dictator has ruled the people, crushed the basic rights in the name of religion, communism, socialism et al. We are not animals to be herded by some dictator. On the other end of spectrum, we have democracy.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://dheepakg.github.io/about/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://dheepakg.github.io/about/about/</guid>
+      <description>Hey there!
+I am Dheepak. I am a self-taught developer and I have been programming since 2014. I write SQL for food and Python for fun. Outside of work, I am a confused bloke. In terms of food, I love dosa, and Blackcurrant (yea, it tastes like cough syrup) flavored ice cream. I tweet a lot.
+I read books, self-help being the least favorite. Have a peek into my shelf or my Pocket recommendations.</description>
     </item>
     
     <item>
