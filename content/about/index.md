@@ -19,3 +19,4 @@ A DC fan. A Sherlockian. I love stories - podcast, blogs, vlogs, books or docume
 
 This was started to be a personal blog about my opinions. This is hosted in GitHub and built using ~~Jekyll~~  Hugo. I'm plannig to add my side projects in near future.
 
+<!-- Thanks -->
