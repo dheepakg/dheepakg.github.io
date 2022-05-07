@@ -11,7 +11,7 @@ I am Dheepak. I am a self-taught developer and I have been programming since 201
 
 I read books, self-help being the least favorite. Have a peek into my [shelf](https://www.goodreads.com/review/list/8815523) or my [Pocket recommendations](https://getpocket.com/@dh0A9g0GdTt9dTX3f0ps447pn3T6d120GO9x88I709a7e1A263925b7dJaNwqg61).
 
-Somehow in '14, got attracted to Python. From then slowly learning the nuts and bolts of Python. Now, I'll say I'm intermediate fluency in Python.
+Then, in '14, got attracted to Python. From then slowly learning the nuts and bolts of Python. Now, I'll say I'm intermediate fluency in Python.
 
 I love history. Politically a libertarian, believing state and religion should stay apart. Trying to be a rebel child, I did thought Communism is a right way to go. Then the reality slapped hard, enrolled into Capitalism.
 
