@@ -3,20 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dheepakg.github.io/</loc>
-    <lastmod>2022-05-04T00:00:00+00:00</lastmod>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://dheepakg.github.io/post/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/case-sesitivity/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/post/2022/05/cross-compatibility-is-key/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/categories/experience/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/github/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/macos/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
+  </url><url>
+    <loc>https://dheepakg.github.io/tags/</loc>
+    <lastmod>2022-05-09T08:50:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/reads/books/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/reads/</loc>
     <lastmod>2022-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/post/</loc>
-    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/</loc>
-    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/ceo/</loc>
     <lastmod>2021-11-30T20:06:00+05:30</lastmod>
@@ -25,9 +43,6 @@
     <lastmod>2021-11-30T20:06:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/categories/opinion/</loc>
-    <lastmod>2021-11-30T20:06:00+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/tags/</loc>
     <lastmod>2021-11-30T20:06:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/twitter/</loc>
@@ -61,9 +76,6 @@
     <lastmod>2021-07-12T22:00:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/data/</loc>
-    <lastmod>2021-07-12T22:00:00+05:30</lastmod>
-  </url><url>
-    <loc>https://dheepakg.github.io/categories/experience/</loc>
     <lastmod>2021-07-12T22:00:00+05:30</lastmod>
   </url><url>
     <loc>https://dheepakg.github.io/tags/openness/</loc>
