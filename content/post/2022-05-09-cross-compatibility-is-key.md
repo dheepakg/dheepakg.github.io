@@ -42,3 +42,6 @@ In the issue discussion there is a (counter argument)[https://github.com/isaacs/
 Whether the Git will be modified or should we be accepting the issue are questions which doesn't have clear answer. But we should write code with the case sensitivity into consideration.
 
 I spent roughly 2 hours in fixing the brken links. Even though I was unaware of Git's behavior I should have used the lower cases instead of camel case in the folder names. And, at the end of the frustration 2 hours I learnt basics matters.
+
+
+Talking of which, even after my kid is able to walk comfortably, without me hand-holding her, she tests the terrain before making the first step. After all I should've followed her while working across linux and macOS.
