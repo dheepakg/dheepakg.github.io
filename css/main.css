@@ -5,7 +5,7 @@ body {
   font-size: 18px;
   color: #404040;
   position: relative;
-  background: #F8EFE6;
+  background: #FFF;
   display: flex;
   flex-flow: column;
   height: 100vh;
@@ -137,8 +137,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #F8EFE6;
-  border-bottom: 1px solid #ffffff;
+  background: #F5F5F5;
+  border-bottom: 1px solid #EAEAEA;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
