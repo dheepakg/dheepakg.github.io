@@ -1,0 +1,187 @@
+---
+title: How much Income Tax Are We Paying?
+subtitle: "Income tax calculation through New Regime"
+date: 2022-05-30 8:30:00 +0530
+slug: []
+categories: ['technical']
+tags: ['Salary','Income tax', 'DataViz']
+draft: false
+---
+
+During the last months of every financial year, there is a tradition, a custom to keep ourselves sane - ranting on tax that we suffered through the year, and any returns we can expect from the taxmen.
+
+In one of the ranting sessions, we had an interesting conversation.
+
+>*How much tax are we paying?*.
+
+What is so interesting?
+
+> The tax must be [either 25% (new regime) or 30% (old regime)](https://cleartax.in/s/income-tax-slabs).
+
+And, we ran into a contrarian view.
+
+> The tax rate cant be the above-mentioned percentage. Because we are not paying 3 lakhs for 10 lakhs of income.
+
+The above line can't simply be ignored, the statement is 100% true. So, if the rate is not 25 or 30%, what's the real rate of income tax?
+
+{{< table_of_contents >}}
+
+
+
+## What is Income Tax?
+
+
+As per Wikipedia, income tax is a tax imposed on individuals or entities (taxpayers) according to their income or profits (commonly called taxable income).  Barring a [few countries](https://www.investopedia.com/articles/personal-finance/100215/5-countries-without-income-taxes.asp), all other countries tax their subject's earnings in the name of Income Tax.
+
+There is no standard way of taxing, it changes across countries. Individuals are taxed either on residential status or territorial status.
+
+
+
+
+## Tax - Indian Context
+
+The modern Indian state follows the residential status of the individuals to calculate Income tax. An Individual's tax slab is based on his taxable income, the slab rate progressively increases per the income.
+
+As like many other modern reforms, the British introduced income tax in the 1800s after the [Great Mutiny of 1857](https://www.britannica.com/event/Indian-Mutiny/).
+
+> Following the Mutiny of 1857, the British Government faced an acute financial crisis. To fill up the treasury, the first Income-tax Act was introduced in February 1860 by James Wilson, who became British-India's first Finance Minister.  - [the Hindu Businessline](https://www.thehindubusinessline.com/todays-paper/tp-others/article290528.ece)
+
+Since then the taxation laws underwent changes through several amendments. In 2020, new tax regime was introduced and now we have 2 systems of tax calculation. An individual has to choose among them.
+
+<!-- ## Tax Calculation - 2 Options -->
+
+
+
+Below is the tax rate comparison between the old and new regime.
+
+<table>
+<thead>
+<tr >
+	<th >New slab rates</th><th >&nbsp;</th><th >Existing slab rates</th><th >&nbsp;</th>
+</tr>
+</thead>
+<tbody>
+<tr >
+	<td >Income from Rs 2.5 lakh to Rs 5 lakh</td><td >5%</td><td >Income from Rs 2.5 lakh to Rs 5 lakh</td><td >5%</td>
+</tr>
+<tr >
+	<td >Income from Rs 5 lakh to Rs 7.5 lakh</td><td>10%</td><td >Income from Rs 5 lakh to Rs 10 lakh</td><td >20%</td>
+</tr>
+<tr >
+	<td >Income from Rs 7.5 lakh to Rs 10 lakh</td><td>15%</td><td >Income above Rs 10 lakh</td><td >30%</td>
+</tr>
+<tr >
+	<td >Income from Rs 10 lakh to Rs 12.5 lakh</td><td>20%</td><td colspan="2" rowspan="3" ></td>
+</tr>
+<tr >
+	<td >Income from Rs 12.5 lakh to Rs 15 lakh</td><td>25%</td>
+</tr>
+<tr >
+	<td >Income above Rs 15 lakh</td><td>30%</td>
+</tr>
+</tbody>
+</table>
+
+<br>
+<br>
+
+
+The difference between the above 2 are the deductions. On choosing old regime, one can submit tax deductables and reduce the taxable income. On the other hand the new regime doesn't accept most of the deductions.
+
+## What are the Complexities in Old Regime?
+> The Hardest Thing in the World to Understand Is Income Taxes - [Albert Einstein](https://quoteinvestigator.com/2011/03/07/einstein-income-taxes)
+
+Justifying the above quote, the tax calculation in the older regime is not simple by any means. There are several deductions, and the limit value changes across the deductions categories. We have HRA, LTA, and [Chapter VI A](https://www.taxmanagementindia.com/visitor/detail_manual.asp?ID=894). Under this, we have several tax-saving schemes - 80C to 80T.
+
+It's complex enough to go you mad if you do not have enough patience to learn and apply them. And, it's tough to come up with a tax projection that's standard for an average tax-payer. For example, at age 30, I may not be able to claim [interest paid for Home loan](https://www.taxmanagementindia.com/visitor/detail_act.asp?ID=37318). However, another person of the same age and the taxable income might be paying interest, and he can benefit from this.
+
+The Old Regime is so customizable that I don't think it is possible to generalize. On the other hand, the new tax regime is simple and lacks the above-mentioned deductions. Instead, the tax slabs are modified. Therefore, are considering only the new tax regime to estimate the tax rate for a taxable income.
+
+
+
+## Tax rate for various incomes
+
+The below chart is built between income amount and income tax rate and amount. Tha income amount is considered till 25LPA. The number is chosen as my assumption that the people earning more than 25LPA would be small minority.
+<!-- # ```{r} -->
+<!-- # getwd() -->
+<!-- # # Gives the post's folder -->
+<!-- # ``` -->
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Include libraries
+library(ggplot2)
+library(ggtext)
+library(plotly)
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+taxation_data <- read.csv("./data/result.csv")
+colnames(taxation_data) <- c('income','taxRate','taxAmount') #Adding headers
+colorSepia <- "#fff1e5"
+```
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+p <- ggplot(data = taxation_data, 
+       aes(x=income/100000, 
+           y=income/100000
+           ,group = 2
+           )
+       ) +
+  geom_line(aes(y=taxRate,
+                text = paste( "Tax Rate: ",taxRate,"%")
+                ), colour= "Brown") +
+  geom_line(aes(y=taxAmount/100000
+                ,text = paste("Tax Amount: ", taxAmount, " INR",
+                              "</br></br>",
+                              "<b>Taxable Income:</b> ", income, " INR")
+                ), colour = "DarkBlue") +
+  scale_y_continuous(
+    
+    # Features of the first axis
+    name = "Tax Amount (lakhs) & Tax Rate (%)",
+    expand = expansion(mult = c(0, .05)), # This decides start of the y axis
+    # Add a second axis and specify its features
+    sec.axis = sec_axis(~.*1, name="Tax Rate (%)")
+  ) + 
+  labs(x="Income (lakhs)" ,
+       y="Income (lakhs)",
+       title = "Income vs Tax Amount & Tax Rate",
+       subtitle = "New tax Regime - Income against tax rate (%)",
+       caption = "Source - Github/dheepakg: data-stories/taxation-rate/chart.r"
+       
+  ) +
+  theme(
+    plot.title = element_text(face = "bold"),  
+    plot.title.position = "panel",
+    axis.line = element_line(colour = "black"),
+    axis.title.y = element_text(color = "Black"),
+    axis.title.y.right = element_text(color = "Brown"),
+    plot.background = element_rect(fill = colorSepia),
+    panel.background = element_rect(fill = colorSepia),
+    panel.grid.minor.x = element_blank(),
+    panel.grid.major.x = element_blank(),
+    plot.caption = element_markdown(),
+    plot.margin = margin(1,1,2,2,"cm"),
+    
+    
+  ) 
+
+ggplotly(p,tooltip = c( "text")) %>% 
+  layout(hovermode = "x") 
+```
+
+
+## Observations
+Every chart tells us a story. Making the chart to tell an interesting story rests with the chart-builder. So, what is the interesting insight/story from the above chart?
+
+
+1. When the taxable income crosses 17LPA, the taxation rate gradually slows down (the distance between red line and blue line widens)
+2. The taxation rate is 17.6% for even for 20LPA of income. We aren't paying 30% above 10 lakhs of income. In group chat we had a contrarian view about taxation. And, that's true.
+
+
+The code used for above visualization is available in [Github](https://github.com/dheepakg/data-stories/tree/main/taxation-rate)
+
+
+~~Update: The [interactive report](https://datastudio.google.com/reporting/e0c00741-a877-4700-8375-840d93ffb0e2) is replaced with a static image.~~
+
