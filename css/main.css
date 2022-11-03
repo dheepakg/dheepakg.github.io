@@ -949,3 +949,18 @@ h4.see-also {
     color: #CC0;
   }
 } */
+
+/* Adding aside configs */
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: #eee;
+  border-style: outset;
+  border-top-style: outset;
+  border-right-style: outset;
+  border-bottom-style: outset;
+  border-left-style: outset;
+}
