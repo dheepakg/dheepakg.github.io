@@ -1,0 +1,36 @@
+---
+title: "Annual Audit - Nov 2022"
+subtitle: "A report on my progress"
+date: 2022-11-01 07:00:00 +0530
+categories:
+  - technical
+tags:
+  - Finance
+  - Skills
+  - Audit
+draft: true
+series: "Semiannual Audit"
+sidebar: true
+outputs:
+  - html
+---
+
+
+<!-- What is the intention/purpose? -->
+
+
+<!-- What is not going to be there? -->
+
+
+<!-- different topics -->
+
+<!-- 1. Investment allocation over the years/quarters
+
+2. How far are we from our target
+
+3. Skills learnt in this year
+
+4. Lessons learnt
+
+5. Parenting  -->
+
