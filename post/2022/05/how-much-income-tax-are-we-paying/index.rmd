@@ -6,6 +6,7 @@ slug: []
 categories: ['technical']
 tags: ['Salary','Income tax', 'DataViz']
 draft: false
+year: 2022
 ---
 
 During the last months of every financial year, there is a tradition, a custom to keep ourselves sane - ranting on tax that we suffered through the year, and any returns we can expect from the taxmen.
@@ -122,8 +123,8 @@ colorSepia <- "#fff1e5"
 ```
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
-p <- ggplot(data = taxation_data, 
-       aes(x=income/100000, 
+p <- ggplot(data = taxation_data,
+       aes(x=income/100000,
            y=income/100000
            ,group = 2
            )
@@ -137,22 +138,22 @@ p <- ggplot(data = taxation_data,
                               "<b>Taxable Income:</b> ", income, " INR")
                 ), colour = "DarkBlue") +
   scale_y_continuous(
-    
+
     # Features of the first axis
     name = "Tax Amount (lakhs) & Tax Rate (%)",
     expand = expansion(mult = c(0, .05)), # This decides start of the y axis
     # Add a second axis and specify its features
     sec.axis = sec_axis(~.*1, name="Tax Rate (%)")
-  ) + 
+  ) +
   labs(x="Income (lakhs)" ,
        y="Income (lakhs)",
        title = "Income vs Tax Amount & Tax Rate",
        subtitle = "New tax Regime - Income against tax rate (%)",
        caption = "Source - Github/dheepakg: data-stories/taxation-rate/chart.r"
-       
+
   ) +
   theme(
-    plot.title = element_text(face = "bold"),  
+    plot.title = element_text(face = "bold"),
     plot.title.position = "panel",
     axis.line = element_line(colour = "black"),
     axis.title.y = element_text(color = "Black"),
@@ -163,12 +164,12 @@ p <- ggplot(data = taxation_data,
     panel.grid.major.x = element_blank(),
     plot.caption = element_markdown(),
     plot.margin = margin(1,1,2,2,"cm"),
-    
-    
-  ) 
 
-ggplotly(p,tooltip = c( "text")) %>% 
-  layout(hovermode = "x") 
+
+  )
+
+ggplotly(p,tooltip = c( "text")) %>%
+  layout(hovermode = "x")
 ```
 
 
