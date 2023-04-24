@@ -20,7 +20,7 @@ graph
   .attr("stroke-width", 3);
 
 d3.json(
-  "https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/main/post/post-061-visual-site-map/details.json"
+  "https://raw.githubusercontent.com/dheepakg/dheepakg.github.io/main/post/2023/04/visualization-post-grouped-by-years-d3/details.json"
 ).then((data) => {
   // Sclaing
   // Defines the year line
