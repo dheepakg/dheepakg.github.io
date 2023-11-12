@@ -22,7 +22,8 @@ graph
 function resultColorPicker(match_result) {
   if (match_result === "lost") {
     // return "#E22a09";
-    return "#e60000";
+    // return "#e60000";
+    return "#D1D6D8";
   } else if (match_result === "") {
     // Not completed
     return "white";
@@ -56,10 +57,8 @@ function semiMatchesPosition(team_match_num) {
 d3.json("cwc23.json").then((data) => {
   const baseLine = graph.selectAll("line").data(data);
   const roundRobinMarker = graph.selectAll("line").data(data);
-  const boundaryLine = graph.selectAll("line").data(data); // Remove this at the end
   const teamName = graph.selectAll("text").data(data);
 
-  const matchResultOval = graph.selectAll("ellipse").data(data);
   const matchResultsquare = graph.selectAll("rect").data(data);
   const tablePosition = graph.selectAll("text").data(data);
   const legendMatchResult = graph.selectAll("rect").data(data);
@@ -89,19 +88,38 @@ d3.json("cwc23.json").then((data) => {
     .attr("width", 20)
     .attr("x", 10)
     .attr("y", 500)
-    .attr("fill", "#e60000")
+    .attr("fill", resultColorPicker("lost"))
     .attr("stroke-width", 1)
     .attr("stroke", "cyan");
 
   legendDesc
     .enter()
     .append("text")
-    .text("Each box indicates a match. Lost match is filled with red")
+    .text("Each box indicates a match. Lost match is in grey")
     .attr("x", 50)
     .attr("y", 515)
     // .attr("font", "lato")
     .attr("font", "Lato")
     .attr("font-size", 15);
+
+  svg
+    .append("text")
+    .attr("x", 40)
+    .attr("y", backGroundHeight - 230)
+    .attr("font-size", 10)
+    .attr("id", "title")
+    .style("fill", "black")
+    .attr("transform", "translate(20,0)")
+    .attr("text-anchor", "middle")
+    .selectAll("tspan")
+    .data("LEAGUE  MATCHES".split(""))
+    .enter()
+    .append("tspan")
+    .attr("x", 0)
+    .attr("dy", "0.8em")
+    .text(function (d) {
+      return d;
+    });
 
   legendDesc
     .enter()
@@ -109,8 +127,9 @@ d3.json("cwc23.json").then((data) => {
     .text("Round 1")
     .attr("x", 20)
     .attr("y", backGroundHeight - 60)
-    .attr("font", "lato")
-    .attr("font-size", 10);
+    // .attr("font", "lato")
+    .attr("font-size", 10)
+    .attr("dy", "0.8em");
 
   console.log();
 
