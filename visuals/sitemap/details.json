@@ -1,8 +1,15 @@
 [
-
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
+    "pub_on": "2023-11-05",
+    "title": "Why Data Visualization",
+    "url": "https://dheepakg.github.io/post/2023/11/why-data-visualization/",
+    "category": "Explanation"
+  },
+  {
+    "year": 2023,
+    "yearly_count": 16,
     "pub_on": "2023-10-26",
     "title": "Cricket World Cup 2023",
     "url": "https://dheepakg.github.io/visuals/cwc2023/",
@@ -10,7 +17,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-09-10",
     "title": "What do you pray for",
     "url": "https://dheepakg.github.io/post/2023/09/what-do-you-pray-for/",
@@ -18,7 +25,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-06-24",
     "title": "Fumbling 145 days long kindle reading streak",
     "url": "https://dheepakg.github.io/post/2023/06/fumbling-145-days-long-kindle-reading-streak/",
@@ -26,7 +33,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-06-03",
     "title": "Visualization: Post grouped by years - D3 - v3",
     "url": "https://dheepakg.github.io/post/2023/06/visualization-post-grouped-by-years-d3-v3/",
@@ -34,7 +41,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-05-18",
     "title": "Visualization: Post grouped by years - D3 - v2",
     "url": "https://dheepakg.github.io/post/2023/05/visualization-post-grouped-by-years-d3-v2/",
@@ -42,7 +49,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-04-24",
     "title": "Visualization: Post grouped by years - D3",
     "url": "https://dheepakg.github.io/post/2023/04/visualization-post-grouped-by-years-d3/",
@@ -50,7 +57,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-04-08",
     "title": "Visualization: Post grouped by years",
     "url": "https://dheepakg.github.io/post/2023/04/visualization-post-grouped-by-years/",
@@ -58,7 +65,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-03-05",
     "title": "Multiple roles of man",
     "url": "https://dheepakg.github.io/post/2023/03/multiple-roles-of-a-man/",
@@ -66,7 +73,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-02-12",
     "title": "API, Configurations & Database operation",
     "url": "https://dheepakg.github.io/post/2023/02/api-configurations-database-operation/",
@@ -74,7 +81,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-02-05",
     "title": "Osmosis IRL",
     "url": "https://dheepakg.github.io/post/2023/02/osmosis-irl/",
@@ -82,7 +89,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-01-29",
     "title": "Project Update - 3",
     "url": "https://dheepakg.github.io/post/2023/01/project-update-3/",
@@ -90,7 +97,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-01-22",
     "title": "Project Update - 2",
     "url": "https://dheepakg.github.io/post/2023/01/project-update-2/",
@@ -98,7 +105,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-01-15",
     "title": "Personal help/maid affordability - a social indicator?",
     "url": "https://dheepakg.github.io/post/2023/01/personal-help/maid-affordability-a-social-indicator/",
@@ -106,7 +113,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-01-08",
     "title": "Are you envious of younger generation?",
     "url": "https://dheepakg.github.io/post/2023/01/are-you-envious-of-younger-generation/",
@@ -114,7 +121,7 @@
   },
   {
     "year": 2023,
-    "yearly_count": 15,
+    "yearly_count": 16,
     "pub_on": "2023-01-01",
     "title": "Project Update - 1",
     "url": "https://dheepakg.github.io/post/2023/01/project-update-1/",
