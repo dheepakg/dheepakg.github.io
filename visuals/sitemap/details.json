@@ -1,7 +1,15 @@
 [
   {
     "year": 2024,
-    "yearly_count": 3,
+    "yearly_count": 4,
+    "pub_on": "2024-02-14",
+    "title": "Tax and Death",
+    "url": "https://dheepakg.github.io/post/2024/02/tax-and-death/",
+    "category": "Opinion"
+  },
+  {
+    "year": 2024,
+    "yearly_count": 4,
     "pub_on": "2024-02-07",
     "title": "Reflection on daily journaling",
     "url": "https://dheepakg.github.io/post/2024/02/reflection-on-daily-journaling/",
@@ -9,7 +17,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 3,
+    "yearly_count": 4,
     "pub_on": "2024-01-06",
     "title": "Index Movement - Visualization",
     "url": "https://dheepakg.github.io/post/2024/01/index-movement-visualization/",
@@ -17,7 +25,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 3,
+    "yearly_count": 4,
     "pub_on": "2024-01-01",
     "title": "How was 2023?",
     "url": "https://dheepakg.github.io/post/2024/01/how-is-2023/",
