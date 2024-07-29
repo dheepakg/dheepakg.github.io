@@ -1,7 +1,15 @@
 [
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
+    "pub_on": "2024-07-16",
+    "title": "Analog Clock",
+    "url": "https://dheepakg.github.io/post/2024/07/analog-clock/",
+    "category": "experience"
+  },
+  {
+    "year": 2024,
+    "yearly_count": 8,
     "pub_on": "2024-05-20",
     "title": "Investing in real estates",
     "url": "https://dheepakg.github.io/post/2024/05/investing-in-real-estates/",
@@ -9,7 +17,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
     "pub_on": "2024-04-19",
     "title": "Learnings from working with external teams",
     "url": "https://dheepakg.github.io/post/2024/04/learnings-from-working-with-external-teams/",
@@ -17,7 +25,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
     "pub_on": "2024-03-17",
     "title": "Reflections on recent changes in work place",
     "url": "https://dheepakg.github.io/post/2024/03/reflections-on-recent-changes-in-work-place/",
@@ -25,7 +33,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
     "pub_on": "2024-02-14",
     "title": "Tax and Death",
     "url": "https://dheepakg.github.io/post/2024/02/tax-and-death/",
@@ -33,7 +41,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
     "pub_on": "2024-02-07",
     "title": "Reflection on daily journaling",
     "url": "https://dheepakg.github.io/post/2024/02/reflection-on-daily-journaling/",
@@ -41,7 +49,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
     "pub_on": "2024-01-06",
     "title": "Index Movement - Visualization",
     "url": "https://dheepakg.github.io/post/2024/01/index-movement-visualization/",
@@ -49,7 +57,7 @@
   },
   {
     "year": 2024,
-    "yearly_count": 7,
+    "yearly_count": 8,
     "pub_on": "2024-01-01",
     "title": "How was 2023?",
     "url": "https://dheepakg.github.io/post/2024/01/how-is-2023/",
