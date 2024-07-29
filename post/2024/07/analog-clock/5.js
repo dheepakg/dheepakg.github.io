@@ -39,10 +39,10 @@ async function seconds_arm_in_clock() {
         // secs = 0;
 
 
-        var x_secs = center.x1 + (radius ) * Math.cos(2* Math.PI * ( i) / no_of_lines);
+        var x_secs = center.x1 + (radius) * Math.cos(2* Math.PI * ( i) / no_of_lines);
 
         var y_secs = center.x1 + (radius) * Math.sin(2*  Math.PI * ( i) / no_of_lines);
-
+        d3.select(".secs_arm").remove();
         await sleep(1000);
 
         d3.select("." + "time_display").remove();
@@ -57,10 +57,10 @@ async function seconds_arm_in_clock() {
                         +  String(d.getSeconds()).padStart(2,'0');
                     })
             .attr("class", "time_display")
-            .attr("fill", '#DA9100');
+            .attr("fill", 'blue');
 
         // To remove the radius from prev position
-        d3.select(".secs_arm").remove();
+
 
 
 
