@@ -54,14 +54,11 @@ svg.append('circle')
     .attr('stroke', 'black')
     .attr('fill', 'blue')
 
-function sleep(ms) {
+function sleep1(ms) {
     return new Promise(resolve => setTimeout(resolve, ms));
 }
 
 var date = new Date();
-
-
-
 
 async function arm_in_the_clockface(arm_is_for,sleep_timer, time_uom, arm_color, arm_length=1 ) {
     let offset = 0;
@@ -111,7 +108,7 @@ async function arm_in_the_clockface(arm_is_for,sleep_timer, time_uom, arm_color,
             .attr("class", arm_is_for + "_arm1")
             .attr('opacity', 0.8)
 
-        await sleep( sleep_timer);
+        await sleep1( sleep_timer);
     }
 
 }
