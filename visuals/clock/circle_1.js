@@ -86,8 +86,8 @@ async function arm_in_the_clockface(arm_is_for,sleep_timer, time_uom, arm_color,
         var x2_calc = center.x1 + (radius * arm_length) * Math.cos(2* Math.PI * (angle_in_radians + 0 )+ mins_offset );
         var y2_calc = center.x1 + (radius * arm_length) * Math.sin(2* Math.PI * (angle_in_radians + 0 )+ mins_offset );
 
-        d3.select("." + arm_is_for + "_arm").remove();
-        d3.select("." + "time_display").remove();
+        d3.select("." + arm_is_for + "_arm1").remove();
+        d3.select("." + "time_display1").remove();
 
         svg.append('text')
             .attr('x', 275)
@@ -98,7 +98,7 @@ async function arm_in_the_clockface(arm_is_for,sleep_timer, time_uom, arm_color,
                         +  String(d.getMinutes()).padStart(2,'0') + ':'
                         +  String(d.getSeconds()).padStart(2,'0');
                     })
-            .attr("class", "time_display")
+            .attr("class", "time_display1")
             .attr("fill", '#DA9100');
 
         svg.append('line')
@@ -108,7 +108,7 @@ async function arm_in_the_clockface(arm_is_for,sleep_timer, time_uom, arm_color,
             .attr('y2', y2_calc )
             .attr('stroke', arm_color)
             .attr('stroke-width',3)
-            .attr("class", arm_is_for + "_arm")
+            .attr("class", arm_is_for + "_arm1")
             .attr('opacity', 0.8)
 
         await sleep( sleep_timer);
