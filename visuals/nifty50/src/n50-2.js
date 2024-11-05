@@ -36,13 +36,15 @@ d3.csv('./data/nifty_50_2023.csv').then((data) => {
         .attr('font-size',15)
         .attr('font-family','monospace');
 
-    // Y Axis - Days
-    svg.append('text')
-        .text(cnt)
-        .attr('x', 10)
-        .attr('y', 75 + (row * 22) )
-        .attr('font-size',15)
-        .attr('font-family', 'monospace')
+    // // Y Axis - Days
+    // svg.append('text')
+    //     .text(cnt)
+    //     .attr('x', 10)
+    //     .attr('y', 75 + (row * 22) )
+    //     .attr('font-size',15)
+    //     .attr('font-family', 'monospace');
+    //     // .style("text-anchor","end");
+
 
     if (ENABLE_CHART) {
     // Rectangles with colored
@@ -84,7 +86,7 @@ d3.csv('./data/nifty_50_2023.csv').then((data) => {
 
 d3.csv('./data/nifty_50_2022.csv').then((data) => {
 
-for (let row =0; row < data.length; row++){
+    for (let row =0; row < data.length; row++){
 
     // console.log(data[row])
 
@@ -96,20 +98,21 @@ for (let row =0; row < data.length; row++){
     let change = parseFloat( data[row]['daily_change_perc'] );
 
    // Header - years
-        svg.append('text')
+    svg.append('text')
         .text(year)
         .attr('x', 5 + (year - 2019) * 55)
         .attr('y', 20)
         .attr('font-size',15)
         .attr('font-family','monospace');
 
-    // Y Axis - Days
-    svg.append('text')
-        .text(cnt)
-        .attr('x', 10)
-        .attr('y', 75 + (row * 22) )
-        .attr('font-size',15)
-        .attr('font-family', 'monospace')
+    // // Y Axis - Days
+    // svg.append('text')
+    //     .text(cnt)
+    //     .attr('x', 10)
+    //     .attr('y', 75 + (row * 22) )
+    //     .attr('font-size',15)
+    //     .attr('font-family', 'monospace');
+    //     // .style("text-anchor","end");
 
     if (ENABLE_CHART) {
     // Rectangles with colored
@@ -170,13 +173,14 @@ for (let row =0; row < data.length; row++){
         .attr('font-size',15)
         .attr('font-family','monospace');
 
-    // Y Axis - Days
-    svg.append('text')
-        .text(cnt)
-        .attr('x', 10)
-        .attr('y', 75 + (row * 22) )
-        .attr('font-size',15)
-        .attr('font-family', 'monospace')
+    // // Y Axis - Days
+    // svg.append('text')
+    //     .text(cnt)
+    //     .attr('x', 10)
+    //     .attr('y', 75 + (row * 22) )
+    //     .attr('font-size',15)
+    //     .attr('font-family', 'monospace');
+    //     // .style("text-anchor","end");;
 
     if (ENABLE_CHART) {
     // Rectangles with colored
@@ -243,7 +247,8 @@ for (let row =0; row < data.length; row++){
         .attr('x', 10)
         .attr('y', 75 + (row * 22) )
         .attr('font-size',15)
-        .attr('font-family', 'monospace')
+        .attr('font-family', 'monospace');
+        // .style("text-anchor","begin");
 
     if (ENABLE_CHART) {
     // Rectangles with colored
@@ -259,7 +264,7 @@ for (let row =0; row < data.length; row++){
         .on("mouseover", function (event, d) {
             d3.select(this).attr('stroke', 'black').attr('stroke-width', 3);
             tip.style("opacity", 1)
-                .style("left", 800 + 250 + "px")
+                .style("left", 300 + 250 + "px")
                 .style("top", event.pageY-20  + "px")
                 .html(
                         "<b>Day </b>    &nbsp;&nbsp;&nbsp;&nbsp;    : "  + data[row]['day_count'] +
