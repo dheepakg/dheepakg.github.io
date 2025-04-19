@@ -1,10 +1,18 @@
 [
   {
     "year": 2025,
-    "yearly_count": 1,
+    "yearly_count": 2,
     "pub_on": "2025-04-14",
     "title": "3 Years of Data, Deadlines and Growth",
     "url": "https://dheepakg.github.io/post/2025/04/3-years-of-data-deadlines-and-growth/",
+    "category": "Review"
+  },
+  {
+    "year": 2025,
+    "yearly_count": 2,
+    "pub_on": "2025-03-22",
+    "title": "IPL: Ways to see beyond Scoreboard",
+    "url": "https://dheepakg.github.io/post/2025/03/this-is-ipl-season/",
     "category": "Review"
   },
   {
