@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<style>
+    .tooltip {
+    position: absolute;
+    font-family: monospace;
+    pointer-events: none;
+    background: silver;
+    color: black;
+    /* width: 400px; */
+    text-align: left;
+    border-radius: 6px;
+    padding: 5px 5px;
+    left: 50%;
+    margin-left: -60px;
+    z-index: 1;
+}
+
+    .tooltip::after {
+    content: "";
+    position: relative;
+    top: 100%;
+    /* left: 0; */
+    margin-left: -5px;
+    border-width: 8px;
+    border-style: solid;
+    border-color: transparent transparent transparent transparent;
+}
+
+h1 {text-align: center;}
+
+
+</style>
+
+<body>
+    <h1>Visual walk through — IPL '25</h1>
+
+
+    <div class="canvas"></div>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="./src/V0.10-over-vistory-marker.js"></script>
+
+</body>
+</html>
+
+
+<!-- Attributes:
+    Flag: https://www.flaticon.com/free-icon/flag_2107994?term=flag&page=2&position=72&origin=tag&related_id=2107994
+    Match: Cricsheet
+    Data Processing: Google Colab
+-->
