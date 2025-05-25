@@ -65,7 +65,7 @@ function showWinner(x_coordinate, y_coordinate){
             .attr('y', y_coordinate)
             .attr('width', 15)
             .attr('height', 20)
-            .attr("xlink:href", "../medal.png");
+            .attr("xlink:href", "./medal.png");
 }
 
 
