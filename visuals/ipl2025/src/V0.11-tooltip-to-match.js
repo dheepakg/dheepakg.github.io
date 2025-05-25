@@ -65,7 +65,7 @@ function showWinner(x_coordinate, y_coordinate){
             .attr('y', y_coordinate)
             .attr('width', 15)
             .attr('height', 20)
-            .attr("xlink:href", "./medal.png");
+            .attr("xlink:href", "medal.png");
 }
 
 
@@ -232,7 +232,10 @@ d3.json("./data/result.json").then((data) => {
 
 
         // Box: Match
-        graph.append("rect")
+        graph.append("a")
+        .attr("xlink:href", data[+match+1]['match_url'])
+        .attr("target", "_blank")
+        .append("rect")
             .attr('x', dimensions.match_rect.x)
             .attr('y', dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height))
             .attr('width',dimensions.match_rect.width)
