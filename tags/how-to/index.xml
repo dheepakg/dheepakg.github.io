@@ -1,3 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>How-to on Dheepak's blog</title><link>https://dheepakg.github.io/tags/how-to/</link><description>Recent content in How-to on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml"/><item><title>Analog Clock</title><link>https://dheepakg.github.io/post/2024/07/analog-clock/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2024/07/analog-clock/</guid><description>First we started with a circle. The dial is composed of a bigger circle and a smaller one - a center point.
-With the dial is in place, next step is to add arms of the clock. The end result should have 3 arms - depicting hours, minutes and seconds. To have quicker feedback we started with seconds arm.
-Drawing the radius solves the initial position of seconds arm.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags/How-To on Dheepak's blog</title><link>https://dheepakg.github.io/tags/how-to/</link><description>Recent content in Tags/How-To on Dheepak's blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 28 May 2025 23:06:22 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml"/><item><title>Analog Clock</title><link>https://dheepakg.github.io/post/2024/07/analog-clock/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2024/07/analog-clock/</guid><description>&lt;p>First we started with a circle. The dial is composed of a bigger circle and a smaller one - a center point.&lt;/p>
+&lt;body>
+ &lt;div class="one">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="./1.js">&lt;/script>
+&lt;/body>
+&lt;p>With the dial is in place, next step is to add arms of the clock. The end result should have 3 arms - depicting hours, minutes and seconds. To have quicker feedback we started with seconds arm.&lt;/p>
+&lt;body>
+ &lt;div class="two">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="./2.js">&lt;/script>
+&lt;/body>
+&lt;p>Drawing the radius solves the initial position of seconds arm. However, to have the arm goes around the clock, we need to calculate &lt;code>(x,y)&lt;/code> coordinates.&lt;/p></description></item></channel></rss>

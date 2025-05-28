@@ -1,8 +1,73 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>d3 on Dheepak's blog</title><link>https://dheepakg.github.io/tags/d3/</link><description>Recent content in d3 on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 16 Jul 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/d3/index.xml" rel="self" type="application/rss+xml"/><item><title>Analog Clock</title><link>https://dheepakg.github.io/post/2024/07/analog-clock/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2024/07/analog-clock/</guid><description>First we started with a circle. The dial is composed of a bigger circle and a smaller one - a center point.
-With the dial is in place, next step is to add arms of the clock. The end result should have 3 arms - depicting hours, minutes and seconds. To have quicker feedback we started with seconds arm.
-Drawing the radius solves the initial position of seconds arm.</description></item><item><title>Visualization: Post grouped by years - D3 - v3</title><link>https://dheepakg.github.io/post/2023/06/visualization-post-grouped-by-years-d3-v3/</link><pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2023/06/visualization-post-grouped-by-years-d3-v3/</guid><description>This is a follow up to last month&amp;rsquo;s post on same name.
-What&amp;rsquo;s new? Tooltip - Earlier, we were employing the browser&amp;rsquo;s native tooltip. With this update we have customised tooltip with publish date and categories along with the title of post. Transitions - On hovering the circles turns green and tooltip pops up. .tooltip { position: absolute; font-family: monospace; pointer-events: none; background: silver; color: black; /* width: 400px; */ text-align: left; border-radius: 6px; padding: 5px 5px; left: 50%; margin-left: -60px; z-index: 1; } .</description></item><item><title>Visualization: Post grouped by years - D3 - v2</title><link>https://dheepakg.github.io/post/2023/05/visualization-post-grouped-by-years-d3-v2/</link><pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2023/05/visualization-post-grouped-by-years-d3-v2/</guid><description>This is a follow up to last month&amp;rsquo;s post on same name.
-There are few changes made to the chart.
-Today marker: Instead of drawing a full line for the current year, we are allowing the line to grow with passing day. This is a major change. Transition: The trasnition effects are the major change here. Ironically, the amount of code change is minimum - tbh addition of 2 lines is all that&amp;rsquo;s needed.</description></item><item><title>Visualization: Post grouped by years - D3</title><link>https://dheepakg.github.io/post/2023/04/visualization-post-grouped-by-years-d3/</link><pubDate>Mon, 24 Apr 2023 12:22:00 +0530</pubDate><guid>https://dheepakg.github.io/post/2023/04/visualization-post-grouped-by-years-d3/</guid><description>This is an attempt to recreate the earlier created blog post through D3js.
-I&amp;rsquo;m more of backend developer, working predominantly in Python + SQL. But, trying out JS is long time wish, which got fufilled through a Udemy course and some good imspiration.
-The visuals can be improved vastly and can add few more options. But this post is to show the progress. Also, this is an attempt to conform that D3JS output can be hosted on our static site.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>D3 on Dheepak's blog</title><link>https://dheepakg.github.io/tags/d3/</link><description>Recent content in D3 on Dheepak's blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 28 May 2025 23:06:22 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/d3/index.xml" rel="self" type="application/rss+xml"/><item><title>Analog Clock</title><link>https://dheepakg.github.io/post/2024/07/analog-clock/</link><pubDate>Tue, 16 Jul 2024 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2024/07/analog-clock/</guid><description>&lt;p>First we started with a circle. The dial is composed of a bigger circle and a smaller one - a center point.&lt;/p>
+&lt;body>
+ &lt;div class="one">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="./1.js">&lt;/script>
+&lt;/body>
+&lt;p>With the dial is in place, next step is to add arms of the clock. The end result should have 3 arms - depicting hours, minutes and seconds. To have quicker feedback we started with seconds arm.&lt;/p>
+&lt;body>
+ &lt;div class="two">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="./2.js">&lt;/script>
+&lt;/body>
+&lt;p>Drawing the radius solves the initial position of seconds arm. However, to have the arm goes around the clock, we need to calculate &lt;code>(x,y)&lt;/code> coordinates.&lt;/p></description></item><item><title>Visualization: Post grouped by years - D3 - v3</title><link>https://dheepakg.github.io/post/2023/06/visualization-post-grouped-by-years-d3-v3/</link><pubDate>Sat, 03 Jun 2023 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2023/06/visualization-post-grouped-by-years-d3-v3/</guid><description>&lt;p>This is a follow up to last month&amp;rsquo;s post on &lt;a href="../post-062-visual-site-map-1/">same name&lt;/a>.&lt;/p>
+&lt;h3 id="whats-new">What&amp;rsquo;s new?&lt;/h3>
+&lt;ul>
+&lt;li>Tooltip - Earlier, we were employing the browser&amp;rsquo;s native tooltip. With this update we have customised tooltip with publish date and categories along with the title of post.&lt;/li>
+&lt;li>Transitions - On hovering the circles turns green and tooltip pops up.&lt;/li>
+&lt;/ul>
+ &lt;style>
+ .tooltip {
+ position: absolute;
+ font-family: monospace;
+ pointer-events: none;
+ background: silver;
+ color: black;
+ /* width: 400px; */
+ text-align: left;
+ border-radius: 6px;
+ padding: 5px 5px;
+ left: 50%;
+ margin-left: -60px;
+ z-index: 1;
+ }
+
+ .tooltip::after {
+ content: "";
+ position: relative;
+ top: 100%;
+ /* left: 0; */
+ margin-left: -5px;
+ border-width: 8px;
+ border-style: solid;
+ border-color: transparent transparent transparent transparent;
+ }
+ &lt;/style>
+ &lt;body>
+ &lt;div class="canvas">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js">&lt;/script>
+ &lt;script src="index.js">&lt;/script>
+ &lt;/body>
+&lt;p>&lt;strong>Scope for improvement&lt;/strong>&lt;/p></description></item><item><title>Visualization: Post grouped by years - D3 - v2</title><link>https://dheepakg.github.io/post/2023/05/visualization-post-grouped-by-years-d3-v2/</link><pubDate>Thu, 18 May 2023 00:00:00 +0000</pubDate><guid>https://dheepakg.github.io/post/2023/05/visualization-post-grouped-by-years-d3-v2/</guid><description>&lt;p>This is a follow up to last month&amp;rsquo;s post on &lt;a href="../visualization-post-grouped-by-years-d3/">same name&lt;/a>.&lt;/p>
+&lt;p>There are few changes made to the chart.&lt;/p>
+&lt;ol>
+&lt;li>Today marker: Instead of drawing a full line for the current year, we are allowing the line to grow with passing day. This is a major change.&lt;/li>
+&lt;li>Transition: The trasnition effects are the major change here. Ironically, the amount of code change is minimum - tbh addition of 2 lines is all that&amp;rsquo;s needed.&lt;/li>
+&lt;li>Hyperlinks: All the hyperlinks are made colored with dark blue, as this is the &lt;a href="https://www.w3schools.com/html/html_links_colors.asp#:~:text=By%20default%2C%20a%20link%20will,link%20is%20underlined%20and%20red">default color&lt;/a> in all browsers.&lt;/li>
+&lt;li>Tooltip: We have used &lt;code>title&lt;/code> tag to implement the tooltip. This is not a major change or in other words the tooltip can be better. For that we have to go for CSS method, which is still a bit far from my reach.&lt;/li>
+&lt;/ol>
+&lt;body>
+ &lt;div class="canvas">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="index.js">&lt;/script>
+&lt;/body>
+&lt;p>&lt;strong>Scope for improvement&lt;/strong>&lt;/p></description></item><item><title>Visualization: Post grouped by years - D3</title><link>https://dheepakg.github.io/post/2023/04/visualization-post-grouped-by-years-d3/</link><pubDate>Mon, 24 Apr 2023 12:22:00 +0530</pubDate><guid>https://dheepakg.github.io/post/2023/04/visualization-post-grouped-by-years-d3/</guid><description>&lt;p>This is an attempt to recreate the earlier created &lt;a href="https://dheepakg.github.io/content/post/post-060-2023-04-08-posts-by-years.md">blog post&lt;/a> through D3js.&lt;/p>
+&lt;p>I&amp;rsquo;m more of backend developer, working predominantly in Python + SQL. But, trying out JS is long time wish, which got fufilled through a Udemy course and some good imspiration.&lt;/p>
+&lt;body>
+ &lt;div class="canvas">&lt;/div>
+ &lt;script src="https://d3js.org/d3.v7.min.js">&lt;/script>
+ &lt;script src="index.js">&lt;/script>
+&lt;/body>
+&lt;p>The visuals can be improved vastly and can add few more options. But this post is to show the progress.
+Also, this is an attempt to conform that D3JS output can be hosted on our static site.&lt;/p></description></item></channel></rss>

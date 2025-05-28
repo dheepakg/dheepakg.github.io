@@ -1,3 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>automation on Dheepak's blog</title><link>https://dheepakg.github.io/tags/automation/</link><description>Recent content in automation on Dheepak's blog</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 17 May 2022 19:50:00 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Site Deployment Using Github Actions</title><link>https://dheepakg.github.io/post/2022/05/hugo-site-deployment-using-github-actions/</link><pubDate>Tue, 17 May 2022 19:50:00 +0530</pubDate><guid>https://dheepakg.github.io/post/2022/05/hugo-site-deployment-using-github-actions/</guid><description>This is a small write up about setting up GitHub Actions to deploy Hugo site.
-Table of content How I was deploying it earlier? What was the problem there? How does the GitHub Actions helps us here? How I was deploying it earlier? I used to have 2 commits for any changes.
-Changes to the posts HTML documents generated through hugo command What was the problem there?</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags/Automation on Dheepak's blog</title><link>https://dheepakg.github.io/tags/automation/</link><description>Recent content in Tags/Automation on Dheepak's blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 28 May 2025 23:06:22 +0530</lastBuildDate><atom:link href="https://dheepakg.github.io/tags/automation/index.xml" rel="self" type="application/rss+xml"/><item><title>Hugo Site Deployment Using Github Actions</title><link>https://dheepakg.github.io/post/2022/05/hugo-site-deployment-using-github-actions/</link><pubDate>Tue, 17 May 2022 19:50:00 +0530</pubDate><guid>https://dheepakg.github.io/post/2022/05/hugo-site-deployment-using-github-actions/</guid><description>&lt;p>This is a small write up about setting up GitHub Actions to deploy Hugo site.&lt;/p>
+&lt;div class="toc">
+ &lt;h2>Table of content&lt;/h2>
+ 
+
+ &lt;nav id="TableOfContents">
+ &lt;ul>
+ &lt;li>&lt;a href="#how-i-was-deploying-it-earlier">How I was deploying it earlier?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#what-was-the-problem-there">What was the problem there?&lt;/a>&lt;/li>
+ &lt;li>&lt;a href="#how-does-the-github-actions-helps-us-here">How does the GitHub Actions helps us here?&lt;/a>&lt;/li>
+ &lt;/ul>
+&lt;/nav>
+&lt;/div>
+
+&lt;h2 id="how-i-was-deploying-it-earlier">How I was deploying it earlier?&lt;/h2>
+&lt;p>I used to have 2 commits for any changes.&lt;/p>
+&lt;ol>
+&lt;li>Changes to the posts&lt;/li>
+&lt;li>HTML documents generated through &lt;code>hugo&lt;/code> command&lt;/li>
+&lt;/ol>
+&lt;h2 id="what-was-the-problem-there">What was the problem there?&lt;/h2>
+&lt;p>The major problem is the process involves 2 steps. Sometimes, I used to forget generating HTML docs and the changes never flow into the static site.&lt;/p></description></item></channel></rss>
