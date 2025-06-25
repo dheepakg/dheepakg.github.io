@@ -65,7 +65,7 @@ function showWinner(x_coordinate, y_coordinate){
             .attr('y', y_coordinate)
             .attr('width', 15)
             .attr('height', 20)
-            .attr("xlink:href", "medal.png");
+            .attr("xlink:href", "../medal.png");
 }
 
 
@@ -264,11 +264,11 @@ d3.json("./data/result.json").then((data) => {
 
 
         if (data[+match+1]['team1']['winner'] === true){
-            showWinner(dimensions.match_rect.x+5,
+            showWinner(dimensions.match_rect.x+2,
                 dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2) - 10);
         }
         if (data[+match+1]['team2']['winner'] === true){
-            showWinner(dimensions.match_rect.x+80,
+            showWinner(dimensions.match_rect.x+83,
                 dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2) - 10);
         }
 
@@ -279,7 +279,8 @@ d3.json("./data/result.json").then((data) => {
                 .attr('y', dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2))
                 .attr('text-anchor', 'middle')
                 .attr("font-family", "monospace")
-                .attr("font-size", "10px");
+                .attr("font-size", "10px")
+                .attr("fill", "#916a43");
         }
         else if (+match+1 === 73) {
             graph.append("text")
@@ -288,7 +289,8 @@ d3.json("./data/result.json").then((data) => {
                 .attr('y', dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2))
                 .attr('text-anchor', 'middle')
                 .attr("font-family", "monospace")
-                .attr("font-size", "10px");
+                .attr("font-size", "10px")
+                .attr("fill", "#916a43");
         }
         else if (+match+1 === 72) {
             graph.append("text")
@@ -297,7 +299,8 @@ d3.json("./data/result.json").then((data) => {
                 .attr('y', dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2))
                 .attr('text-anchor', 'middle')
                 .attr("font-family", "monospace")
-                .attr("font-size", "10px");
+                .attr("font-size", "10px")
+                .attr("fill", "#916a43");
         }
         else if (+match+1 === 71) {
             graph.append("text")
@@ -306,7 +309,8 @@ d3.json("./data/result.json").then((data) => {
                 .attr('y', dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2))
                 .attr('text-anchor', 'middle')
                 .attr("font-family", "monospace")
-                .attr("font-size", "10px");
+                .attr("font-size", "10px")
+                .attr("fill", "#916a43");
         }
 
 
