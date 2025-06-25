@@ -13769,5 +13769,1948 @@
                 ]
             }
         ]
+    },
+    "66": {
+        "venue": "Sawai Mansingh Stadium, Jaipur",
+        "result": "DC won by 6 wickets",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-punjab-kings-66th-match-1485779/full-scorecard",
+        "team1": {
+            "name": "PBKS",
+            "winner": false
+        },
+        "team2": {
+            "name": "DC",
+            "winner": true
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Punjab Kings",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 16,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 6,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 8,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 25,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 3,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 22,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 10,
+                        "wkt": 1
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Delhi Capitals",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 11,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 17,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 9,
+                        "wkt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "67": {
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "result": "CSK won by 83 runs",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-chennai-super-kings-67th-match-1473504/full-scorecard",
+        "team1": {
+            "name": "CSK",
+            "winner": true
+        },
+        "team2": {
+            "name": "GT",
+            "winner": false
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Chennai Super Kings",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 28,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 2,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 14,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 13,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 8,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 20,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 9,
+                        "wkt": 1
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Gujarat Titans",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 2,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 1,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 1,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 2,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 3,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 3,
+                        "wkt": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "68": {
+        "venue": "Arun Jaitley Stadium, Delhi",
+        "result": "SRH won by 110 runs",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-sunrisers-hyderabad-68th-match-1473505/full-scorecard",
+        "team1": {
+            "name": "SRH",
+            "winner": true
+        },
+        "team2": {
+            "name": "KKR",
+            "winner": false
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Sunrisers Hyderabad",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 2,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 20,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 19,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 14,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 16,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 20,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 17,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 1,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 17,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 17,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 17,
+                        "wkt": 0
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Kolkata Knight Riders",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 3,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 8,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 2,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 14,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 19,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 21,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 2,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 5,
+                        "wkt": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "69": {
+        "venue": "Sawai Mansingh Stadium, Jaipur",
+        "result": "PBKS won by 7 wickets",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-69th-match-1473506/full-scorecard",
+        "team1": {
+            "name": "MI",
+            "winner": false
+        },
+        "team2": {
+            "name": "PBKS",
+            "winner": true
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Mumbai Indians",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 3,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 13,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 23,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 3,
+                        "wkt": 2
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Punjab Kings",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 0,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 16,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 1,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 16,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 3,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 15,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 7,
+                        "wkt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "70": {
+        "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+        "result": "RCB won by 6 wickets",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-royal-challengers-bengaluru-70th-match-1473507/full-scorecard",
+        "team1": {
+            "name": "RCB",
+            "winner": true
+        },
+        "team2": {
+            "name": "LSG",
+            "winner": false
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Lucknow Super Giants",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 16,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 20,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 13,
+                        "wkt": 1
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Royal Challengers Bengaluru",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 22,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 6,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 14,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 17,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 21,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 21,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 9,
+                        "wkt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "71": {
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+        "result": "RCB won by 8 wickets",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-qualifier-1-1473508/full-scorecard",
+        "team1": {
+            "name": "PBKS",
+            "winner": false
+        },
+        "team2": {
+            "name": "RCB",
+            "winner": true
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Punjab Kings",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 2,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 0,
+                        "wkt": 1
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Royal Challengers Bengaluru",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 0,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 21,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 13,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 14,
+                        "wkt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "72": {
+        "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+        "result": "MI won by 20 runs",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-mumbai-indians-eliminator-1473509/full-scorecard",
+        "team1": {
+            "name": "MI",
+            "winner": true
+        },
+        "team2": {
+            "name": "GT",
+            "winner": false
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Mumbai Indians",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 26,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 3,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 12,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 13,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 8,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 22,
+                        "wkt": 0
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Gujarat Titans",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 21,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 18,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 14,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 12,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 3,
+                        "wkt": 1
+                    }
+                ]
+            }
+        ]
+    },
+    "73": {
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "result": "PBKS won by 5 wickets",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-qualifier-2-1473510/full-scorecard",
+        "team1": {
+            "name": "MI",
+            "winner": false
+        },
+        "team2": {
+            "name": "PBKS",
+            "winner": true
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Mumbai Indians",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 15,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 3,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 11,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 10,
+                        "wkt": 1
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Punjab Kings",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 8,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 20,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 9,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 2,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 17,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 19,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 16,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 26,
+                        "wkt": 0
+                    }
+                ]
+            }
+        ]
+    },
+    "74": {
+        "venue": "Narendra Modi Stadium, Ahmedabad",
+        "result": "RCB won by 6 runs",
+        "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-final-1473511/full-scorecard",
+        "team1": {
+            "name": "RCB",
+            "winner": true
+        },
+        "team2": {
+            "name": "PBKS",
+            "winner": false
+        },
+        "details": [
+            {
+                "innings": 1,
+                "batting_team": "Royal Challengers Bengaluru",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 6,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 6,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 11,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 10,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 6,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 8,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 23,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 14,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 3,
+                        "wkt": 3
+                    }
+                ]
+            },
+            {
+                "innings": 2,
+                "batting_team": "Punjab Kings",
+                "over_by_over": [
+                    {
+                        "over_num": 1,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 2,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 3,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 4,
+                        "total_runs": 4,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 5,
+                        "total_runs": 11,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 6,
+                        "total_runs": 9,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 7,
+                        "total_runs": 3,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 8,
+                        "total_runs": 15,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 9,
+                        "total_runs": 4,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 10,
+                        "total_runs": 7,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 11,
+                        "total_runs": 7,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 12,
+                        "total_runs": 10,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 13,
+                        "total_runs": 3,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 14,
+                        "total_runs": 5,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 15,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 16,
+                        "total_runs": 17,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 17,
+                        "total_runs": 8,
+                        "wkt": 2
+                    },
+                    {
+                        "over_num": 18,
+                        "total_runs": 5,
+                        "wkt": 1
+                    },
+                    {
+                        "over_num": 19,
+                        "total_runs": 13,
+                        "wkt": 0
+                    },
+                    {
+                        "over_num": 20,
+                        "total_runs": 22,
+                        "wkt": 0
+                    }
+                ]
+            }
+        ]
     }
 }
