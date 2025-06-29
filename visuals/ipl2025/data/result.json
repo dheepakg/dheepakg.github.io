@@ -1,5 +1,5 @@
 {
-    "1": {
+    "74": {
         "venue": "Eden Gardens, Kolkata",
         "result": "RCB won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-royal-challengers-bengaluru-1st-match-1473438/match-report",
@@ -211,7 +211,7 @@
             }
         ]
     },
-    "2": {
+    "73": {
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "result": "SRH won by 44 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-rajasthan-royals-2nd-match-1473439/match-report",
@@ -438,7 +438,7 @@
             }
         ]
     },
-    "3": {
+    "72": {
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "result": "CSK won by 4 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-mumbai-indians-3rd-match-1473440/match-report",
@@ -665,7 +665,7 @@
             }
         ]
     },
-    "4": {
+    "71": {
         "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
         "result": "DC won by 1 wicket",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-lucknow-super-giants-4th-match-1473441/match-report",
@@ -892,7 +892,7 @@
             }
         ]
     },
-    "5": {
+    "70": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "PBKS won by 11 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-punjab-kings-5th-match-1473442/match-report",
@@ -1119,7 +1119,7 @@
             }
         ]
     },
-    "6": {
+    "69": {
         "venue": "Barsapara Cricket Stadium, Guwahati",
         "result": "KKR won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-kolkata-knight-riders-6th-match-1473443/match-report",
@@ -1336,7 +1336,7 @@
             }
         ]
     },
-    "7": {
+    "68": {
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "result": "LSG won by 5 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-lucknow-super-giants-7th-match-1473444/match-report",
@@ -1548,7 +1548,7 @@
             }
         ]
     },
-    "8": {
+    "67": {
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "result": "RCB won by 50 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-royal-challengers-bengaluru-8th-match-1473445/match-report",
@@ -1775,7 +1775,7 @@
             }
         ]
     },
-    "9": {
+    "66": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "GT won by 36 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-mumbai-indians-9th-match-1473446/match-report",
@@ -2002,7 +2002,7 @@
             }
         ]
     },
-    "10": {
+    "65": {
         "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
         "result": "DC won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-sunrisers-hyderabad-10th-match-1473447/match-report",
@@ -2204,7 +2204,7 @@
             }
         ]
     },
-    "11": {
+    "64": {
         "venue": "Barsapara Cricket Stadium, Guwahati",
         "result": "RR won by 6 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-chennai-super-kings-11th-match-1473448/match-report",
@@ -2431,7 +2431,7 @@
             }
         ]
     },
-    "12": {
+    "63": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "MI won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-kolkata-knight-riders-12th-match-1473449/match-report",
@@ -2608,7 +2608,7 @@
             }
         ]
     },
-    "13": {
+    "62": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "PBKS won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-punjab-kings-13th-match-1473450/match-report",
@@ -2820,7 +2820,7 @@
             }
         ]
     },
-    "14": {
+    "61": {
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "result": "GT won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-gujarat-titans-14th-match-1473451/match-report",
@@ -3037,7 +3037,7 @@
             }
         ]
     },
-    "15": {
+    "60": {
         "venue": "Eden Gardens, Kolkata",
         "result": "KKR won by 80 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-sunrisers-hyderabad-15th-match-1473452/match-report",
@@ -3249,7 +3249,7 @@
             }
         ]
     },
-    "16": {
+    "59": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "LSG won by 12 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-mumbai-indians-16th-match-1473453/match-report",
@@ -3476,7 +3476,7 @@
             }
         ]
     },
-    "17": {
+    "58": {
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "result": "DC won by 25 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-delhi-capitals-17th-match-1473454/match-report",
@@ -3703,7 +3703,7 @@
             }
         ]
     },
-    "18": {
+    "57": {
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
         "result": "RR won by 50 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-rajasthan-royals-18th-match-1473455/match-report",
@@ -3930,7 +3930,7 @@
             }
         ]
     },
-    "21": {
+    "56": {
         "venue": "Eden Gardens, Kolkata",
         "result": "LSG won by 4 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-lucknow-super-giants-21st-match-1473456/match-report",
@@ -4157,7 +4157,7 @@
             }
         ]
     },
-    "19": {
+    "55": {
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "result": "GT won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-gujarat-titans-19th-match-1473457/match-report",
@@ -4369,7 +4369,7 @@
             }
         ]
     },
-    "20": {
+    "54": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "RCB won by 12 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-royal-challengers-bengaluru-20th-match-1473458/match-report",
@@ -4596,7 +4596,7 @@
             }
         ]
     },
-    "22": {
+    "53": {
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
         "result": "PBKS won by 18 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-chennai-super-kings-22nd-match-1473459/match-report",
@@ -4823,7 +4823,7 @@
             }
         ]
     },
-    "23": {
+    "52": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "GT won by 58 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-rajasthan-royals-23rd-match-1473460/match-report",
@@ -5050,7 +5050,7 @@
             }
         ]
     },
-    "24": {
+    "51": {
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "result": "DC won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-delhi-capitals-24th-match-1473461/match-report",
@@ -5267,7 +5267,7 @@
             }
         ]
     },
-    "25": {
+    "50": {
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "result": "KKR won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-kolkata-knight-riders-25th-match-1473462/match-report",
@@ -5449,7 +5449,7 @@
             }
         ]
     },
-    "26": {
+    "49": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "LSG won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-gujarat-titans-26th-match-1473463/match-report",
@@ -5676,7 +5676,7 @@
             }
         ]
     },
-    "27": {
+    "48": {
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "result": "SRH won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-punjab-kings-27th-match-1473464/match-report",
@@ -5898,7 +5898,7 @@
             }
         ]
     },
-    "28": {
+    "47": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "RCB won by 9 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-royal-challengers-bengaluru-28th-match-1473465/match-report",
@@ -6115,7 +6115,7 @@
             }
         ]
     },
-    "29": {
+    "46": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "MI won by 12 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-mumbai-indians-29th-match-1473466/match-report",
@@ -6337,7 +6337,7 @@
             }
         ]
     },
-    "30": {
+    "45": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "CSK won by 5 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-chennai-super-kings-30th-match-1473467/match-report",
@@ -6564,7 +6564,7 @@
             }
         ]
     },
-    "31": {
+    "44": {
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
         "result": "PBKS won by 16 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-kolkata-knight-riders-31st-match-1473468/match-report",
@@ -6751,7 +6751,7 @@
             }
         ]
     },
-    "32": {
+    "43": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "DC won in Super Over",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-rajasthan-royals-32nd-match-1473469/match-report",
@@ -6978,7 +6978,7 @@
             }
         ]
     },
-    "33": {
+    "42": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "MI won by 4 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-sunrisers-hyderabad-33rd-match-1473470/match-report",
@@ -7200,7 +7200,7 @@
             }
         ]
     },
-    "34": {
+    "41": {
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "result": "PBKS won by 5 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-punjab-kings-34th-match-1473471/match-report",
@@ -7362,7 +7362,7 @@
             }
         ]
     },
-    "35": {
+    "40": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "GT won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-delhi-capitals-35th-match-1473472/match-report",
@@ -7589,7 +7589,7 @@
             }
         ]
     },
-    "36": {
+    "39": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "LSG won by 2 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-lucknow-super-giants-36th-match-1473473/match-report",
@@ -7816,7 +7816,7 @@
             }
         ]
     },
-    "37": {
+    "38": {
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
         "result": "RCB won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-37th-match-1473474/match-report",
@@ -8038,7 +8038,7 @@
             }
         ]
     },
-    "38": {
+    "37": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "MI won by 9 wickets",
         "team2": {
@@ -8245,7 +8245,7 @@
             }
         ]
     },
-    "39": {
+    "36": {
         "venue": "Eden Gardens, Kolkata",
         "result": "GT won by 39 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-gujarat-titans-39th-match-1473476/match-report",
@@ -8472,7 +8472,7 @@
             }
         ]
     },
-    "40": {
+    "35": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "DC won by 8 wickets",
         "team2": {
@@ -8689,7 +8689,7 @@
             }
         ]
     },
-    "41": {
+    "34": {
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "result": "MI won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-mumbai-indians-41st-match-1473478/match-report",
@@ -8896,7 +8896,7 @@
             }
         ]
     },
-    "42": {
+    "33": {
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "result": "RCB won by 11 runs",
         "team2": {
@@ -9123,7 +9123,7 @@
             }
         ]
     },
-    "43": {
+    "32": {
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "result": "SRH won by 5 wickets",
         "team2": {
@@ -9345,7 +9345,7 @@
             }
         ]
     },
-    "44": {
+    "31": {
         "venue": "Eden Gardens, Kolkata",
         "result": "No Result ",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-punjab-kings-44th-match-1473481/match-report",
@@ -9477,7 +9477,7 @@
             }
         ]
     },
-    "45": {
+    "30": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "MI won by 54 runs",
         "team2": {
@@ -9704,7 +9704,7 @@
             }
         ]
     },
-    "46": {
+    "29": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "RCB won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-royal-challengers-bengaluru-46th-match-1473483/match-report",
@@ -9926,7 +9926,7 @@
             }
         ]
     },
-    "47": {
+    "28": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "RR won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/rajasthan-royals-vs-gujarat-titans-47th-match-1473484/match-report",
@@ -10133,7 +10133,7 @@
             }
         ]
     },
-    "48": {
+    "27": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "KKR won by 14 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-kolkata-knight-riders-48th-match-1473485/match-report",
@@ -10360,7 +10360,7 @@
             }
         ]
     },
-    "49": {
+    "26": {
         "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
         "result": "PBKS won by 4 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-punjab-kings-49th-match-1473486/match-report",
@@ -10587,7 +10587,7 @@
             }
         ]
     },
-    "50": {
+    "25": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "MI won by 100 runs",
         "team2": {
@@ -10799,7 +10799,7 @@
             }
         ]
     },
-    "51": {
+    "24": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "GT won by 38 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-sunrisers-hyderabad-51st-match-1473488/match-report",
@@ -11026,7 +11026,7 @@
             }
         ]
     },
-    "52": {
+    "23": {
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "result": "RCB won by 2 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-chennai-super-kings-52nd-match-1473489/match-report",
@@ -11253,7 +11253,7 @@
             }
         ]
     },
-    "53": {
+    "22": {
         "venue": "Eden Gardens, Kolkata",
         "result": "KKR won by 1 run",
         "team2": {
@@ -11480,7 +11480,7 @@
             }
         ]
     },
-    "54": {
+    "21": {
         "venue": "Himachal Pradesh Cricket Association Stadium, Dharamsala",
         "result": "PBKS won by 37 runs",
         "team2": {
@@ -11707,7 +11707,7 @@
             }
         ]
     },
-    "55": {
+    "20": {
         "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
         "result": "No Result",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/sunrisers-hyderabad-vs-delhi-capitals-55th-match-1473492/match-report",
@@ -11732,7 +11732,7 @@
             }
         ]
     },
-    "56": {
+    "19": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "GT won by 3 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-gujarat-titans-56th-match-1473493/match-report",
@@ -11954,7 +11954,7 @@
             }
         ]
     },
-    "57": {
+    "18": {
         "venue": "Eden Gardens, Kolkata",
         "result": "CSK won by 2 wickets",
         "team2": {
@@ -12181,7 +12181,7 @@
             }
         ]
     },
-    "58": {
+    "17": {
         "venue": "M Chinnaswamy Stadium, Bengaluru",
         "result": "No Result",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/royal-challengers-bengaluru-vs-kolkata-knight-riders-58th-match-1473496/match-report",
@@ -12206,7 +12206,7 @@
             }
         ]
     },
-    "59": {
+    "16": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "PBKS won by 10 runs",
         "team2": {
@@ -12433,7 +12433,7 @@
             }
         ]
     },
-    "60": {
+    "15": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "GT won by 10 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-gujarat-titans-60th-match-1473498/match-report",
@@ -12655,7 +12655,7 @@
             }
         ]
     },
-    "61": {
+    "14": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "SRH won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-sunrisers-hyderabad-61st-match-1473499/match-report",
@@ -12877,7 +12877,7 @@
             }
         ]
     },
-    "62": {
+    "13": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "RR won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/chennai-super-kings-vs-rajasthan-royals-62nd-match-1473500/match-report",
@@ -13094,7 +13094,7 @@
             }
         ]
     },
-    "63": {
+    "12": {
         "venue": "Wankhede Stadium, Mumbai",
         "result": "MI won by 59 runs",
         "team2": {
@@ -13316,7 +13316,7 @@
             }
         ]
     },
-    "64": {
+    "11": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "LSG won by 33 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-lucknow-super-giants-64th-match-1473502/match-report",
@@ -13543,7 +13543,7 @@
             }
         ]
     },
-    "65": {
+    "10": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "SRH won by 42 runs",
         "team2": {
@@ -13770,7 +13770,7 @@
             }
         ]
     },
-    "66": {
+    "9": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "DC won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/delhi-capitals-vs-punjab-kings-66th-match-1485779/full-scorecard",
@@ -13997,7 +13997,7 @@
             }
         ]
     },
-    "67": {
+    "8": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "CSK won by 83 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-chennai-super-kings-67th-match-1473504/full-scorecard",
@@ -14219,7 +14219,7 @@
             }
         ]
     },
-    "68": {
+    "7": {
         "venue": "Arun Jaitley Stadium, Delhi",
         "result": "SRH won by 110 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/kolkata-knight-riders-vs-sunrisers-hyderabad-68th-match-1473505/full-scorecard",
@@ -14441,7 +14441,7 @@
             }
         ]
     },
-    "69": {
+    "6": {
         "venue": "Sawai Mansingh Stadium, Jaipur",
         "result": "PBKS won by 7 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-69th-match-1473506/full-scorecard",
@@ -14663,7 +14663,7 @@
             }
         ]
     },
-    "70": {
+    "5": {
         "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
         "result": "RCB won by 6 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/lucknow-super-giants-vs-royal-challengers-bengaluru-70th-match-1473507/full-scorecard",
@@ -14885,7 +14885,7 @@
             }
         ]
     },
-    "71": {
+    "4": {
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
         "result": "RCB won by 8 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-qualifier-1-1473508/full-scorecard",
@@ -15037,7 +15037,7 @@
             }
         ]
     },
-    "72": {
+    "3": {
         "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
         "result": "MI won by 20 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/gujarat-titans-vs-mumbai-indians-eliminator-1473509/full-scorecard",
@@ -15264,7 +15264,7 @@
             }
         ]
     },
-    "73": {
+    "2": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "PBKS won by 5 wickets",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/mumbai-indians-vs-punjab-kings-qualifier-2-1473510/full-scorecard",
@@ -15486,7 +15486,7 @@
             }
         ]
     },
-    "74": {
+    "1": {
         "venue": "Narendra Modi Stadium, Ahmedabad",
         "result": "RCB won by 6 runs",
         "match_url": "https://www.espncricinfo.com/series/ipl-2025-1449924/punjab-kings-vs-royal-challengers-bengaluru-final-1473511/full-scorecard",

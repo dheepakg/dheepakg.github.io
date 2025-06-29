@@ -272,7 +272,7 @@ d3.json("./data/result.json").then((data) => {
                 dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2) - 10);
         }
 
-        if (+match+1 === 74) {
+        if (+match+1 === 1) {
             graph.append("text")
                 .text( "Final")
                 .attr('x', dimensions.match_rect.x + (dimensions.match_rect.width/2))
@@ -282,7 +282,7 @@ d3.json("./data/result.json").then((data) => {
                 .attr("font-size", "10px")
                 .attr("fill", "#916a43");
         }
-        else if (+match+1 === 73) {
+        else if (+match+1 === 2) {
             graph.append("text")
                 .text( "Qualifier 2")
                 .attr('x', dimensions.match_rect.x + (dimensions.match_rect.width/2))
@@ -292,7 +292,7 @@ d3.json("./data/result.json").then((data) => {
                 .attr("font-size", "10px")
                 .attr("fill", "#916a43");
         }
-        else if (+match+1 === 72) {
+        else if (+match+1 === 3) {
             graph.append("text")
                 .text( "Eliminator")
                 .attr('x', dimensions.match_rect.x + (dimensions.match_rect.width/2))
@@ -302,7 +302,7 @@ d3.json("./data/result.json").then((data) => {
                 .attr("font-size", "10px")
                 .attr("fill", "#916a43");
         }
-        else if (+match+1 === 71) {
+        else if (+match+1 === 4) {
             graph.append("text")
                 .text( "Qualifier 1")
                 .attr('x', dimensions.match_rect.x + (dimensions.match_rect.width/2))
@@ -316,7 +316,7 @@ d3.json("./data/result.json").then((data) => {
 
         else {
             graph.append("text")
-                .text( +match+1)
+                .text( 74 - +match)
                 .attr('x', dimensions.match_rect.x + (dimensions.match_rect.width/2))
                 .attr('y', dimensions.match_rect.y + ((+match * 2)+ dimensions.match_rect.offset) + (+match* dimensions.match_rect.height) + (dimensions.match_rect.height/2))
                 .attr('text-anchor', 'middle')
