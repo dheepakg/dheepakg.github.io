@@ -251,7 +251,7 @@ d3.json("./data/result.json").then((data) => {
                     .style("left", event1.pageX  + "px")
                     .style("top", event1.pageY + "px")
                     .html(
-                    "<b>Match:</b> " + (+match+1) +
+                    "<b>Match:</b> " + (74 - +match ) +
                     "</br>" +
                     "<b>" + "Between: " + "</b>" + data[+match+1]['team1']['name'] + " vs " + data[+match+1]['team2']['name'] +
                     "</br>" +
