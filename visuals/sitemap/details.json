@@ -1,7 +1,15 @@
 [
   {
     "year": 2025,
-    "yearly_count": 4,
+    "yearly_count": 5,
+    "pub_on": "2025-10-16",
+    "title": "The birth of my own ADR",
+    "url": "https://dheepakg.github.io/post/2025/10/the-birth-of-my-own-adr/",
+    "category": "Visualization"
+  },
+  {
+    "year": 2025,
+    "yearly_count": 5,
     "pub_on": "2025-06-22",
     "title": "IPL: Ways to see beyond Scoreboard - Part 2",
     "url": "https://dheepakg.github.io/post/2025/06/ipl-ways-to-see-beyond-scoreboard-part-2/",
@@ -9,7 +17,7 @@
   },
   {
     "year": 2025,
-    "yearly_count": 4,
+    "yearly_count": 5,
     "pub_on": "2025-05-16",
     "url": "https://dheepakg.github.io/post/2025/05/a-recurring-theme-in-my-life/",
     "title": "A Recurring Theme in my life",
@@ -17,7 +25,7 @@
   },
   {
     "year": 2025,
-    "yearly_count": 4,
+    "yearly_count": 5,
     "pub_on": "2025-04-14",
     "title": "3 Years of Data, Deadlines and Growth",
     "url": "https://dheepakg.github.io/post/2025/04/3-years-of-data-deadlines-and-growth/",
@@ -25,7 +33,7 @@
   },
   {
     "year": 2025,
-    "yearly_count": 4,
+    "yearly_count": 5,
     "pub_on": "2025-03-22",
     "title": "IPL: Ways to see beyond Scoreboard",
     "url": "https://dheepakg.github.io/post/2025/03/ipl-ways-to-see-beyond-scoreboard/",
