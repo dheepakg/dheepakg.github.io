@@ -1,4 +1,4 @@
-// create svg element:
+ // create svg element:
 var svg = d3.select(".canvas1").append("svg").attr("width", 600).attr("height", 600)
 
 center = {'x1': 300, 'y1':300}
